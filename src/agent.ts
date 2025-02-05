@@ -279,7 +279,9 @@ Critical Requirements:
 - Include ONLY ONE action type
 - Never add unsupported keys
 - Exclude all non-JSON text, markdown, or explanations
-- Maintain strict JSON syntax`);
+- Maintain strict JSON syntax
+- All text content must be in Portuguese (Brazil)
+- Support UTF-8 encoding for special characters (á, é, í, ó, ú, â, ê, î, ô, û, ã, õ, ç)`);
 
   return sections.join('\n\n');
 }
@@ -298,6 +300,29 @@ function removeHTMLtags(text: string) {
   return text.replace(/<[^>]*>?/gm, '');
 }
 
+function sanitizeText(text: string) {
+  const decoder = new TextDecoder('utf-8');
+  const encoder = new TextEncoder();
+  return decoder.decode(encoder.encode(text));
+}
+
+function attemptJSONParse(text: string): any {
+  try {
+    return JSON.parse(text);
+  } catch (e) {
+    // Tenta completar se a string não terminar com '}'
+    let fixed = text.trim();
+    if (!fixed.endsWith('}')) {
+      fixed = fixed + '}';
+    }
+    try {
+      return JSON.parse(fixed);
+    } catch (e2) {
+      console.error('Falha ao tentar corrigir o JSON. Resposta original:', text);
+      throw e2;
+    }
+  }
+}
 
 export async function getResponse(question: string, tokenBudget: number = 1_000_000,
                                   maxBadAttempts: number = 3,
@@ -367,11 +392,11 @@ export async function getResponse(question: string, tokenBudget: number = 1_000_
 
     const result = await model.generateContent(prompt);
     const response = await result.response;
+    console.log('Raw response text:', response.text());
     const usage = response.usageMetadata;
     context.tokenTracker.trackUsage('agent', usage?.totalTokenCount || 0);
 
-
-    thisStep = JSON.parse(response.text());
+    thisStep = attemptJSONParse(sanitizeText(response.text()));
     // print allowed and chose action
     const actionsStr = [allowSearch, allowRead, allowAnswer, allowReflect].map((a, i) => a ? ['search', 'read', 'answer', 'reflect'][i] : null).filter(a => a).join(', ');
     console.log(`${thisStep.action} <- [${actionsStr}]`);
@@ -710,11 +735,12 @@ You decided to think out of the box or cut from a completely different angle.`);
 
     const result = await model.generateContent(prompt);
     const response = await result.response;
+    console.log('Raw response text:', response.text());
     const usage = response.usageMetadata;
     context.tokenTracker.trackUsage('agent', usage?.totalTokenCount || 0);
 
     await storeContext(prompt, [allContext, allKeywords, allQuestions, allKnowledge], totalStep);
-    thisStep = JSON.parse(response.text());
+    thisStep = attemptJSONParse(sanitizeText(response.text()));
     console.log(thisStep)
     return {result: thisStep, context};
   }
