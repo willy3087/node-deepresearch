@@ -1,0 +1,143 @@
+Current date: Wed, 05 Feb 2025 19:32:00 GMT
+
+You are an advanced AI research analyst specializing in multi-step reasoning. Using your training data and prior lessons learned, answer the following question with absolute certainty:
+
+<question>
+Qual a classificaçao tributária do refrigerente no ceará, sao paulo e santa catarina?
+</question>
+
+
+
+You have conducted the following actions:
+<context>
+
+At step 1, you took the **search** action and look for external information for the question: "Qual a classificaçao tributária do refrigerente no ceará, sao paulo e santa catarina?".
+In particular, you tried to search for the following keywords: "classificação tributária refrigerante Ceará, classificação tributária refrigerante São Paulo, classificação tributária refrigerante Santa Catarina".
+You found quite some information and add them to your URL list and **visit** them later when needed. 
+
+
+</context>
+
+
+
+You have successfully gathered some knowledge which might be useful for answering the original question. Here is the knowledge you have gathered so far:
+<knowledge>
+
+
+<knowledge-1>
+<question>
+What do Internet say about classificação tributária refrigerante Ceará São Paulo Santa Catarina?
+</question>
+<answer>
+Secretaria da Fazenda do Estado de Pernambuco :: serviços tributários, consultas e informações on-line.; A Carga Líquida foi criada com o objetivo de simplificar o tratamento tributário nas operações praticadas por contribuintes que exerçam atividades de comércio atacadista e varejista.; Consolida e Regulamenta a legislação do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), e dá outras providências.; Entenda de uma vez por todas o funcionamento da classificação fiscal 2202.10.00 NCM refrigerante, saiba como consultar e qual a importância de usar o código correto para evitar problemas fiscais neste artigo completo. LEIA MAIS.; Divulga os valores relativos à venda a consumidor final de refrigerantes, para efeito de cobrança do ICMS por substituição tributária. O SECRETÁRIO DA FAZENDA DO ESTADO DO CEARÁ, no uso das atribuições legais que lhe confere o inciso III do art.; Informações sobre ICMS e Outros, Nordeste, Ceará; Portaria 213/GSER/18 - Valores ... cálculo com CERVEJA, CHOPP, REFRIGERANTE, ENERGÉTICO e ISOTÔNICO) - (Efeitos a partir de 01/06/2019) Portaria 318/GSER/19 - Fixa valores como base de cálculo do ICMS devido por Substituição Tributária, nas operações internas, de ...; Itens como álcool e cigarro terão o imposto do pecado por serem prejudiciais à saúde; teor alcoólico e quantidade de fumo definirão alíquota; A regulamentação da reforma tributária foi sancionada pelo presidente Luiz Inácio Lula da Silva nesta quinta-feira (16). A proposta prevê a isenção de impostos nos alimentos da cesta básica, a exemplo do arroz, do feijão e das carnes. Por outro lado, e; Alíquotas foram projetadas com base em informações repassadas pelo Ministério da Fazenda, mas ainda não refletem as cobranças exatas do Imposto Seletivo, que só serão definidas futuramente; Com o aumento da tributação de bebidas, contadores se perguntam: &quot;cerveja, água ou refrigerantes são monofásicos?&quot; Vamos tirar as dúvidas!; Altera o Decreto N° 34256/2021, que dispõe sobre o regime e substituição tributária com carga líquida do ICMS nas operações com produtos do vestuário e confecções, na forma disposta na Lei N°14237/2008.; Resta apenas a sanção do presidente Lula (PT), o que deve ocorrer nos próximos dias; Najla Cavalcante ressaltou ainda ... tributária, por meio de uma mudança no relacionamento com o contribuinte. Busca também, continuou ela, promover a justiça fiscal e melhorar o ambiente de negócios no estado do Ceará. “O rating das empresas tem a proposta de dar visibilidade aos contribuintes com alto nível de conformidade e possibilitar que as empresas de classificação mais baixa ...; Aprova o Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS; A Secretaria da Fazenda do Ceará (Sefaz-CE) informa que, conforme determina a Instrução Normativa nº 91/2021, que trata da atualização trimestral dos dados do programa Contribuinte Pai d’Égua, a base de dados será atualizada nesta primeira quinzena de janeiro de 2022.; A alíquota do ICMS no Ceará foi alterada para 20% desde o dia 01.01.2024, conforme estabelecido pela Lei nº 18.305/2023.; Através da Instrução Normativa ... no cálculo do ICMS devido por substituição tributária nas operações com refrigerantes, produzindo efeitos a partir de 23-2-2024. ... O Secretário da Fazenda do Estado do Ceará, no uso das atribuições legais que lhe confere o ...; A Secretaria da Fazenda do Ceará (Sefaz-CE) traz novidades sobre o Programa Contribuinte Pai d’Égua. Está em andamento um projeto piloto que ...; Altera o Protocolo ICMS nº 10/92, que dispõe sobre a substituição tributária nas operações com cerveja, chope, refrigerante e xarope ou extrato concentrado destinado ao preparo de refrigerante em máquina pre-mix ou post-mix. Os Estados do Acre, Alagoas, Amapá, Amazonas, Ceará, Maranhão, ...; Aprova o Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS; Entenda de uma vez por todas o funcionamento da classificação fiscal 2202.10.00 NCM refrigerante, saiba como consultar e qual a importância de usar o código correto para evitar problemas fiscais neste artigo completo. LEIA MAIS.; A regulamentação da reforma tributária proposta pelo governo Lula (PT) inclui o imposto seletivo, também chamado de “imposto do pecado”, para bebidas açucaradas, como refrigerantes, cigarros e bebidas alcoólicas.; Como já foi citado o código NCM refrigerante está na classificação 2202.10.00 – bebidas, líquidos alcoólicos e vinagres.; Você está em: Início &gt; Serviços &gt; Nos Conformes &gt; Classificação de Contribuintes · A Classificação de Contribuintes do ICMS, no âmbito da Lei de Estímulo à Conformidade Tributária, utiliza o conceito da pirâmide de risco para instituir uma nova lógica de atuação da Administração ...; Câmara faz alterações no texto vindo do Senado; relator diz que mudanças reduzem alíquota do IVA em 0,7 ponto percentual; ICMS-SP: Substituição tributária de refrigerantes, fisco acrescenta marcas de bebidas e valores para efeito base de cálculo ... ... Por meio da Portaria CAT nº 58/2017 - DOE SP de 15.07.2017, o Coordenador da Administração Tributária da Secretaria da Fazenda do Estado de São Paulo alterou ...; Isenção tributária da Zona Franca de Manaus beneficia matéria-prima usada na bebibda gaseificada; Secretaria da Fazenda do Estado de Pernambuco :: serviços tributários, consultas e informações on-line.; A expectativa do movimento Reforma Tributária 3S (Saudável, Solidária e Sustentável) é que essa mudança possa ser aprovada.; A regulamentação da reforma tributária foi sancionada pelo presidente Luiz Inácio Lula da Silva nesta quinta-feira (16). A proposta prevê a isenção de impostos nos alimentos da cesta básica, a exemplo do arroz, do feijão e das carnes. Por outro lado, e; ATENÇÃO: não são vendas ao ... Portal SPED/EFD Contribuições, tem como modelo de tributação o Código de Situação Tributária – CST 06 (Alíquota Zero) para:...; Tecnologia Watson na plataforma Busca.Legal para a área tributária Uso de computação cognitiva para revolucionar a área fiscal Você já conhece o Watson.; ICMS  Obrigações acessórias  Operações de fornecimento de alimentação  CFOP. I. Para fins da legislação tributária paulista, o preparo e fornecimento de alimentação é considerado industrialização na modalidade transformação, operação enquadrada no CFOP 5.101 (venda ...; A fábrica produz o Guaraná Paulistinha, em Birigui, a cerca de 520 quilômetros da capital São Paulo. De acordo com o executivo de bebidas, o setor de refrigerantes no Brasil precisa de uma “fórmula de tributação mais suave”. Ele sugere a eliminação da substituição tributária e a ...; Dessa forma, todas as carnes (suína, bovina, de frango e de outros animais) ficaram dentro da chamada “cesta básica estendida”, que tem direito a uma redução tributária, mas não à isenção.  ... Peres, João. Governo propõe imposto sobre refrigerantes, O Joio e O Trigo, São Paulo, 25 ...; Wallace Nunes, Gazeta Mercantil (A.10) - 26/04/2006 São Paulo, April 26, 2006 - Study reveals that the government&#x27;s strategy to avoid tax evasion created distortions in the sector. The war for the sale of soft drinks is not only characterized by marketing and price.; O que são as bebidas adoçadas e por que tributá-las é uma medida eficaz para promover a saúde pública.; A Receita Estadual, em parceria com as entidades representativas e contribuintes do setor de bebidas, estabeleceu uma nova forma de fixação de preços finais ao consumidor (PFC) para o segmento de bebidas frias.; Saiba quais produtos são sujeitos ao ICMS-ST em São Paulo (SP) com a tabela CEST x NCM que o Tributei preparou para você.; O Governador do Estado de Santa Catarina autoriza a SC Participações e Parcerias S.A. a promover alterações em seu Plano de Cargos e Salários em Comissão e Funções Gratificadas. Processo SCPAR 676/2023. ... ATO DIAT Nº 001/2025 PeSEF de 30.01.25 Altera o Ato DIAT nº 65, de 2024, que adota pesquisas e fixa os preços médios ponderados a consumidor final para cálculo do ICMS devido por substituição tributária nas operações com cerveja, chope, refrigerante...; Legislação Tributária da Secretaria do Estado da Fazenda de Santa Catarina; Após a última exclusão das mercadorias do regime ST é importante ressaltar que no estado de Santa Catarina a partir de 1-1-2021, ainda será aplicado o regime ST aos segmentos listados abaixo: Cervejas, chopes, refrigerantes, águas e outras bebidas, cigarros e outros produtos derivados ...; Esses empregos estão cada vez ... tributária do setor. Para se ter uma ideia, em 1960, quando começou o censo industrial do Instituto Brasileiro de Geografia e Estatística (IBGE), existiam 892 empresas de refrigerantes no Brasil, caindo para 215 em 2017. Somente na década de 2006-2016 foram fechados 7.200 postos de trabalho. O estado de Santa Catarina não enfrenta ...; Noticia que distribui para o Estado ... gaseificada, classificada na posição NCM 2202.90.00 (Laudo – fls. 16 a 18). Tendo dúvida sobre a aplicação a este produto, quando de seu ingresso no Estado de Santa Catarina, do regime de substituição tributária, solicita, para ...; Margem Valor agregada de produtos com substituição tributária no estado de Santa Catarina.; O ESS Auditor identifica as falhas na classificação tributária de produtos no seu cadastro e corrige automaticamente em tempo real; ICMS. Substituição Tributária. As operações com suco em saquinho congelado (; Decreto revisa o percentual a ser aplicado no cálculo de substituição tributária para a venda desses produtos; ICMS. A COMPETÊNCIA PARA DIRIMIR DÚVIDAS ACERCA DA CLASSIFICAÇÃO FISCAL DE MERCADORIAS NOS CÓDIGOS NCM (NOMENCLATURA COMUM DO MERCOSUL) É DA AUTORIDADE FAZENDÁRIA FEDERAL. NAS OPERAÇÕES INTERNAS OU INTERESTADUAIS DESTINADAS A ESTE ESTADO COM LUBRIFICANTES DO TIPO GRAXA (NCM 3403), ...; Quase um ano depois de inaugurar um centro de distribuição em Blumenau, o primeiro da empresa fora do Rio Grande do Sul, a indústria de bebidas Fruki, que; A mudança no regime tributário do Estado de Santa Catarina, que excluiu diversos segmentos do regime de substituição tributária em meados de 2019, gerou uma perda de arrecadação de R$ 170 milhões aos cofres paranaense; Sistema de Administração Tributária da Secretaria de Estado da Fazenda de Santa Catarina.; Informações sobre ICMS e Outros, Sul, Santa Catarina; A planilha a seguir é aplicada para as operações internas realizadas no Estado de Santa Catarina e nas operações interestaduais destinadas ao Estado de Santa Catarina. ... Ato COTEPE/ICMS 03/08 - Divulga planilha eletrônica com informações gerais do regime da substituição tributária ...; Sistema de Administração Tributária da Secretaria de Estado da Fazenda de Santa Catarina.; Chapecoense x Criciúma: onde assistir ao vivo, horário e escalações · Veja também arbitragem e outras informações da partida válida pela 6ª rodada do Catarinense; A Secretaria de Estado da Fazenda ... Tributária (botão &quot;Acessar on-line&quot;, ao lado). A SEF também disponibiliza aplicativos para emissão de DARE para recolhimento do ICMS-ST por operação. Os manuais para os aplicativos encontram-se na seção &quot;Downloads&quot;, abaixo (&quot;Gerenciamento de Pagamentos por Operação&quot;). ... Os cálculos efetuados por este módulo somente são válidos para operações com destino a Santa Catarinae operações ...; II – às operações de saída ... de Santa Catarina, ou de produtos dela derivados; e · III – às operações direcionadas a contribuintes que não continuem o processo de beneficiamento da madeira adquirida ou dos produtos dela derivados. ... I - fica condicionada à concessão, pelo Diretor de Administração Tributária, de regime ...; © 1994 - 2025 - ITC Informativo Tributário Contábil. Todos os direitos reservados
+</answer>
+
+<references>
+["https://www.sefaz.pe.gov.br/Legislacao/Tributaria/Consolidada-Por-Assunto/Paginas/Cerveja-agua-e-refrigerante.aspx","https://www.systax.com.br/artigos-e-novidades/o-regime-de-substituicao-tributaria-por-carga-liquida-alimentos-e-congeneres-no-ceara/","https://www.legisweb.com.br/legislacao/?id=384287","https://saipos.com/ncm/ncm-refrigerante","https://www.legisweb.com.br/legislacao/?id=444543","https://www.cenofisco.com.br/Composicao/ICMS-e-Outros/Nordeste/Ceara","https://www.sefaz.pb.gov.br/legislacao/99-regulamentos/anexos-icms/8976-produtos-substituicao-tributaria-10","https://congressoemfoco.uol.com.br/area/governo/regulamentacao-da-tributaria-propoe-imposto-maior-para-refrigerante-alcool-e-cigarros/","https://economia.uol.com.br/noticias/redacao/2025/01/16/reforma-tributaria---alimentos.htm","https://www.estadao.com.br/economia/banco-mundial-imposto-seletivo-refrigerante-cerveja/","https://blog.esimplesauditoria.com.br/bebidas-como-cerveja-agua-ou-refrigerantes-sao-ou-nao-sao-monofasicos/","https://www.legisweb.com.br/legislacao/?id=457400","https://www.cartacapital.com.br/economia/camara-vota-projeto-da-reforma-tributaria-com-refrigerantes-no-imposto-do-pecado/","https://www.ceara.gov.br/tag/classificacao/feed/","https://legislacao.fazenda.sp.gov.br/Paginas/art293.aspx","https://www.sefaz.ce.gov.br/2022/01/04/classificacao-atualizada-das-empresas-no-programa-contribuinte-pai-degua/","https://simtax.com.br/tabela-de-icms-ceara-atualizada/","https://www.substituicaotributaria.com/SST/substituicao-tributaria/noticia/22/02/2024/ceara-modificou-pauta-de-refrigerante","https://www.legisweb.com.br/noticia/?id=25591","https://www.confaz.fazenda.gov.br/legislacao/protocolos/2022/protocolo-icms-46-22","https://help.notavarejo.com.br/ncm-refrigerante/","https://portal.fazenda.sp.gov.br/servicos/nosconformes/Paginas/Classificação-de-Contribuinte.aspx","https://www1.folha.uol.com.br/mercado/2024/12/novo-texto-da-reforma-tributaria-corta-beneficio-de-saneamento-e-recoloca-refrigerante-no-imposto-seletivo.shtml","https://www.legisweb.com.br/noticia/?id=18738","https://valor.globo.com/publicacoes/especiais/mineracao/noticia/2024/09/19/agua-mineral-paga-mais-imposto-que-refrigerante.ghtml","https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2024/07/reforma-tributaria-entidades-tentam-manter-refrigerante-e-colocar-ultraprocessado-e-arma-no-imposto-seletivo.shtml","https://busca.legal/pis-e-cofins-voce-sabe-como-tributar-bebidas-frias/","https://www.legisweb.com.br/legislacao/?id=430649","https://afrebras.org.br/noticias/industrias-de-refrigerantes-regionais-pedem-mudancas-na-cobranca-do-icms-st/","https://ojoioeotrigo.com.br/2024/04/reforma-tributaria-refrigerante/","https://en.etco.org.br/etco-na-midia/tributacao-de-refrigerantes-tem-distorcoes/","https://actbr.org.br/tributacao-de-bebidas-adocadas","https://estado.rs.gov.br/sistematica-de-tributacao-para-o-setor-de-bebidas-frias-e-simplificada","https://tributei.net/blog/tabela-cest-ncm-de-sao-paulo-sp/","https://www.sef.sc.gov.br/","https://legislacao.sef.sc.gov.br/consulta/views/Publico/Frame.aspx?x=/html/consultas/frame_consultas.htm","https://www.substituicaotributaria.com/SST/substituicao-tributaria/noticia/29/12/2020/sc-exclui-do-regime-de-st-diversas-mercadorias-a-partir-de-1--1--2021","https://www.correiosc.com.br/refrigerantes-desigualdade-tributaria/","https://legislacao.sef.sc.gov.br/html/consultas/2004/con_04_019.htm","https://www.scribd.com/document/246602021/MVA-ST-Santa-Catarina","https://www.essauditor.com.br/blog.php?ID=762&T=principais-mudan-as-de-icms-em-rs-setor-varejista","https://www.legisweb.com.br/legislacao/?id=360706","https://ndmais.com.br/financas-pessoais/impostos/impostos-vinhos-e-outras-bebidas-quentes-ficam-mais-caros-em-santa-catarina/","https://www.legisweb.com.br/legislacao/?id=395689","https://www.nsctotal.com.br/colunistas/pedro-machado/marca-gaucha-lanca-refrigerante-exclusivo-para-sc-e-projeta-nova-expansao","https://www.fazenda.pr.gov.br/Noticia/Empresas-que-compraram-produtos-em-Santa-Catarina-tem-ate-3012-para-pagar-ICMS","https://sat.sef.sc.gov.br/tax.net/Sat.Arrecadacao.Web/DARE_online/EmissaoDareOnline.aspx?receita=7692","https://www.cenofisco.com.br/Composicao/ICMS-e-Outros/Sul/Santa-Catarina","https://www.confaz.fazenda.gov.br/legislacao/portal-nacional-da-substituicao-tributaria/santa-catarina","https://sat.sef.sc.gov.br/tax.net/Sat.SubstituicaoTributaria.Web/CalculoST.aspx","https://ge.globo.com/sc/futebol/campeonato-catarinense/","https://www.sef.sc.gov.br/servicos/servico/89/Substituição_Tributária","https://legislacao.sef.sc.gov.br/html/regulamentos/icms/ricms_01_03.htm","https://itcnet.com.br/ricms/index.php"]
+</references>
+
+</knowledge-1>
+
+
+</knowledge>
+
+
+
+Based on the current context, you must choose one of the following actions:
+<actions>
+
+<action-visit>    
+- Visit any URLs from below to gather external knowledge, choose the most relevant URLs that might contain the answer
+<url-list>
+  + "https://www.sefaz.pe.gov.br/Legislacao/Tributaria/Consolidada-Por-Assunto/Paginas/Cerveja-agua-e-refrigerante.aspx": "Cerveja, água e refrigerante"
+  + "https://www.systax.com.br/artigos-e-novidades/o-regime-de-substituicao-tributaria-por-carga-liquida-alimentos-e-congeneres-no-ceara/": "O regime de Substituição Tributária por Carga Líquida: alimentos e congêneres no Ceará - Systax"
+  + "https://www.legisweb.com.br/legislacao/?id=384287": "Decreto Nº 33327 DE 30/10/2019 - Estadual - Ceará - LegisWeb"
+  + "https://saipos.com/ncm/ncm-refrigerante": "NCM refrigerante: tudo sobre a classificação 2202.10.00"
+  + "https://www.legisweb.com.br/legislacao/?id=444543": "Instrução Normativa SEFAZ Nº 37 DE 14/04/2023 - Estadual - Ceará - LegisWeb"
+  + "https://www.cenofisco.com.br/Composicao/ICMS-e-Outros/Nordeste/Ceara": "Ceará"
+  + "https://www.sefaz.pb.gov.br/legislacao/99-regulamentos/anexos-icms/8976-produtos-substituicao-tributaria-10": "Substituição Tributária - Legislação - Bebidas - SER/PB"
+  + "https://congressoemfoco.uol.com.br/area/governo/regulamentacao-da-tributaria-propoe-imposto-maior-para-refrigerante-alcool-e-cigarros/": "Regulamentação da tributária propõe imposto maior para refrigerante, álcool e cigarros - Congresso em Foco"
+  + "https://economia.uol.com.br/noticias/redacao/2025/01/16/reforma-tributaria---alimentos.htm": "Reforma tributária: prato feito mais barato e refrigerante mais caro"
+  + "https://www.estadao.com.br/economia/banco-mundial-imposto-seletivo-refrigerante-cerveja/": "Reforma tributária: Banco Mundial estima ���imposto do pecado’ de 33% no refrigerante e 46% na cerveja - Estadão"
+  + "https://blog.esimplesauditoria.com.br/bebidas-como-cerveja-agua-ou-refrigerantes-sao-ou-nao-sao-monofasicos/": "Bebidas no Simples Nacional: cerveja, água e refrigerantes são monofásicos?"
+  + "https://www.legisweb.com.br/legislacao/?id=457400": "Decreto Nº 35931 DE 03/04/2024 - Estadual - Ceará - LegisWeb"
+  + "https://www.cartacapital.com.br/economia/camara-vota-projeto-da-reforma-tributaria-com-refrigerantes-no-imposto-do-pecado/": "Câmara aprova regulamentação da tributária com refrigerante no 'imposto do pecado'"
+  + "https://www.ceara.gov.br/tag/classificacao/feed/": "Arquivos classificação - Governo do Estado do Ceará"
+  + "https://legislacao.fazenda.sp.gov.br/Paginas/art293.aspx": "RICMS - Artigo 293 a 294 - Legislação Tributária"
+  + "https://www.sefaz.ce.gov.br/2022/01/04/classificacao-atualizada-das-empresas-no-programa-contribuinte-pai-degua/": "Classificação atualizada das empresas no programa Contribuinte Pai d'Égua - Secretaria da Fazenda"
+  + "https://simtax.com.br/tabela-de-icms-ceara-atualizada/": "Tabela de ICMS do Ceará Atualizada: Alíquotas e Regras"
+  + "https://www.substituicaotributaria.com/SST/substituicao-tributaria/noticia/22/02/2024/ceara-modificou-pauta-de-refrigerante": "Ceará modificou pauta de refrigerante"
+  + "https://www.legisweb.com.br/noticia/?id=25591": "ICMS/CE - Pai dÉgua estabelece critérios para estimular contribuintes que cumprem obrigações tributárias"
+  + "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2022/protocolo-icms-46-22": "PROTOCOLO ICMS 46/22 — Conselho Nacional de Política Fazendária CONFAZ"
+  + "https://help.notavarejo.com.br/ncm-refrigerante/": "NCM Refrigerante - Suporte do Nota Varejo"
+  + "https://portal.fazenda.sp.gov.br/servicos/nosconformes/Paginas/Classificação-de-Contribuinte.aspx": "Classificação de Contribuintes"
+  + "https://www1.folha.uol.com.br/mercado/2024/12/novo-texto-da-reforma-tributaria-corta-beneficio-de-saneamento-e-recoloca-refrigerante-no-imposto-seletivo.shtml": "Novo texto da reforma tributária corta benefício de saneamento e recoloca refrigerante no Imposto Seletivo"
+  + "https://www.legisweb.com.br/noticia/?id=18738": "ICMS-SP: Substituição tributária de refrigerantes, fisco acrescenta marcas de bebidas e valores para efeito base de cálculo"
+  + "https://valor.globo.com/publicacoes/especiais/mineracao/noticia/2024/09/19/agua-mineral-paga-mais-imposto-que-refrigerante.ghtml": "Água mineral paga mais imposto que refrigerante | Mineração | Valor Econômico"
+  + "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2024/07/reforma-tributaria-entidades-tentam-manter-refrigerante-e-colocar-ultraprocessado-e-arma-no-imposto-seletivo.shtml": "Reforma tributária: entidades tentam manter refrigerante e colocar ultraprocessado e arma no imposto seletivo - 10/07/2024 - Que imposto é esse - Folha"
+  + "https://busca.legal/pis-e-cofins-voce-sabe-como-tributar-bebidas-frias/": "PIS e COFINS: você sabe como tributar bebidas frias?​ - Busca.Legal"
+  + "https://www.legisweb.com.br/legislacao/?id=430649": "Resposta à Consulta Nº 25237 DE 29/03/2022 - Estadual - São Paulo - LegisWeb"
+  + "https://afrebras.org.br/noticias/industrias-de-refrigerantes-regionais-pedem-mudancas-na-cobranca-do-icms-st/": "Indústrias de refrigerantes regionais pedem mudanças na cobrança do ICMS-ST - Afrebras"
+  + "https://ojoioeotrigo.com.br/2024/04/reforma-tributaria-refrigerante/": "Governo propõe imposto sobre refrigerantes"
+  + "https://en.etco.org.br/etco-na-midia/tributacao-de-refrigerantes-tem-distorcoes/": "Taxation of soft drinks has distortions - ETCO"
+  + "https://actbr.org.br/tributacao-de-bebidas-adocadas": "Tributação de Bebidas Adoçadas | ACT BR"
+  + "https://estado.rs.gov.br/sistematica-de-tributacao-para-o-setor-de-bebidas-frias-e-simplificada": "Sistemática de tributação para o setor de bebidas frias é simplificada - Portal do Estado do Rio Grande do Sul"
+  + "https://tributei.net/blog/tabela-cest-ncm-de-sao-paulo-sp/": "Tabela CEST x NCM de São Paulo (SP) | Blog do Tributei"
+  + "https://www.sef.sc.gov.br/": "Início | Secretaria de Estado da Fazenda de Santa Catarina"
+  + "https://legislacao.sef.sc.gov.br/consulta/views/Publico/Frame.aspx?x=/html/consultas/frame_consultas.htm": "SEF - Legislação"
+  + "https://www.substituicaotributaria.com/SST/substituicao-tributaria/noticia/29/12/2020/sc-exclui-do-regime-de-st-diversas-mercadorias-a-partir-de-1--1--2021": "ST - Substituição Tributária de ICMS"
+  + "https://www.correiosc.com.br/refrigerantes-desigualdade-tributaria/": "Fábricas regionais de refrigerantes sofrem com desigualdade tributária"
+  + "https://legislacao.sef.sc.gov.br/html/consultas/2004/con_04_019.htm": "CONSULTA Nº: 19/04"
+  + "https://www.scribd.com/document/246602021/MVA-ST-Santa-Catarina": "MVA - ST Santa Catarina | PDF | Motores | Bebidas não alcoólicas"
+  + "https://www.essauditor.com.br/blog.php?ID=762&T=principais-mudan-as-de-icms-em-rs-setor-varejista": "Principais mudanças de ICMS em RS - Setor Varejista - BLOG ESS Assessoria"
+  + "https://www.legisweb.com.br/legislacao/?id=360706": "Consulta COPAT Nº 56 DE 29/05/2018 - Estadual - Santa Catarina - LegisWeb"
+  + "https://ndmais.com.br/financas-pessoais/impostos/impostos-vinhos-e-outras-bebidas-quentes-ficam-mais-caros-em-santa-catarina/": "Impostos: vinhos e outras bebidas quentes ficam mais caros em Santa Catarina"
+  + "https://www.legisweb.com.br/legislacao/?id=395689": "Consulta COPAT Nº 25 DE 18/05/2020 - Estadual - Santa Catarina - LegisWeb"
+  + "https://www.nsctotal.com.br/colunistas/pedro-machado/marca-gaucha-lanca-refrigerante-exclusivo-para-sc-e-projeta-nova-expansao": "Marca gaúcha lança refrigerante exclusivo para SC e projeta nova expansão no Estado - NSC Total"
+  + "https://www.fazenda.pr.gov.br/Noticia/Empresas-que-compraram-produtos-em-Santa-Catarina-tem-ate-3012-para-pagar-ICMS": "Empresas que compraram produtos em Santa Catarina têm até 30/12 para pagar ICMS | Secretaria da Fazenda"
+  + "https://sat.sef.sc.gov.br/tax.net/Sat.Arrecadacao.Web/DARE_online/EmissaoDareOnline.aspx?receita=7692": "Arrecadação - Emissão DARE Normal"
+  + "https://www.cenofisco.com.br/Composicao/ICMS-e-Outros/Sul/Santa-Catarina": "Santa Catarina"
+  + "https://www.confaz.fazenda.gov.br/legislacao/portal-nacional-da-substituicao-tributaria/santa-catarina": "Santa Catarina — Conselho Nacional de Política Fazendária CONFAZ"
+  + "https://sat.sef.sc.gov.br/tax.net/Sat.SubstituicaoTributaria.Web/CalculoST.aspx": "Calculadora ST - Cálculo do ICMS Substituição Tributária"
+  + "https://ge.globo.com/sc/futebol/campeonato-catarinense/": "tabela | campeonato catarinense | ge | campeonato catarinense | ge"
+  + "https://www.sef.sc.gov.br/servicos/servico/89/Substituição_Tributária": "Substituição Tributária - Sef SC"
+  + "https://legislacao.sef.sc.gov.br/html/regulamentos/icms/ricms_01_03.htm": "RICMS_01 - Anexo 3 - Substituição Tributária - com redação passada"
+  + "https://itcnet.com.br/ricms/index.php": "estados de Santa Catarina - Itcnet"
+</url-list>
+- When you have enough search result in the context and want to deep dive into specific URLs
+- It allows you to access the full content behind any URLs
+
+</action-visit>
+
+
+
+<action-answer>
+- Provide final response only when 100% certain
+- Responses must be definitive (no ambiguity, uncertainty, or disclaimers)
+- If doubts remain, use <action-reflect> instead
+</action-answer>
+
+
+
+<action-reflect>    
+- Perform critical analysis through hypothetical scenarios or systematic breakdowns
+- Identify knowledge gaps and formulate essential clarifying questions
+- Questions must be:
+  - Original (not variations of existing questions)
+  - Focused on single concepts
+  - Under 20 words
+  - Non-compound/non-complex
+</action-reflect>
+
+</actions>
+
+
+Respond exclusively in valid JSON format matching exact JSON schema.
+
+Critical Requirements:
+- Include ONLY ONE action type
+- Never add unsupported keys
+- Exclude all non-JSON text, markdown, or explanations
+- Maintain strict JSON syntax
+- All text content must be in Portuguese (Brazil)
+- Support UTF-8 encoding for special characters (á, é, í, ó, ú, â, ê, î, ô, û, ã, õ, ç)

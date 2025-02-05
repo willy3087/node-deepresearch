@@ -771,6 +771,7 @@ export async function main() {
   console.log('Final Answer:', finalStep.answer);
 
   tracker.tokenTracker.printSummary();
+  console.log('Modelo rodando:', modelConfigs.agent.model);
 }
 
 if (require.main === module) {

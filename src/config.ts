@@ -33,8 +33,10 @@ export const GEMINI_API_KEY = process.env.GEMINI_API_KEY as string;
 export const JINA_API_KEY = process.env.JINA_API_KEY as string;
 export const BRAVE_API_KEY = process.env.BRAVE_API_KEY as string;
 export const SEARCH_PROVIDER: 'brave' | 'jina' | 'duck' = 'jina'
+export const USE_LOCAL_MODEL = process.env.USE_LOCAL_MODEL === 'true';
+export const LOCAL_MODEL_ENDPOINT = process.env.LOCAL_MODEL_ENDPOINT || "http://localhost:1234";
 
-const DEFAULT_MODEL = 'gemini-2.0-flash';
+const DEFAULT_MODEL = USE_LOCAL_MODEL ? "deepseek-r1-distill-qwen-7b" : 'gemini-2.0-flash';
 
 const defaultConfig: ModelConfig = {
   model: DEFAULT_MODEL,
@@ -68,5 +70,7 @@ export const modelConfigs: ToolConfigs = {
 
 export const STEP_SLEEP = 1000;
 
-if (!GEMINI_API_KEY) throw new Error("GEMINI_API_KEY not found");
-if (!JINA_API_KEY) throw new Error("JINA_API_KEY not found");
+if (!USE_LOCAL_MODEL) {
+  if (!GEMINI_API_KEY) throw new Error("GEMINI_API_KEY not found");
+  if (!JINA_API_KEY) throw new Error("JINA_API_KEY not found");
+}
