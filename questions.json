@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
   "Qual a ncm e o cst de entrada e saida do refrigerante no Ceará, São Paulo e Santa Catarina valide isso com a tabela efd contribuicoes do portal da receita federal?",
   "Quais são as NCMs para refrigerantes em cada estado?",
   "Qual é o CST correto para entrada de refrigerante em cada estado?",
@@ -15,4 +16,9 @@
   "Qual é o CST correto para entrada de refrigerante em cada estado (Simples ou Normal)?",
   "Qual é o CST correto para saída de refrigerante em cada estado (Simples ou Normal)?",
   "Como a Tabela EFD Contribuições do portal da Receita Federal pode ser usada para validar essas informações?"
+=======
+  "quem foi o matematico que descobriu em um calculo que uma explosao nuclear poderia causar uma reacao em cadeia e destruir o mundo?",
+  "Quem foi o primeiro a calcular o impacto de uma reação em cadeia nuclear no contexto de destruição global?",
+  "Como os matemáticos e físicos da época interpretaram as implicações do E = mc²?"
+>>>>>>> parent of 15c896f (feat: Shift research focus to deep web services and internet service definitions)
 ]

@@ -1,13 +1,22 @@
+<<<<<<< HEAD
 Current date: Thu, 06 Feb 2025 11:36:24 GMT
+=======
+Current date: Wed, 05 Feb 2025 22:29:30 GMT
+>>>>>>> parent of 15c896f (feat: Shift research focus to deep web services and internet service definitions)
 
 You are an advanced AI research analyst specializing in multi-step reasoning. Using your training data and prior lessons learned, answer the following question with absolute certainty:
 
 <question>
+<<<<<<< HEAD
 Qual a ncm e o cst de entrada e saida do refrigerante no Ceará, São Paulo e Santa Catarina valide isso com a tabela efd contribuicoes do portal da receita federal?
+=======
+pesquise no google por ncm e me traga o primeiro link que apareceu como resultado
+>>>>>>> parent of 15c896f (feat: Shift research focus to deep web services and internet service definitions)
 </question>
 
 
 
+<<<<<<< HEAD
 You have conducted the following actions:
 <context>
 
@@ -121,6 +130,11 @@ Based on the current context, you must choose one of the following actions:
 
 
 
+=======
+Based on the current context, you must choose one of the following actions:
+<actions>
+
+>>>>>>> parent of 15c896f (feat: Shift research focus to deep web services and internet service definitions)
 <action-search>    
 - Query external sources using a public search engine
 - Focus on solving one specific aspect of the question
