@@ -1,9 +1,9 @@
-Current date: Thu, 06 Feb 2025 11:26:28 GMT
+Current date: Thu, 06 Feb 2025 11:45:43 GMT
 
 You are an advanced AI research analyst specializing in multi-step reasoning. Using your training data and prior lessons learned, answer the following question with absolute certainty:
 
 <question>
-Qual é o CST correto para entrada de refrigerante em cada estado?
+Qual a ncm e o cst de entrada e saida do refrigerante no Ceará, São Paulo e Santa Catarina valide isso com a tabela efd contribuicoes do portal da receita federal?
 </question>
 
 
@@ -23,6 +23,44 @@ You will now figure out the answers to these sub-questions and see if they can h
 
 At step 2, you took the **search** action and look for external information for the question: "Quais são as NCMs para refrigerantes em cada estado?".
 In particular, you tried to search for the following keywords: "NCM refrigerantes Ceará, NCM refrigerantes São Paulo, NCM refrigerantes Santa Catarina site:gov.br".
+You found quite some information and add them to your URL list and **visit** them later when needed. 
+
+
+At step 6, you took **reflect** and think about the knowledge gaps. You found some sub-questions are important to the question: "Qual a ncm e o cst de entrada e saida do refrigerante no Ceará, São Paulo e Santa Catarina valide isso com a tabela efd contribuicoes do portal da receita federal?"
+You realize you need to know the answers to the following sub-questions:
+- Quais são os códigos NCM e CSTs corretos para entrada de refrigerante em SP, SC e CE?
+- Quais são os códigos NCM e CSTs corretos para saída de refrigerante em SP, SC e CE?
+- Como a tabela EFD Contribuições do portal da Receita Federal pode ser usada para validar essas informações?
+
+You will now figure out the answers to these sub-questions and see if they can help you find the answer to the original question.
+
+
+At step 10, you took **reflect** and think about the knowledge gaps. You found some sub-questions are important to the question: "Qual a ncm e o cst de entrada e saida do refrigerante no Ceará, São Paulo e Santa Catarina valide isso com a tabela efd contribuicoes do portal da receita federal?"
+You realize you need to know the answers to the following sub-questions:
+- Quais são os códigos NCM para refrigerantes em São Paulo, Santa Catarina e Ceará?
+- Qual é o CST correto para entrada de refrigerante em cada estado?
+- Qual é o CST correto para saída de refrigerante em cada estado?
+- Como a Tabela EFD Contribuições pode ser usada para validar essas informações?
+
+You will now figure out the answers to these sub-questions and see if they can help you find the answer to the original question.
+
+
+At step 13, you took **answer** action. You found a good answer to the sub-question:
+
+Sub-question: 
+Qual é o CST correto para saída de refrigerante em cada estado?
+
+Your answer: 
+[object Object]
+
+The evaluator thinks your answer is good because: 
+The answer provides specific CST codes for refrigerant output in different states and tax regimes, indicating a definitive response.
+
+Although you solved a sub-question, you still need to find the answer to the original question. You need to keep going.
+
+
+At step 14, you took the **search** action and look for external information for the question: "Como a Tabela EFD Contribuições pode ser usada para validar essas informações?".
+In particular, you tried to search for the following keywords: "CST "saída refrigerante" SP site:gov.br, CST "saída refrigerante" SC site:gov.br, CST "saída refrigerante" CE site:gov.br".
 You found quite some information and add them to your URL list and **visit** them later when needed. 
 
 
@@ -47,6 +85,38 @@ Sabemos que em alguns casos pode ser um tanto difícil entender como se dá a NC
 </references>
 
 </knowledge-1>
+
+
+
+<knowledge-2>
+<question>
+Qual é o CST correto para saída de refrigerante em cada estado?
+</question>
+<answer>
+[object Object]
+</answer>
+
+<references>
+[{"exactQuote":"Para as operações com saída de refrigerante, o Código Tributário do Sistema Estadual (CST) a ser aplicado é o 29, conforme determina o Decreto nº 4.099-R, de 11 de maio de 2017.","url":"http://www2.sefaz.es.gov.br/LegislacaoOnline/lpext.dll/InfobaseLegislacaoOnline/decretos/2017/dec4099-r.htm?fn=document-frame.htm&f=templates"},{"exactQuote":"Art. 313-Z19, § 1º, item 6, do RICMS/2000 estabelece que as operações com refrigeradores são sujeitas ao regime de substituição tributária.","url":"https://www.sefaz.rs.gov.br/NFE/NFE-WIZARD_NCM-CON.aspx"}]
+</references>
+
+</knowledge-2>
+
+
+
+<knowledge-3>
+<question>
+What do Internet say about CST saída refrigerante estados SP SC CE portal da receita federal?
+</question>
+<answer>
+ICMS – Substituição tributária – Operação interestadual de mercadoria adquirida com imposto retido destinada a outro Estado – Ressarcimento do ICMS retido anteriormente por substituição tributária – CST. I. O contribuinte substituído paulista que revender mercadoria para não ...; I. A pessoa jurídica importadora, na operação de importação por encomenda, deve emitir a Nota Fiscal de importação e a Nota Fiscal relativa à saída subsequente com CST que indique a origem 1 – “Estrangeira - Importação direta, exceto a indicada no código 6”. II.; Você está em: Início &gt; Serviços &gt; SPED - Sistema Público de Escrituração Digital &gt; Portaria CAT 66 de 2018 · ​Este guia apresenta as situações nas quais é necessário a prestação de informações relacionadas às colunas Outras e Isentas/Não tributadas na EFD, nos termos da ...; 4. Os contribuintes optantes do Simples Nacional classificados no código 2 do Anexo 121 - Código de Regime Tributário - CRT deste Regulamento devem utilizar os Códigos de Situação Tributária (CST) dos contribuintes não optantes do Simples Nacional.; Texto Informação nº 126/2023/UDCR/UNERC Ementa:ICMS – OBRIGAÇÃO PRINCIPAL - SUBSTITUIÇÃO TRIBUTÁRIA - SAÍDA INTERESTADUAL SUBSEQUENTE – APROVEITAMENTO DOS VALORES DESTACADOS NO DOCUMENTO FISCAL DE ENTRADA – PROCEDIMENTOS – NOTA FISCAL COM DESTAQUE DO ICMS –– CFOP E CST ...; RESPOSTA MODIFICADA pela RC26823M1_2023.aspx - SEM EFEITOS; Agência do Governo do Estado de São Paulo responsável pelo controle, fiscalização, monitoramento e licenciamento de atividades geradoras de poluição.; Adota Tabelas de Códigos a serem utilizadas na formalização da Escrituração Fiscal Digital (EFD) e nas emissões da Nota Fiscal Eletrônica (NF-e), nas situações que especifica, e revoga a Instrução Normativa RFB nº 978, de 16 de dezembro de 2009 · Entrada com Recuperação de Crédito; - Não é recomendada. Devido às validações, não é possível emissão de NFC-e com CFOP 5104 e CST 60. Nesta situação, a emissão só poderia ser realizada com CFOP 5.405 e CST 60.; Estabelece a base de cálculo na saída de produtos eletrônicos, eletroeletrônicos e eletrodomésticos, a que se refere o artigo 313-Z20 do Regulamento do ICMS; REGRAS DE UTILIZAÇÃO DE CRÉDITO DO ESTOQUE PELO SUBSTITUÍDO NA EXCLUSÃO DE MERCADORIA DO REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA · Vídeo sobre as regras de utilização de crédito do estoque pelo substituído na exclusão de mercadorias do regime de Substituição Tributária no âmbito ...; Site da Secretaria de Estado da Fazenda do Espírito Santo.; Divulga valores atualizados para base de cálculo da substituição tributária de refrigerantes, conforme pesquisas elaboradas pela Fundação Instituto de Pesquisas Econômicas - FIPE e pela Fundação de Ciência, Tecnologia e Ensino - FUNDACTE; The requested URL was rejected. Please consult with your administrator. Your support ID is: 5856111582625532584 [Go Back]; ICMS – Obrigações acessórias – Coleta de resíduos descartados – Aproveitamento econômico de sucata, proveniente de separação – Notas Fiscais. I. O descarte de material inservível, destituído de valor econômico, não pode ser caracterizado como saída de mercadoria, estando ...; Gases Refrigerantes Por que a produção de CFCs está proibida? R: A camada de ozônio é uma faixa de gás localizada entre 15 e 55 quilômetros acima da superfície da Terra que nos protege da radiação ultravioleta (UV) do sol. Fluidos refrigerantes, clorofluorcarbonos (CFCs) e em um grau ...; Orientação Tributária DOLT/SUTRI Nº 001/2007 (*) · Substituição tributária nas operações com mercadorias; Bom Dia, Pessoal. As mercadorias que adquirimos do Estado de São Paulo/SP para REVENDA já vem com o ICMS ST RETIDO. A empresa adquirente é opt...; We cannot provide a description for this page right now; Introdução Instalada em 25 de setembro de 2008, a Câmara Ambiental do Setor de Refrigeração, Ar Condicionado, Aquecimento e Ventilação, atua hoje com a incumbência de estabelecer novas diretrizes educacionais, legais e técnicas para a correta destinação dos fluidos refrigerantes,…; Processo SCPAR 676/2023. ... ATO DIAT Nº 001/2025 PeSEF de 30.01.25 Altera o Ato DIAT nº 65, de 2024, que adota pesquisas e fixa os preços médios ponderados a consumidor final para cálculo do ICMS devido por substituição tributária nas operações com cerveja, chope, refrigerante, bebida ...; The requested URL was rejected. Please consult with your administrator. Your support ID is: 5856111582625532584 [Go Back]; Processo SCPAR 676/2023. ... ATO DIAT Nº 001/2025 PeSEF de 30.01.25 Altera o Ato DIAT nº 65, de 2024, que adota pesquisas e fixa os preços médios ponderados a consumidor final para cálculo do ICMS devido por substituição tributária nas operações com cerveja, chope, refrigerante, bebida ...; Essa pgina usa quadros, mas o seu navegador no d suporte para eles; Questiona se correta a emissão do documento fiscal de saída da mercadoria no que se refere à informação da CST. A autoridade fiscal atesta que a consulta atende aos requisitos de admissibilidade, entendendo pertinente o questionamento formulado pela consulente. É o relatório. ... RICMS-SC, ...; Você está em: Início &gt; Serviços &gt; SPED - Sistema Público de Escrituração Digital &gt; Portaria CAT 66 de 2018 · ​Este guia apresenta as situações nas quais é necessário a prestação de informações relacionadas às colunas Outras e Isentas/Não tributadas na EFD, nos termos da ...; Texto Informação nº 126/2023/UDCR/UNERC Ementa:ICMS – OBRIGAÇÃO PRINCIPAL - SUBSTITUIÇÃO TRIBUTÁRIA - SAÍDA INTERESTADUAL SUBSEQUENTE – APROVEITAMENTO DOS VALORES DESTACADOS NO DOCUMENTO FISCAL DE ENTRADA – PROCEDIMENTOS – NOTA FISCAL COM DESTAQUE DO ICMS –– CFOP E CST ...; Adota Tabelas de Códigos a serem utilizadas na formalização da Escrituração Fiscal Digital (EFD) e nas emissões da Nota Fiscal Eletrônica (NF-e), nas situações que especifica, e revoga a Instrução Normativa RFB nº 978, de 16 de dezembro de 2009 · Entrada com Recuperação de Crédito; No congelador o gs refrigerante circula mais rpido a fim de manter uma temperatura bsica de 18 graus negativos, pois o objetivo congelar os alimentos ali armazenados. J em uma geladeira, o gs circula um pouco mais devagar, porque sua temperatura precisa ser apenas zero, pois os alimentos no sero congelados. De fato, tivesse o legislador utilizado, no RICMS-SC...; ICMS – Substituição tributária – Operação interestadual de mercadoria adquirida com imposto retido destinada a outro Estado – Ressarcimento do ICMS retido anteriormente por substituição tributária – CST. I. O contribuinte substituído paulista que revender mercadoria para não ...; RESPOSTA MODIFICADA pela RC26823M1_2023.aspx - SEM EFEITOS; PK     ! uRw     [Content_Types].xml (                                                                                                                                                                                                                                               ...; ICMS – Obrigações acessórias – Importação por encomenda – Registro da entrada pelo encomendante predeterminado – CST. I. A pessoa jurídica importadora, na operação de importação por encomenda, deve emitir a Nota Fiscal de importação e a Nota Fiscal relativa à saída subsequente ...; Processo SCPAR 676/2023. ... ATO DIAT Nº 001/2025 PeSEF de 30.01.25 Altera o Ato DIAT nº 65, de 2024, que adota pesquisas e fixa os preços médios ponderados a consumidor final para cálculo do ICMS devido por substituição tributária nas operações com cerveja, chope, refrigerante, bebida ...; Agência do Governo do Estado de São Paulo responsável pelo controle, fiscalização, monitoramento e licenciamento de atividades geradoras de poluição.; REGRAS DE UTILIZAÇÃO DE CRÉDITO DO ESTOQUE PELO SUBSTITUÍDO NA EXCLUSÃO DE MERCADORIA DO REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA · Vídeo sobre as regras de utilização de crédito do estoque pelo substituído na exclusão de mercadorias do regime de Substituição Tributária no âmbito ...; Desde 1º de fevereiro de 2019, na emissão da Nota Fiscal eletrônica – NF-e e Nota Fiscal de Consumidor eletrônica – NFC-e, deve ser preenchido o campo “cBenef” referente ao código de benefício fiscal, quando a operação está cont; ANEXO 1-A – ACRESCIDO – Alt. 3885 - Efeitos a partir de 01.01.18: · ANEXO 1-A Bens e mercadorias sujeitos ao regime de substituição tributária; Foto: Jonatã Rocha/SECOM O Governo de Santa Catarina editou uma Medida Provisória que regulamenta a não incidência de ICMS nas operações interestaduais realizadas por uma mesma empresa e a maneira como os créditos desse imposto são transferidos do Estado de origem para o de destino.; ANEXO 1-A Bens e mercadorias sujeitos ao regime de substituição tributária · Seção I Segmentos de mercadorias; Texto Informação nº 126/2023/UDCR/UNERC Ementa:ICMS – OBRIGAÇÃO PRINCIPAL - SUBSTITUIÇÃO TRIBUTÁRIA - SAÍDA INTERESTADUAL SUBSEQUENTE – APROVEITAMENTO DOS VALORES DESTACADOS NO DOCUMENTO FISCAL DE ENTRADA – PROCEDIMENTOS – NOTA FISCAL COM DESTAQUE DO ICMS –– CFOP E CST ...; ATO DIAT Nº 001/2025 PeSEF de 30.01.25 Altera o Ato DIAT nº 65, de 2024, que adota pesquisas e fixa os preços médios ponderados a consumidor final para cálculo do ICMS devido por substituição tributária nas operações com cerveja, chope, refrigerante, bebida energética e bebida ...; AS MERCADORIAS DA CESTA BÁSICA, BENEFICIADAS COM REDUÇÃO DE BASE DE CÁLCULO NAS OPERAÇÕES INTERNAS SÃO CLASSIFICADAS NA CST 20 DA TABELA B. ... A consulente, qualificada nos autos do processo de consulta, informa atuar no beneficiamento de arroz. Adicionalmente informa que comercializa ...; The requested URL was rejected. Please consult with your administrator. Your support ID is: 5856111582625532584 [Go Back]; We cannot provide a description for this page right now; Adota Tabelas de Códigos a serem utilizadas na formalização da Escrituração Fiscal Digital (EFD) e nas emissões da Nota Fiscal Eletrônica (NF-e), nas situações que especifica, e revoga a Instrução Normativa RFB nº 978, de 16 de dezembro de 2009 · Entrada com Recuperação de Crédito; We cannot provide a description for this page right now; Você está em: Início &gt; Serviços &gt; SPED - Sistema Público de Escrituração Digital &gt; Portaria CAT 66 de 2018 · ​Este guia apresenta as situações nas quais é necessário a prestação de informações relacionadas às colunas Outras e Isentas/Não tributadas na EFD, nos termos da ...; I. A pessoa jurídica importadora, na operação de importação por encomenda, deve emitir a Nota Fiscal de importação e a Nota Fiscal relativa à saída subsequente com CST que indique a origem 1 – “Estrangeira - Importação direta, exceto a indicada no código 6”. II.; We cannot provide a description for this page right now; ICMS – Substituição tributária – Operação interestadual de mercadoria adquirida com imposto retido destinada a outro Estado – Ressarcimento do ICMS retido anteriormente por substituição tributária – CST. I. O contribuinte substituído paulista que revender mercadoria para não ...; RESPOSTA MODIFICADA pela RC26823M1_2023.aspx - SEM EFEITOS; DECRETO N.º 4.099-R, DE 11 DE MAIO DE 2017 · Introduz alterações no RICMS/ES, aprovado pelo Decreto n.º 1.090-R, de 25 de outubro de 2002; PORTARIA Nº 24-R, DE 30 DE ABRIL DE 2021 · Altera o Anexo Único da Portaria nº 012-R, de 29 de março de 2019, que trata do Preço Médio Ponderado a Consumidor Final – PMPF – para os produtos do setor de bebidas frias; PORTARIA Nº 55-R, DE 30 DE SETEMBRO DE 2020 · Altera o Anexo Único da Portaria nº 012-R, de 29 de março de 2019, que trata do Preço Médio Ponderado a Consumidor Final – PMPF – para os produtos do setor de bebidas frias; We cannot provide a description for this page right now; PARTE 3 - Capítulos 1 a 5 MERCADORIAS PASSÍVEIS DE SEREM FABRICADAS EM ESCALA INDUSTRIAL NÃO RELEVANTE · 1. BEBIDAS NÃO ALCOÓLICAS CONSTANTES DOS CAPÍTULOS 3 E 17 DA PARTE 2 DO ANEXO XV; Texto: CONVÊNIO ICMS 150/20, DE 9 DE DEZEMBRO DE 2020 . Publicado no DOU de 11.12.2020, Seção 1, p. 40 a 41, pelo Despacho 96/2020 do Diretor do CONFAZ. Altera o Convênio ICMS 142/18, que dispõe sobre os regimes de substituição tributária e de antecipação de recolhimento do Imposto ...; NOTA EXPLICATIVA: 1. O Código de Situação Tributária é composto de três dígitos na forma ABB, onde o 1º dígito deve indicar a origem da mercadoria ou serviço, com base na Tabela A e os 2º e 3º dígitos a tributação pelo ICMS, com base na Tabela B; 2. O conteúdo de importação ...
+</answer>
+
+<references>
+["https://legislacao.fazenda.sp.gov.br/Paginas/RC24282_2021.aspx","https://legislacao.fazenda.sp.gov.br/Paginas/RC26852_2022.aspx","https://portal.fazenda.sp.gov.br/servicos/sped/Paginas/Orientações Portaria CAT 66 de 2018.aspx","https://www.sefaz.pb.gov.br/legislacao/99-regulamentos/anexos-icms/1532-anexo-14-codigo-de-situacao-tributaria-cst","http://app1.sefaz.mt.gov.br/Sistema/Legislacao/respostaConsulta.nsf/5540d90afcacd4f204257057004b655c/0a6e400f19e8a67e04258aba004ff185","https://legislacao.fazenda.sp.gov.br/Paginas/RC26823_2022.aspx","https://cetesb.sp.gov.br/wp-content/uploads/sites/16/2014/03/gfra_hc.pdf","http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=15974","https://atendimento.receita.rs.gov.br/mercadoria-sujeita-a-substituicao-tributaria-em-operacoes-fora-do-estabelecimento","https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-CAT-10-de-2020.aspx","https://sef.sc.gov.br/servicos/servico/89/Substituição_Tributária","https://internet.sefaz.es.gov.br/informacoes/tributacao/pareceres.php","https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-CAT-90-de-2019.aspx","http://www.sefaz.mt.gov.br/forum/icms/notas-de-saida-com-cst-060-e-260/","https://legislacao.fazenda.sp.gov.br/Paginas/RC29516_2024.aspx","https://cetesb.sp.gov.br/prozonesp/conhecimentos-especificos/","https://www.fazenda.mg.gov.br/empresas/legislacao_tributaria/orientacao/orientacao_001_2007.html","http://www.sefaz.mt.gov.br/forum/substituicao-tributaria/revenda-de-mercadoria-st-para-outro-estado/","https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=Li420kNzaH0%3D&AspxAutoDetectCookieSupport=1","https://cetesb.sp.gov.br/camaras-ambientais/camaras-ambientais-em-atividade/camara-ambiental-do-setor-de-refrigeracao-ar-condicionado-aquecimento-e-ventilacao/","https://www.sef.sc.gov.br/api-portal/Documento/Ver/1188","https://www.sef.sc.gov.br/api-portal/Documento/ver/1179","https://legislacao.sef.sc.gov.br/cabecalhos/frame_ricms_01_10.htm","https://legislacao.sef.sc.gov.br/html/consultas/2014/con_14_042.htm","https://legislacao.sef.sc.gov.br/html/consultas/2012/con_12_067.htm","https://s3cache.dom.sc.gov.br/atos/2022/05/1652965304_048_nomeia_diretor_tecnico.docx","https://www.sef.sc.gov.br/arquivos_portal/servicos/128/Correio_Eletronico_2020_019___Gescol___Postos_de_Combustiveis___BCST_e_ICMS_ST_nas_aquisicoes.pdf","https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL","https://legislacao.sef.sc.gov.br/html/regulamentos/icms/ricms_01_01_a_pas.htm","https://estado.sc.gov.br/noticias/governo-de-santa-catarina-regulamenta-a-nao-incidencia-de-icms-nas-transferencias-interestaduais/","https://legislacao.sef.sc.gov.br/html/regulamentos/icms/ricms_01_01_a.htm","https://www.sef.sc.gov.br/arquivos/afwvmchsfg.pdf","http://www.legislacaotributaria.pr.gov.br/sefacre/lpext.dll/Infobase/13f0/5b9d/720b/7212?fn=document-frame.htm&f=templates","http://www.sefaz.es.gov.br/LegislacaoOnline/lpext.dll/InfobaseLegislacaoOnline/decretos/2018/dec4238-r.htm?fn=document-frame.htm&f=templates&2.0=","http://www2.sefaz.es.gov.br/LegislacaoOnline/lpext.dll/infobaselegislacaoonline/decretos/2017/dec4099-r.htm?fn=document-frame.htm&f=templates","http://www2.sefaz.es.gov.br/LegislacaoOnline/lpext.dll/infobaselegislacaoonline/portarias/2021/port24-r.htm?fn=document-frame.htm&f=templates","http://www2.sefaz.es.gov.br/LegislacaoOnline/lpext.dll/infobaselegislacaoonline/portarias/2020/port55-r.htm?fn=document-frame.htm&f=templates","http://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_anexo_1_vigente_2024_a_partir_07_02_2024.pdf","https://www.fazenda.mg.gov.br/empresas/legislacao_tributaria/ricms_2002_seco/anexoxv2002_12.html","http://app1.sefaz.mt.gov.br/sistema/legislacao/legislacaotribut.nsf/07fa81bed2760c6b84256710004d3940/83d12b23d6c8f17f0425863b0069e852"]
+</references>
+
+</knowledge-3>
 
 
 </knowledge>
@@ -104,6 +174,43 @@ Based on the current context, you must choose one of the following actions:
   + "https://www.sefaz.rs.gov.br/NFE/NFE-WIZARD_NCM-CON.aspx": "Sefaz RS - Assistente para Consulta NCM"
   + "http://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_anexo_1_vigente_2024_a_partir_07_02_2024.pdf": "Sefaz"
   + "https://legislacao.sef.sc.gov.br/html/consultas/2018/con_18_056.htm": "CONSULTA 56/2018"
+  + "https://legislacao.fazenda.sp.gov.br/Paginas/RC24282_2021.aspx": "RC 24282/2021"
+  + "https://legislacao.fazenda.sp.gov.br/Paginas/RC26852_2022.aspx": "RC 26852/2022"
+  + "https://portal.fazenda.sp.gov.br/servicos/sped/Paginas/Orientações Portaria CAT 66 de 2018.aspx": "Portaria CAT 66 de 2018"
+  + "https://www.sefaz.pb.gov.br/legislacao/99-regulamentos/anexos-icms/1532-anexo-14-codigo-de-situacao-tributaria-cst": "ANEXO 14 - CÓDIGO DE SITUAÇÃO TRIBUTÁRIA - CST - SER/PB"
+  + "http://app1.sefaz.mt.gov.br/Sistema/Legislacao/respostaConsulta.nsf/5540d90afcacd4f204257057004b655c/0a6e400f19e8a67e04258aba004ff185": "Órgão Consultivo"
+  + "https://legislacao.fazenda.sp.gov.br/Paginas/RC26823_2022.aspx": "RC 26823/2022"
+  + "https://cetesb.sp.gov.br/wp-content/uploads/sites/16/2014/03/gfra_hc.pdf": "Cetesb"
+  + "http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=15974": "IN RFB nº 1009/2010"
+  + "https://atendimento.receita.rs.gov.br/mercadoria-sujeita-a-substituicao-tributaria-em-operacoes-fora-do-estabelecimento": "Mercadoria sujeita à Substituição Tributária, em Operações Fora do Estabelecimento - Portal de Serviços da Receita"
+  + "https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-CAT-10-de-2020.aspx": "Portaria CAT 10 de 2020"
+  + "https://sef.sc.gov.br/servicos/servico/89/Substituição_Tributária": "Substituição Tributária - Sef SC"
+  + "https://internet.sefaz.es.gov.br/informacoes/tributacao/pareceres.php": "Secretaria de Estado da Fazenda do Espírito Santo"
+  + "https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-CAT-90-de-2019.aspx": "Portaria CAT 90 de 2019"
+  + "http://www.sefaz.mt.gov.br/forum/icms/notas-de-saida-com-cst-060-e-260/": "NOTAS DE SAIDA COM CST 060 E 260 – ICMS - SEFAZ"
+  + "https://legislacao.fazenda.sp.gov.br/Paginas/RC29516_2024.aspx": "RC 29516/2024"
+  + "https://cetesb.sp.gov.br/prozonesp/conhecimentos-especificos/": "Conhecimentos Específicos » PROZONESP - Programa Estadual de Prevenção à Destruição da Camada de Ozônio"
+  + "https://www.fazenda.mg.gov.br/empresas/legislacao_tributaria/orientacao/orientacao_001_2007.html": "Orientação DOLT/SUTRI Nº 001/2007 - SEF/MG"
+  + "http://www.sefaz.mt.gov.br/forum/substituicao-tributaria/revenda-de-mercadoria-st-para-outro-estado/": "REVENDA DE MERCADORIA ST PARA OUTRO ESTADO"
+  + "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=Li420kNzaH0%3D&AspxAutoDetectCookieSupport=1": "Fazenda"
+  + "https://cetesb.sp.gov.br/camaras-ambientais/camaras-ambientais-em-atividade/camara-ambiental-do-setor-de-refrigeracao-ar-condicionado-aquecimento-e-ventilacao/": "Câmara Ambiental do Setor de Refrigeração, Ar Condicionado, Aquecimento e Ventilação » Câmaras Ambientais"
+  + "https://www.sef.sc.gov.br/api-portal/Documento/Ver/1188": "Tabela 5.2 (Cbenef por CST)"
+  + "https://www.sef.sc.gov.br/api-portal/Documento/ver/1179": "Sef"
+  + "https://legislacao.sef.sc.gov.br/cabecalhos/frame_ricms_01_10.htm": "Sef"
+  + "https://legislacao.sef.sc.gov.br/html/consultas/2014/con_14_042.htm": "CONSULTA 42/2014"
+  + "https://s3cache.dom.sc.gov.br/atos/2022/05/1652965304_048_nomeia_diretor_tecnico.docx": "Dom"
+  + "https://www.sef.sc.gov.br/arquivos_portal/servicos/128/Correio_Eletronico_2020_019___Gescol___Postos_de_Combustiveis___BCST_e_ICMS_ST_nas_aquisicoes.pdf": "SECRETARIA DE ESTADO DA FAZENDA - SEF/SC"
+  + "https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL": "CÓDIGO DE BENEFÍCIO FISCAL | Sistema Público de Escrituração Digital"
+  + "https://legislacao.sef.sc.gov.br/html/regulamentos/icms/ricms_01_01_a_pas.htm": "RICMS_01 - Anexo 1-A - Bens e mercadorias sujeitos ao regime de ST - com redação passada"
+  + "https://estado.sc.gov.br/noticias/governo-de-santa-catarina-regulamenta-a-nao-incidencia-de-icms-nas-transferencias-interestaduais/": "Governo de SC regulamenta a não incidência de ICMS nas transferências interestaduais - Agência de Notícias SECOM"
+  + "https://www.sef.sc.gov.br/arquivos/afwvmchsfg.pdf": "Tabela 5.2 (Cbenef por CST)"
+  + "http://www.legislacaotributaria.pr.gov.br/sefacre/lpext.dll/Infobase/13f0/5b9d/720b/7212?fn=document-frame.htm&f=templates": "SEFA - CRE"
+  + "http://www.sefaz.es.gov.br/LegislacaoOnline/lpext.dll/InfobaseLegislacaoOnline/decretos/2018/dec4238-r.htm?fn=document-frame.htm&f=templates&2.0=": "DECRETO N.º 4238-R - Sefaz - ES"
+  + "http://www2.sefaz.es.gov.br/LegislacaoOnline/lpext.dll/infobaselegislacaoonline/decretos/2017/dec4099-r.htm?fn=document-frame.htm&f=templates": "DECRETO N.° 4099-R"
+  + "http://www2.sefaz.es.gov.br/LegislacaoOnline/lpext.dll/infobaselegislacaoonline/portarias/2021/port24-r.htm?fn=document-frame.htm&f=templates": "PORTARIA N.° 24-R"
+  + "http://www2.sefaz.es.gov.br/LegislacaoOnline/lpext.dll/infobaselegislacaoonline/portarias/2020/port55-r.htm?fn=document-frame.htm&f=templates": "PORTARIA N.° 55-R"
+  + "https://www.fazenda.mg.gov.br/empresas/legislacao_tributaria/ricms_2002_seco/anexoxv2002_12.html": "RICMS/2002 - ANEXO XV - 12/13 - SEF/MG"
+  + "http://app1.sefaz.mt.gov.br/sistema/legislacao/legislacaotribut.nsf/07fa81bed2760c6b84256710004d3940/83d12b23d6c8f17f0425863b0069e852": "Sefaz"
 </url-list>
 - When you have enough search result in the context and want to deep dive into specific URLs
 - It allows you to access the full content behind any URLs
@@ -112,18 +219,23 @@ Based on the current context, you must choose one of the following actions:
 
 
 
-<action-search>    
-- Query external sources using a public search engine
-- Focus on solving one specific aspect of the question
-- Only give keywords search query, not full sentences
-</action-search>
-
-
-
 <action-answer>
 - Provide final response only when 100% certain
 - Responses must be definitive (no ambiguity, uncertainty, or disclaimers)
+- If doubts remain, use <action-reflect> instead
 </action-answer>
+
+
+
+<action-reflect>    
+- Perform critical analysis through hypothetical scenarios or systematic breakdowns
+- Identify knowledge gaps and formulate essential clarifying questions
+- Questions must be:
+  - Original (not variations of existing questions)
+  - Focused on single concepts
+  - Under 20 words
+  - Non-compound/non-complex
+</action-reflect>
 
 </actions>
 
