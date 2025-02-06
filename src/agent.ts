@@ -809,6 +809,26 @@ export async function main() {
   console.log('Final Answer:', finalStep.answer);
   tracker.tokenTracker.printSummary();
   console.log('Modelo rodando:', modelConfigs.agent.model);
+
+  // Integração com o script de finalização
+  try {
+    const { spawn } = require('child_process');
+    const pythonProcess = spawn('python', ['finalizacao.py', question, finalStep.answer], {
+      stdio: ['inherit', 'inherit', 'inherit'] // Permite interação direta com o terminal
+    });
+
+    pythonProcess.on('error', (error: Error) => {
+      console.error('Erro ao executar script de finalização:', error);
+    });
+
+    pythonProcess.on('close', (code: number | null) => {
+      if (code !== 0) {
+        console.error(`Script de finalização encerrou com código ${code}`);
+      }
+    });
+  } catch (error) {
+    console.error('Erro ao executar script de finalização:', error);
+  }
 }
 
 if (require.main === module) {

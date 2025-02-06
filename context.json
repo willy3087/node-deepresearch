@@ -1,131 +1,147 @@
 [
   {
-    "totalStep": 2,
-    "question": {
-      "query": "Qual é a legislação fiscal do estado do Amazonas que regula o ICMS?",
-      "description": "Esta query se refere especificamente à legislação fiscal do estado do Amazonas, que pode incluir leis estaduais e regulamentos locais relacionados ao ICMS."
-    },
+    "totalStep": 1,
+    "question": "Pesquise pela palavra muralis e me traga os 3 primeiros resultados da pesquisa que aparecerem?",
     "action": "search",
-    "think": "Para determinar a aliquota do ICMS no estado do Amazonas precisamos buscar informações específicas sobre as regras fiscais vigentes. Vou utilizar uma busca para encontrar essa informação.",
-    "searchQuery": "aliquota icms estado amazonas",
+    "think": "Vou buscar os três primeiros resultados da pesquisa pela palavra 'muralis' em uma busca pública.",
+    "searchQuery": "muralis",
     "result": [
       {
-        "query": "aliquota ICMS Amazonas",
+        "query": "muralis",
         "results": [
           {
-            "title": "Tabela de multiplicadores para ICMS na entrada Nacional ...",
-            "url": "https://sistemas.sefaz.am.gov.br/gdd/pages/content/autodesembaraco/tabelatributacao/indices_355.pdf",
-            "description": "We cannot provide a description for this page right now"
+            "title": "Muralis Tecnologia I Consultoria e Soluções Especializadas",
+            "url": "https://www.muralis.com.br/",
+            "description": "A <strong>Muralis</strong> é uma empresa de desenvolvimento de projetos e soluções em sistemas de tecnologia da informação. ​ Nossos serviços parecem complexos, mas não se preocupe, a execução deixa tudo bastante claro. Você traz o problema, nós fazemos uma imersão nos seus processos, e o que ..."
           },
           {
-            "title": "ICMS AM 2024 - Tabela atualizada - Tax Group",
-            "url": "https://www.taxgroup.com.br/intelligence/icms-am-2024-tabela-atualizada/",
-            "description": "O valor do ICMS será a diferença entre o preço final com ICMS e o valor original do produto. Veja abaixo um exemplo: Se um produto no Amazonas custa R$ 10 e a alíquota do estado é <strong>20%</strong>, o cálculo correto será: R$ 10 / (1 – 0,20) ≈ R$ 12,50. Portanto, o valor total do produto, já ..."
+            "title": "Muralis Tecnologia | LinkedIn",
+            "url": "https://br.linkedin.com/company/muralis",
+            "description": "<strong>Muralis</strong> Tecnologia | 4.409 seguidores no LinkedIn. <strong>Muralis</strong> Tecnologia. Além do sistema. | Somos a <strong>Muralis</strong>, uma empresa de desenvolvimento de projetos e soluções em sistemas de tecnologia da informação."
           },
           {
-            "title": "ICMS/AM - NOVA ALÍQUOTA DO ICMS",
-            "url": "https://www.legisweb.com.br/noticia/?id=27163&termo=AL%EF%BF%BDQUOTAS+do+ICMS",
-            "description": "O estado do <strong>Amazonas</strong> publicou a Lei Complementar Nº 242 DE 29/12/2022, trazendo alterações para as alíquotas internas de <strong>ICMS</strong>. Assim, a alíquot..."
+            "title": "Muralis Assessoria e Tecnologia",
+            "url": "https://pt-br.facebook.com/muralistecnologia/",
+            "description": "Veja publicações, fotos e muito mais no Facebook."
           },
           {
-            "title": "Lei Complementar Estadual 244/2023",
-            "url": "https://online.sefaz.am.gov.br/silt/Normas/Legislação Estadual/Lei Complementar Estadual/Ano 2023/LCE 244_23.htm",
-            "description": "§ 3º O <strong>ICMS</strong> incidirá uma única vez sobre os seguintes combustíveis, qualquer que seja sua finalidade: ... II - gás liquefeito de petróleo, inclusive o derivado do gás natural. § 4º Para fins do disposto no § 3º deste artigo: I - não se aplicará o disposto no inciso III, do caput do art. 8º; II - nas operações com os combustíveis derivados de petróleo, o imposto caberá ao Estado do <strong>Amazonas</strong> ..."
+            "title": "Avaliações da empresa Muralis Tecnologia - Glassdoor",
+            "url": "https://www.glassdoor.com.br/Avaliações/Muralis-Tecnologia-Avaliações-E3417969.htm",
+            "description": "39 avaliações da empresa <strong>Muralis</strong> Tecnologia. Uma visão interna gratuita das avaliações da empresa e dos salários publicados de forma sigilosa pelos funcionários."
           },
           {
-            "title": "SAPL - Sistema de Apoio ao Processo Legislativo",
-            "url": "https://sapl.al.am.leg.br/materia/142134",
-            "description": "REQUER NA FORMA REGIMENTAL, QUE SEJA ENCAMINHADO EXPEDIENTE, NA FORMA DE INDICATIVO AO GOVERNO DO ESTADO DO AMAZONAS PARA QUE SEJA CONCEDIDA ISENÇÃO DA ALÍQUOTA DO ICMS NA TARIFA DE ÁGUA NO ESTADO DO AMAZONAS <strong>DURANTE O LAPSO TEMPORAL MÍNIMO DE 120 (CENTO E VINTE) DIAS, OU, PELO TEMPO EM</strong> ..."
+            "title": "Salários de Muralis Tecnologia | Glassdoor",
+            "url": "https://www.glassdoor.com.br/Salário/Muralis-Tecnologia-Salários-E3417969.htm",
+            "description": "Uma visão interna gratuita das tendências de salário da empresa <strong>Muralis</strong> Tecnologia com base em 59 salários de 46 vagas na empresa <strong>Muralis</strong> Tecnologia. Salários publicados de forma sigilosa por funcionários da empresa <strong>Muralis</strong> Tecnologia."
           },
           {
-            "title": "Legisla.AM",
-            "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2009/9/3092",
-            "description": "3º A alíquota do ICMS nas operações internas e de importação com veículos automotores de passageiros, de cargas e mistos, classificados pelo Código Brasileiro de Trânsito, instituído pela Lei nº 9.503, de 23 de setembro de 1997, é de <strong>12% (doze por cento),</strong> observados os termos e ..."
+            "title": "Muralis Assessoria e Tecnologia LTDA - Imagem | Esri Oficial Distributor",
+            "url": "https://parceirosepn.img.com.br/parceiro/muralis-assessoria-e-tecnologia-ltda/",
+            "description": "Somos uma empresa especializada em consultoria e desenvolvimento de soluções tecnológicas. Atuamos em mais de 32 segmentos e em mais de cinco países, estabelecendo parcerias sólidas com grandes organizações. Nosso objetivo é impulsionar o desempenho e a inovação nos negócios de nossos ..."
           },
           {
-            "title": "protocolo icms 06/90 - Sefaz MT",
-            "url": "http://app1.sefaz.mt.gov.br/Sistema/legislacao/legislacaotribut.nsf/07fa81bed2760c6b84256710004d3940/2e4b73536ec51ebe032567d30046d791",
-            "description": "Texto: PROTOCOLO <strong>ICMS</strong> 06/90 . Revogado pelo Protocolo <strong>ICMS</strong> 45/15 · Dispõe sobre a substituição tributária com trigo e cimento"
+            "title": "Publicação de Muralis Tecnologia",
+            "url": "https://pt.linkedin.com/posts/muralis_conexãomuralis-muralis-tecnologia-activity-7128088520484618240-LFX9",
+            "description": "1 bilhões de usuários | Gerencie sua identidade profissional. Crie e interaja com sua rede profissional. Aproveite o acesso a informações, estatísticas e oportunidades."
           },
           {
-            "title": "Legisla.AM",
-            "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2012/12/2544",
-            "description": "Art. 3º Nas operações de importação do exterior com mercadorias adquiridas com os favores previstos no Decreto-Lei nº 288, de 1967, e nas suas saídas subsequentes, aplicar-se-á a alíquota do ICMS de <strong>7% (sete por cento).</strong>"
+            "title": "Muralis - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Muralis",
+            "description": "Category: · Redirects to Wiktionary · Search · <strong>Muralis</strong> · 1 language · Add topic"
           },
           {
-            "title": "O ICMS para a SEFAZ-AM: Alíquotas e Contribuintes",
-            "url": "https://www.estrategiaconcursos.com.br/blog/icms-sefaz-am-aliquotas/",
-            "description": "Em relação ao ICMS, as alíquotas ... essencial, o qual ainda pode levar a problemas de saúde ao usuário, há a aplicação de uma alta alíquota, de <strong>30%</strong>, sendo a maior do estado do Amazonas...."
+            "title": "Bicycle Muralis Playing Cards",
+            "url": "https://bicyclecards.com/shop/bicycle-muralis-playing-cards-10024205",
+            "description": "<strong>Muralis</strong> from Bicycle Playing Cards is a premium playing card deck inspired by the beautiful tile work found in Mediterranean countries. The colors used throughout the deck include a terracotta, that represents the color of the roofs of many of the homes in the Greek Isles combined with sea-inspired ..."
           },
           {
-            "title": "Regulamento do ICMS - PGE-AM",
-            "url": "https://www.pge.am.gov.br/legislacao/regulamento-do-icms/",
-            "description": "SEFAZ/AM – https://online.sefaz.am.gov.br/silt/Normas/Legisla��o Estadual/Decreto Estadual/Ano 1999/Arquivo/DE_20686_99.htm · NORMAS BRASIL ��� https://www.normasbrasil.com.br/norma/decreto-20686-1999-am_119012.html"
+            "title": "Muralis Market | Happiness Served Fresh, Chennai, Tamil Nadu India — Muralis Sweets and Food Products Private Limited",
+            "url": "https://muralismarket.com/",
+            "description": "Redefine your everyday shopping experience with our one-of-a kind food store experience, now online! Get ready to experience the taste of tradition, at the comfort of your homes with our authentic food products, traditional beverages, natural staples, crunchy snacks and so much more."
           },
           {
-            "title": "Código Tributário do Estado do Amazonas - PGE-AM",
-            "url": "https://www.pge.am.gov.br/legislacao/codigo-tributario-do-estado-do-amazonas/",
-            "description": "LEI COMPLEMENTAR Nº 19, DE 29 DE DEZEMBRO DE 1997. Publicada no DOE de 29.12.97 · Efeitos a partir de…"
+            "title": "Quadrans Muralis - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Quadrans_Muralis",
+            "description": "Quadrans <strong>Muralis</strong> (Latin for mural quadrant) was a constellation created by the French astronomer Jérôme Lalande in 1795. It depicted a wall-mounted quadrant with which he and his nephew Michel Lefrançois de Lalande had charted the celestial sphere, and was named Le Mural in the French atlas."
           },
           {
-            "title": "Boletim - ICMS/AM - Índice Acumulado",
-            "url": "https://www.econeteditora.com.br/boletim_icms/indice_acumulado_icms/ind_acumulado_icms-am.php",
-            "description": "Clique no assunto desejado: · AERONAVES Venda de Mercadoria em Voos Domésticos"
+            "title": "Cymbalaria Muralis-plug plants x 3",
+            "url": "https://www.lilieswatergardens.co.uk/cymbalaria-muralis-plug-plants-p-3873.html",
+            "description": "Cymbalaria <strong>Muralis</strong>, A low growing creeping Alpine displaying masses of Lilac-blue flowers, excellent for covering excess pond liners, suitable for rock gardens and moist borders in full sun or part..."
           },
           {
-            "title": "Amazonas",
-            "url": "https://www.cenofisco.com.br/Composicao/ICMS-e-Outros/Norte/Amazonas",
-            "description": "Informações sobre <strong>ICMS</strong> e Outros, Norte, <strong>Amazonas</strong>"
+            "title": "muralis - Wiktionary, the free dictionary",
+            "url": "https://en.wiktionary.org/wiki/muralis",
+            "description": "“<strong>muralis</strong>”, in Charlton T."
           },
           {
-            "title": "Regulamento do ICMS - Estado de Amazonas",
-            "url": "https://www.econeteditora.com.br/icms_am/indice_geral_am.php",
-            "description": "TÍTULO I - DO IMPOSTO · CAPÍTULO I - Da Incidência e do Fato Gerador"
+            "title": "Muralis Architectural - Façade Products in Canada and North America",
+            "url": "https://muralisarchitectural.com/",
+            "description": "Whether it is Swisspearl, Terracotta, LKMe, Rodeca or any of our other façade products, we position ourselves as an educator, a technical assistant, and a partner through the design and implementation of our façade systems. Below are our offerings, with links to our partners websites, key ..."
           },
           {
-            "title": "Boletim-ICMS - ECONET Editora",
-            "url": "https://www.econeteditora.com.br/boletim_icms/bo-icms-am/am-13/Boletim-20/diferencial_aliquotas.php",
-            "description": "Área Restrita a Assinantes Seu Código: Sua Senha: Esqueceu sua senha? Clique aqui · Se não é cliente, clique aqui e solicite Acesso Experimental"
+            "title": "MURALIS TECNOLOGIA - Por Dentro da Empresa | Infojobs",
+            "url": "https://www.infojobs.com.br/empresa-muralis-tecnologia__489085.aspx",
+            "description": "Saiba mais sobre <strong>Muralis</strong> Tecnologia. Veja Opiniões, Salários, Fotos, Beneficios e Empregos na empresa <strong>Muralis</strong> Tecnologia"
           },
           {
-            "title": "Slide 1 - CRC/AM",
-            "url": "https://www.crcam.org.br/docs/materialICMS.ppt",
-            "description": "Acesso Rápido 1º REGISTRO ANUIDADE 2024 DECORE CURSOS/ EMISSÃO DE CERTIFICADO EMISSÃO DE BOLETOS Notícias recentes Sistema CFC/CRCs oferece Mutirão de Negociação Administrativa para quitação de dívidas O Sistema CFC/CRCs oferece a todos os profissionais e organizações…"
+            "title": "LINHA MURALIS",
+            "url": "https://www.ngasoccer.com.br/muralis",
+            "description": "LUVA NGA SOCCER <strong>MURALIS</strong> NEON · R$ 349,90 · R$ 244,93 · R$ 232,68 à vista com desconto Boleto - Vindi ou 6x de R$ 40,82 Sem juros MasterCard - Vindi · Compre Agora · LUVA NGA SOCCER <strong>MURALIS</strong> BRANCO/AZUL · R$ 349,90 · R$ 244,93 · R$ 232,68 à vista com desconto Boleto - Vindi ou 6x de ..."
           },
           {
-            "title": "Consulta SER/SEFAZ Nº 10 DE 19/02/2018 - Estadual - Amazonas - LegisWeb",
-            "url": "https://www.legisweb.com.br/legislacao/?id=357390",
-            "description": "1 - CONSULTA. 2 - <strong>ICMS</strong>. 3 - CONFUSÃO ENTRE CONCEITOS DE BASE DE CÁLCULO E ALÍQUOTA. 4 - CONSULTA NÃO RESPONDIDA."
+            "title": "Muralis Tecnologia (@muralistecnologia) • Instagram photos ...",
+            "url": "https://www.instagram.com/muralistecnologia/",
+            "description": "Erstelle ein Konto oder melde dich bei Instagram an. Mit Instagram kannst du Fotos aufnehmen, bearbeiten und teilen sowie Videos und Nachrichten an Freunde und deine Familie senden. Lass deiner Kreativität freien Lauf."
           },
           {
-            "title": "Amazonas majora alíquota do ICMS",
-            "url": "https://www.substituicaotributaria.com/SST/substituicao-tributaria/noticia/02/01/2023/amazonas-majora-aliquota-do-icms",
-            "description": "A Lei Complementar 242 de 29-12-2022, ... do <strong>ICMS</strong> nas operações internas com diversas mercadorias, que foi majorada para 20%, entrou em vigor em 29-12-2022 e os efeitos a serem observados de acordo como princípio da noventena. ... Art. 1�� Ficam alterados os dispositivos abaixo relacionados do Código Tributário do Estado do <strong>Amazonas</strong>, instituído ..."
+            "title": "Trabalhar na empresa Muralis Tecnologia | Glassdoor",
+            "url": "https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Muralis-Tecnologia-EI_IE3417969.13,31.htm",
+            "description": "Veja a opinião de funcionários sobre como é trabalhar na empresa <strong>Muralis</strong> Tecnologia. Confira salários, avaliações e muito mais: tudo publicado por funcionários da empresa <strong>Muralis</strong> Tecnologia."
           },
           {
-            "title": "Estados aumentam alíquota do ICMS - NDD",
-            "url": "https://ndd.tech/blog/compliance-fiscal/estados-sobem-aliquota-do-icms/",
-            "description": "<strong>Amazonas</strong>, Tocantins, Rio Grande do Norte e Paraná publicam novas alíquotas do <strong>ICMS</strong>. Veja o que mudou e os prazos de vigência."
-          },
-          {
-            "title": "Estados aumentam ICMS para 2023 e 2024 para se protegerem da reforma tributária; enteda – Money Times",
-            "url": "https://www.moneytimes.com.br/estados-aumentam-icms-para-2023-e-2024-para-se-protegerem-da-reforma-tributaria-enteda/",
-            "description": "A alíquota do Imposto sobre Circulação de Mercadorias e Serviços (<strong>ICMS</strong>) foi elevada em dezesseis estados e o Distrito Federal para os anos de 2023 e 2024."
+            "title": "Muralis Assessoria e Tecnologia - Página inicial | Facebook",
+            "url": "https://pt-br.facebook.com/quadransmuralis/",
+            "description": "Veja publicações, fotos e muito mais no Facebook."
           }
         ]
       }
     ]
   },
   {
-    "totalStep": 4,
-    "question": "Qual é a aliquota de icms do estado do amazonas?",
+    "totalStep": 3,
+    "question": "Pesquise pela palavra muralis e me traga os 3 primeiros resultados da pesquisa que aparecerem?",
     "action": "answer",
-    "think": "Com base nas informações fornecidas, a alíquota do ICMS no estado do Amazonas foi majorada para 20% devido à Lei Complementar nº 242/2022 que entrou em vigor em 29-12-2022. Esse aumento é aplicável às operações internas com diversas mercadorias e segue os princípios da noventena.",
-    "answer": "A alíquota do ICMS no estado do Amazonas é de 20% para operações internas, conforme a Lei Complementar nº 242/2022, que entrou em vigor em 29-12-2022. Este aumento aplica-se às mercadorias com operações interativas e segue os princípios da noventena.",
+    "think": "Com base nos resultados obtidos, os três primeiros resultados significativos relacionados à palavra 'muralis' são: Muralis Tecnologia (empresa de desenvolvimento de sistemas de TI), Cymbalaria Muralis (planta) e Quadrans Muralis (constelação).",
+    "answer": [
+      {
+        "title": "Muralis Tecnologia | Consultoria e Soluções Especializadas",
+        "description": "Muralis é uma empresa de desenvolvimento de projetos e soluções em sistemas de tecnologia da informação. Atua em mais de 32 segmentos e cinco países, estabelecendo parcerias sólidas com grandes organizações.",
+        "sourceUrl": "https://www.muralis.com.br/"
+      },
+      {
+        "title": "Cymbalaria Muralis - Planta",
+        "description": "Planta baixa e enroscada do tipo alpino que floresce em lilás-azulado. Ideal para cobrir excessos de fundo de tanque, adequado para jardins rochosos e margens húmidas.",
+        "sourceUrl": "https://www.lilieswatergardens.co.uk/cymbalaria-muralis-plug-plants-p-3873.html"
+      },
+      {
+        "title": "Quadrans Muralis - Constelação",
+        "description": "Constelação criada pelo astrônomo francês Jérôme Lalande em 1795, que representava um quadrante mural com o qual ele e seu sobrinho Michel Lefrançois de Lalande mapearam a esfera celeste.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Quadrans_Muralis"
+      }
+    ],
     "references": [
       {
-        "exactQuote": "Ficam alterados os dispositivos abaixo relacionados do Código Tributário do Estado do Amazonas, instituído pela Lei nº 6.523, de 1978, e suas alterações, relativamente às operações internas com diversas mercadorias, que foi majorada para 20%",
-        "url": "https://online.sefaz.am.gov.br/silt/Normas/Legislação Estadual/Lei Complementar Estadual/Ano 2023/LCE 244_23.htm"
+        "exactQuote": "Muralis Tecnologia | Consultoria e Soluções Especializadas",
+        "url": "https://www.muralis.com.br/"
+      },
+      {
+        "exactQuote": "Cymbalaria Muralis - Planta",
+        "url": "https://www.lilieswatergardens.co.uk/cymbalaria-muralis-plug-plants-p-3873.html"
+      },
+      {
+        "exactQuote": "Quadrans Muralis - Constelação",
+        "url": "https://en.wikipedia.org/wiki/Quadrans_Muralis"
       }
     ]
   }
