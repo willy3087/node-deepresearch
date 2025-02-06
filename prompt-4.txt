@@ -1,9 +1,9 @@
-Current date: Thu, 06 Feb 2025 14:57:58 GMT
+Current date: Thu, 06 Feb 2025 15:50:39 GMT
 
 You are an advanced AI research analyst specializing in multi-step reasoning. Using your training data and prior lessons learned, answer the following question with absolute certainty:
 
 <question>
-Qual é a aliquota de icms do estado do amazonas?
+Pesquise pela palavra muralis e me traga os 3 primeiros resultados da pesquisa que aparecerem?
 </question>
 
 
@@ -11,16 +11,13 @@ Qual é a aliquota de icms do estado do amazonas?
 You have conducted the following actions:
 <context>
 
-At step 1, you took **reflect** and think about the knowledge gaps. You found some sub-questions are important to the question: "Qual é a aliquota de icms do estado do amazonas?"
-You realize you need to know the answers to the following sub-questions:
-- [object Object]
-- [object Object]
-
-You will now figure out the answers to these sub-questions and see if they can help you find the answer to the original question.
+At step 1, you took the **search** action and look for external information for the question: "Pesquise pela palavra muralis e me traga os 3 primeiros resultados da pesquisa que aparecerem?".
+In particular, you tried to search for the following keywords: "muralis".
+You found quite some information and add them to your URL list and **visit** them later when needed. 
 
 
-At step 2, you took the **search** action and look for external information for the question: "[object Object]".
-In particular, you tried to search for the following keywords: "aliquota ICMS Amazonas".
+At step 2, you took the **search** action and look for external information for the question: "Pesquise pela palavra muralis e me traga os 3 primeiros resultados da pesquisa que aparecerem?".
+In particular, you tried to search for the following keywords: "muralis".
 You found quite some information and add them to your URL list and **visit** them later when needed. 
 
 
@@ -34,17 +31,33 @@ You have successfully gathered some knowledge which might be useful for answerin
 
 <knowledge-1>
 <question>
-What do Internet say about aliquota icms estado amazonas?
+What do Internet say about muralis?
 </question>
 <answer>
-We cannot provide a description for this page right now; O valor do ICMS será a diferença entre o preço final com ICMS e o valor original do produto. Veja abaixo um exemplo: Se um produto no Amazonas custa R$ 10 e a alíquota do estado é 20%, o cálculo correto será: R$ 10 / (1 – 0,20) ≈ R$ 12,50. Portanto, o valor total do produto, já ...; O estado do Amazonas publicou a Lei Complementar Nº 242 DE 29/12/2022, trazendo alterações para as alíquotas internas de ICMS. Assim, a alíquot...; § 3º O ICMS incidirá uma única vez sobre os seguintes combustíveis, qualquer que seja sua finalidade: ... II - gás liquefeito de petróleo, inclusive o derivado do gás natural. § 4º Para fins do disposto no § 3º deste artigo: I - não se aplicará o disposto no inciso III, do caput do art. 8º; II - nas operações com os combustíveis derivados de petróleo, o imposto caberá ao Estado do Amazonas ...; REQUER NA FORMA REGIMENTAL, QUE SEJA ENCAMINHADO EXPEDIENTE, NA FORMA DE INDICATIVO AO GOVERNO DO ESTADO DO AMAZONAS PARA QUE SEJA CONCEDIDA ISENÇÃO DA ALÍQUOTA DO ICMS NA TARIFA DE ÁGUA NO ESTADO DO AMAZONAS DURANTE O LAPSO TEMPORAL MÍNIMO DE 120 (CENTO E VINTE) DIAS, OU, PELO TEMPO EM ...; 3º A alíquota do ICMS nas operações internas e de importação com veículos automotores de passageiros, de cargas e mistos, classificados pelo Código Brasileiro de Trânsito, instituído pela Lei nº 9.503, de 23 de setembro de 1997, é de 12% (doze por cento), observados os termos e ...; Texto: PROTOCOLO ICMS 06/90 . Revogado pelo Protocolo ICMS 45/15 · Dispõe sobre a substituição tributária com trigo e cimento; Art. 3º Nas operações de importação do exterior com mercadorias adquiridas com os favores previstos no Decreto-Lei nº 288, de 1967, e nas suas saídas subsequentes, aplicar-se-á a alíquota do ICMS de 7% (sete por cento).; Em relação ao ICMS, as alíquotas ... essencial, o qual ainda pode levar a problemas de saúde ao usuário, há a aplicação de uma alta alíquota, de 30%, sendo a maior do estado do Amazonas....; SEFAZ/AM – https://online.sefaz.am.gov.br/silt/Normas/Legisla��o Estadual/Decreto Estadual/Ano 1999/Arquivo/DE_20686_99.htm · NORMAS BRASIL ��� https://www.normasbrasil.com.br/norma/decreto-20686-1999-am_119012.html; LEI COMPLEMENTAR Nº 19, DE 29 DE DEZEMBRO DE 1997. Publicada no DOE de 29.12.97 · Efeitos a partir de…; Clique no assunto desejado: · AERONAVES Venda de Mercadoria em Voos Domésticos; Informações sobre ICMS e Outros, Norte, Amazonas; TÍTULO I - DO IMPOSTO · CAPÍTULO I - Da Incidência e do Fato Gerador; Área Restrita a Assinantes Seu Código: Sua Senha: Esqueceu sua senha? Clique aqui · Se não é cliente, clique aqui e solicite Acesso Experimental; Acesso Rápido 1º REGISTRO ANUIDADE 2024 DECORE CURSOS/ EMISSÃO DE CERTIFICADO EMISSÃO DE BOLETOS Notícias recentes Sistema CFC/CRCs oferece Mutirão de Negociação Administrativa para quitação de dívidas O Sistema CFC/CRCs oferece a todos os profissionais e organizações…; 1 - CONSULTA. 2 - ICMS. 3 - CONFUSÃO ENTRE CONCEITOS DE BASE DE CÁLCULO E ALÍQUOTA. 4 - CONSULTA NÃO RESPONDIDA.; A Lei Complementar 242 de 29-12-2022, ... do ICMS nas operações internas com diversas mercadorias, que foi majorada para 20%, entrou em vigor em 29-12-2022 e os efeitos a serem observados de acordo como princípio da noventena. ... Art. 1�� Ficam alterados os dispositivos abaixo relacionados do Código Tributário do Estado do Amazonas, instituído ...; Amazonas, Tocantins, Rio Grande do Norte e Paraná publicam novas alíquotas do ICMS. Veja o que mudou e os prazos de vigência.; A alíquota do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) foi elevada em dezesseis estados e o Distrito Federal para os anos de 2023 e 2024.
+A Muralis é uma empresa de desenvolvimento de projetos e soluções em sistemas de tecnologia da informação. ​ Nossos serviços parecem complexos, mas não se preocupe, a execução deixa tudo bastante claro. Você traz o problema, nós fazemos uma imersão nos seus processos, e o que ...; Muralis Tecnologia | 4.409 seguidores no LinkedIn. Muralis Tecnologia. Além do sistema. | Somos a Muralis, uma empresa de desenvolvimento de projetos e soluções em sistemas de tecnologia da informação.; Veja publicações, fotos e muito mais no Facebook.; 39 avaliações da empresa Muralis Tecnologia. Uma visão interna gratuita das avaliações da empresa e dos salários publicados de forma sigilosa pelos funcionários.; Uma visão interna gratuita das tendências de salário da empresa Muralis Tecnologia com base em 59 salários de 46 vagas na empresa Muralis Tecnologia. Salários publicados de forma sigilosa por funcionários da empresa Muralis Tecnologia.; Somos uma empresa especializada em consultoria e desenvolvimento de soluções tecnológicas. Atuamos em mais de 32 segmentos e em mais de cinco países, estabelecendo parcerias sólidas com grandes organizações. Nosso objetivo é impulsionar o desempenho e a inovação nos negócios de nossos ...; 1 bilhões de usuários | Gerencie sua identidade profissional. Crie e interaja com sua rede profissional. Aproveite o acesso a informações, estatísticas e oportunidades.; Category: · Redirects to Wiktionary · Search · Muralis · 1 language · Add topic; Muralis from Bicycle Playing Cards is a premium playing card deck inspired by the beautiful tile work found in Mediterranean countries. The colors used throughout the deck include a terracotta, that represents the color of the roofs of many of the homes in the Greek Isles combined with sea-inspired ...; Redefine your everyday shopping experience with our one-of-a kind food store experience, now online! Get ready to experience the taste of tradition, at the comfort of your homes with our authentic food products, traditional beverages, natural staples, crunchy snacks and so much more.; Quadrans Muralis (Latin for mural quadrant) was a constellation created by the French astronomer Jérôme Lalande in 1795. It depicted a wall-mounted quadrant with which he and his nephew Michel Lefrançois de Lalande had charted the celestial sphere, and was named Le Mural in the French atlas.; Cymbalaria Muralis, A low growing creeping Alpine displaying masses of Lilac-blue flowers, excellent for covering excess pond liners, suitable for rock gardens and moist borders in full sun or part...; “muralis”, in Charlton T.; Whether it is Swisspearl, Terracotta, LKMe, Rodeca or any of our other façade products, we position ourselves as an educator, a technical assistant, and a partner through the design and implementation of our façade systems. Below are our offerings, with links to our partners websites, key ...; Saiba mais sobre Muralis Tecnologia. Veja Opiniões, Salários, Fotos, Beneficios e Empregos na empresa Muralis Tecnologia; LUVA NGA SOCCER MURALIS NEON · R$ 349,90 · R$ 244,93 · R$ 232,68 à vista com desconto Boleto - Vindi ou 6x de R$ 40,82 Sem juros MasterCard - Vindi · Compre Agora · LUVA NGA SOCCER MURALIS BRANCO/AZUL · R$ 349,90 · R$ 244,93 · R$ 232,68 à vista com desconto Boleto - Vindi ou 6x de ...; Erstelle ein Konto oder melde dich bei Instagram an. Mit Instagram kannst du Fotos aufnehmen, bearbeiten und teilen sowie Videos und Nachrichten an Freunde und deine Familie senden. Lass deiner Kreativität freien Lauf.; Veja a opinião de funcionários sobre como é trabalhar na empresa Muralis Tecnologia. Confira salários, avaliações e muito mais: tudo publicado por funcionários da empresa Muralis Tecnologia.; Veja publicações, fotos e muito mais no Facebook.
 </answer>
 
 <references>
-["https://sistemas.sefaz.am.gov.br/gdd/pages/content/autodesembaraco/tabelatributacao/indices_355.pdf","https://www.taxgroup.com.br/intelligence/icms-am-2024-tabela-atualizada/","https://www.legisweb.com.br/noticia/?id=27163&termo=AL%EF%BF%BDQUOTAS+do+ICMS","https://online.sefaz.am.gov.br/silt/Normas/Legislação Estadual/Lei Complementar Estadual/Ano 2023/LCE 244_23.htm","https://sapl.al.am.leg.br/materia/142134","https://legisla.imprensaoficial.am.gov.br/diario_am/12/2009/9/3092","http://app1.sefaz.mt.gov.br/Sistema/legislacao/legislacaotribut.nsf/07fa81bed2760c6b84256710004d3940/2e4b73536ec51ebe032567d30046d791","https://legisla.imprensaoficial.am.gov.br/diario_am/12/2012/12/2544","https://www.estrategiaconcursos.com.br/blog/icms-sefaz-am-aliquotas/","https://www.pge.am.gov.br/legislacao/regulamento-do-icms/","https://www.pge.am.gov.br/legislacao/codigo-tributario-do-estado-do-amazonas/","https://www.econeteditora.com.br/boletim_icms/indice_acumulado_icms/ind_acumulado_icms-am.php","https://www.cenofisco.com.br/Composicao/ICMS-e-Outros/Norte/Amazonas","https://www.econeteditora.com.br/icms_am/indice_geral_am.php","https://www.econeteditora.com.br/boletim_icms/bo-icms-am/am-13/Boletim-20/diferencial_aliquotas.php","https://www.crcam.org.br/docs/materialICMS.ppt","https://www.legisweb.com.br/legislacao/?id=357390","https://www.substituicaotributaria.com/SST/substituicao-tributaria/noticia/02/01/2023/amazonas-majora-aliquota-do-icms","https://ndd.tech/blog/compliance-fiscal/estados-sobem-aliquota-do-icms/","https://www.moneytimes.com.br/estados-aumentam-icms-para-2023-e-2024-para-se-protegerem-da-reforma-tributaria-enteda/"]
+["https://www.muralis.com.br/","https://br.linkedin.com/company/muralis","https://pt-br.facebook.com/muralistecnologia/","https://www.glassdoor.com.br/Avaliações/Muralis-Tecnologia-Avaliações-E3417969.htm","https://www.glassdoor.com.br/Salário/Muralis-Tecnologia-Salários-E3417969.htm","https://parceirosepn.img.com.br/parceiro/muralis-assessoria-e-tecnologia-ltda/","https://pt.linkedin.com/posts/muralis_conexãomuralis-muralis-tecnologia-activity-7128088520484618240-LFX9","https://en.wikipedia.org/wiki/Muralis","https://bicyclecards.com/shop/bicycle-muralis-playing-cards-10024205","https://muralismarket.com/","https://en.wikipedia.org/wiki/Quadrans_Muralis","https://www.lilieswatergardens.co.uk/cymbalaria-muralis-plug-plants-p-3873.html","https://en.wiktionary.org/wiki/muralis","https://muralisarchitectural.com/","https://www.infojobs.com.br/empresa-muralis-tecnologia__489085.aspx","https://www.ngasoccer.com.br/muralis","https://www.instagram.com/muralistecnologia/","https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Muralis-Tecnologia-EI_IE3417969.13,31.htm","https://pt-br.facebook.com/quadransmuralis/"]
 </references>
 
 </knowledge-1>
+
+
+
+<knowledge-2>
+<question>
+What do Internet say about muralis?
+</question>
+<answer>
+A Muralis é uma empresa de desenvolvimento de projetos e soluções em sistemas de tecnologia da informação. ​ Nossos serviços parecem complexos, mas não se preocupe, a execução deixa tudo bastante claro. Você traz o problema, nós fazemos uma imersão nos seus processos, e o que ...; Muralis Tecnologia | 4.409 seguidores no LinkedIn. Muralis Tecnologia. Além do sistema. | Somos a Muralis, uma empresa de desenvolvimento de projetos e soluções em sistemas de tecnologia da informação.; Veja publicações, fotos e muito mais no Facebook.; 39 avaliações da empresa Muralis Tecnologia. Uma visão interna gratuita das avaliações da empresa e dos salários publicados de forma sigilosa pelos funcionários.; Uma visão interna gratuita das tendências de salário da empresa Muralis Tecnologia com base em 59 salários de 46 vagas na empresa Muralis Tecnologia. Salários publicados de forma sigilosa por funcionários da empresa Muralis Tecnologia.; Somos uma empresa especializada em consultoria e desenvolvimento de soluções tecnológicas. Atuamos em mais de 32 segmentos e em mais de cinco países, estabelecendo parcerias sólidas com grandes organizações. Nosso objetivo é impulsionar o desempenho e a inovação nos negócios de nossos ...; 1 bilhões de usuários | Gerencie sua identidade profissional. Crie e interaja com sua rede profissional. Aproveite o acesso a informações, estatísticas e oportunidades.; Category: · Redirects to Wiktionary · Search · Muralis · 1 language · Add topic; Muralis from Bicycle Playing Cards is a premium playing card deck inspired by the beautiful tile work found in Mediterranean countries. The colors used throughout the deck include a terracotta, that represents the color of the roofs of many of the homes in the Greek Isles combined with sea-inspired ...; Redefine your everyday shopping experience with our one-of-a kind food store experience, now online! Get ready to experience the taste of tradition, at the comfort of your homes with our authentic food products, traditional beverages, natural staples, crunchy snacks and so much more.; Quadrans Muralis (Latin for mural quadrant) was a constellation created by the French astronomer Jérôme Lalande in 1795. It depicted a wall-mounted quadrant with which he and his nephew Michel Lefrançois de Lalande had charted the celestial sphere, and was named Le Mural in the French atlas.; Cymbalaria Muralis, A low growing creeping Alpine displaying masses of Lilac-blue flowers, excellent for covering excess pond liners, suitable for rock gardens and moist borders in full sun or part...; “muralis”, in Charlton T.; Whether it is Swisspearl, Terracotta, LKMe, Rodeca or any of our other façade products, we position ourselves as an educator, a technical assistant, and a partner through the design and implementation of our façade systems. Below are our offerings, with links to our partners websites, key ...; Saiba mais sobre Muralis Tecnologia. Veja Opiniões, Salários, Fotos, Beneficios e Empregos na empresa Muralis Tecnologia; LUVA NGA SOCCER MURALIS NEON · R$ 349,90 · R$ 244,93 · R$ 232,68 à vista com desconto Boleto - Vindi ou 6x de R$ 40,82 Sem juros MasterCard - Vindi · Compre Agora · LUVA NGA SOCCER MURALIS BRANCO/AZUL · R$ 349,90 · R$ 244,93 · R$ 232,68 à vista com desconto Boleto - Vindi ou 6x de ...; Erstelle ein Konto oder melde dich bei Instagram an. Mit Instagram kannst du Fotos aufnehmen, bearbeiten und teilen sowie Videos und Nachrichten an Freunde und deine Familie senden. Lass deiner Kreativität freien Lauf.; Veja a opinião de funcionários sobre como é trabalhar na empresa Muralis Tecnologia. Confira salários, avaliações e muito mais: tudo publicado por funcionários da empresa Muralis Tecnologia.; Veja publicações, fotos e muito mais no Facebook.
+</answer>
+
+<references>
+["https://www.muralis.com.br/","https://br.linkedin.com/company/muralis","https://pt-br.facebook.com/muralistecnologia/","https://www.glassdoor.com.br/Avaliações/Muralis-Tecnologia-Avaliações-E3417969.htm","https://www.glassdoor.com.br/Salário/Muralis-Tecnologia-Salários-E3417969.htm","https://parceirosepn.img.com.br/parceiro/muralis-assessoria-e-tecnologia-ltda/","https://pt.linkedin.com/posts/muralis_conexãomuralis-muralis-tecnologia-activity-7128088520484618240-LFX9","https://en.wikipedia.org/wiki/Muralis","https://bicyclecards.com/shop/bicycle-muralis-playing-cards-10024205","https://muralismarket.com/","https://en.wikipedia.org/wiki/Quadrans_Muralis","https://www.lilieswatergardens.co.uk/cymbalaria-muralis-plug-plants-p-3873.html","https://en.wiktionary.org/wiki/muralis","https://muralisarchitectural.com/","https://www.infojobs.com.br/empresa-muralis-tecnologia__489085.aspx","https://www.ngasoccer.com.br/muralis","https://www.instagram.com/muralistecnologia/","https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Muralis-Tecnologia-EI_IE3417969.13,31.htm","https://pt-br.facebook.com/quadransmuralis/"]
+</references>
+
+</knowledge-2>
 
 
 </knowledge>
@@ -57,26 +70,25 @@ Based on the current context, you must choose one of the following actions:
 <action-visit>    
 - Visit any URLs from below to gather external knowledge, choose the most relevant URLs that might contain the answer
 <url-list>
-  + "https://sistemas.sefaz.am.gov.br/gdd/pages/content/autodesembaraco/tabelatributacao/indices_355.pdf": "Tabela de multiplicadores para ICMS na entrada Nacional ..."
-  + "https://www.taxgroup.com.br/intelligence/icms-am-2024-tabela-atualizada/": "ICMS AM 2024 - Tabela atualizada - Tax Group"
-  + "https://www.legisweb.com.br/noticia/?id=27163&termo=AL%EF%BF%BDQUOTAS+do+ICMS": "ICMS/AM - NOVA ALÍQUOTA DO ICMS"
-  + "https://online.sefaz.am.gov.br/silt/Normas/Legislação Estadual/Lei Complementar Estadual/Ano 2023/LCE 244_23.htm": "Lei Complementar Estadual 244/2023"
-  + "https://sapl.al.am.leg.br/materia/142134": "SAPL - Sistema de Apoio ao Processo Legislativo"
-  + "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2009/9/3092": "Legisla.AM"
-  + "http://app1.sefaz.mt.gov.br/Sistema/legislacao/legislacaotribut.nsf/07fa81bed2760c6b84256710004d3940/2e4b73536ec51ebe032567d30046d791": "protocolo icms 06/90 - Sefaz MT"
-  + "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2012/12/2544": "Legisla.AM"
-  + "https://www.estrategiaconcursos.com.br/blog/icms-sefaz-am-aliquotas/": "O ICMS para a SEFAZ-AM: Alíquotas e Contribuintes"
-  + "https://www.pge.am.gov.br/legislacao/regulamento-do-icms/": "Regulamento do ICMS - PGE-AM"
-  + "https://www.pge.am.gov.br/legislacao/codigo-tributario-do-estado-do-amazonas/": "Código Tributário do Estado do Amazonas - PGE-AM"
-  + "https://www.econeteditora.com.br/boletim_icms/indice_acumulado_icms/ind_acumulado_icms-am.php": "Boletim - ICMS/AM - Índice Acumulado"
-  + "https://www.cenofisco.com.br/Composicao/ICMS-e-Outros/Norte/Amazonas": "Amazonas"
-  + "https://www.econeteditora.com.br/icms_am/indice_geral_am.php": "Regulamento do ICMS - Estado de Amazonas"
-  + "https://www.econeteditora.com.br/boletim_icms/bo-icms-am/am-13/Boletim-20/diferencial_aliquotas.php": "Boletim-ICMS - ECONET Editora"
-  + "https://www.crcam.org.br/docs/materialICMS.ppt": "Slide 1 - CRC/AM"
-  + "https://www.legisweb.com.br/legislacao/?id=357390": "Consulta SER/SEFAZ Nº 10 DE 19/02/2018 - Estadual - Amazonas - LegisWeb"
-  + "https://www.substituicaotributaria.com/SST/substituicao-tributaria/noticia/02/01/2023/amazonas-majora-aliquota-do-icms": "Amazonas majora alíquota do ICMS"
-  + "https://ndd.tech/blog/compliance-fiscal/estados-sobem-aliquota-do-icms/": "Estados aumentam alíquota do ICMS - NDD"
-  + "https://www.moneytimes.com.br/estados-aumentam-icms-para-2023-e-2024-para-se-protegerem-da-reforma-tributaria-enteda/": "Estados aumentam ICMS para 2023 e 2024 para se protegerem da reforma tributária; enteda – Money Times"
+  + "https://www.muralis.com.br/": "Muralis Tecnologia I Consultoria e Soluções Especializadas"
+  + "https://br.linkedin.com/company/muralis": "Muralis Tecnologia | LinkedIn"
+  + "https://pt-br.facebook.com/muralistecnologia/": "Muralis Assessoria e Tecnologia"
+  + "https://www.glassdoor.com.br/Avaliações/Muralis-Tecnologia-Avaliações-E3417969.htm": "Avaliações da empresa Muralis Tecnologia - Glassdoor"
+  + "https://www.glassdoor.com.br/Salário/Muralis-Tecnologia-Salários-E3417969.htm": "Salários de Muralis Tecnologia | Glassdoor"
+  + "https://parceirosepn.img.com.br/parceiro/muralis-assessoria-e-tecnologia-ltda/": "Muralis Assessoria e Tecnologia LTDA - Imagem | Esri Oficial Distributor"
+  + "https://pt.linkedin.com/posts/muralis_conexãomuralis-muralis-tecnologia-activity-7128088520484618240-LFX9": "Publicação de Muralis Tecnologia"
+  + "https://en.wikipedia.org/wiki/Muralis": "Muralis - Wikipedia"
+  + "https://bicyclecards.com/shop/bicycle-muralis-playing-cards-10024205": "Bicycle Muralis Playing Cards"
+  + "https://muralismarket.com/": "Muralis Market | Happiness Served Fresh, Chennai, Tamil Nadu India — Muralis Sweets and Food Products Private Limited"
+  + "https://en.wikipedia.org/wiki/Quadrans_Muralis": "Quadrans Muralis - Wikipedia"
+  + "https://www.lilieswatergardens.co.uk/cymbalaria-muralis-plug-plants-p-3873.html": "Cymbalaria Muralis-plug plants x 3"
+  + "https://en.wiktionary.org/wiki/muralis": "muralis - Wiktionary, the free dictionary"
+  + "https://muralisarchitectural.com/": "Muralis Architectural - Façade Products in Canada and North America"
+  + "https://www.infojobs.com.br/empresa-muralis-tecnologia__489085.aspx": "MURALIS TECNOLOGIA - Por Dentro da Empresa | Infojobs"
+  + "https://www.ngasoccer.com.br/muralis": "LINHA MURALIS"
+  + "https://www.instagram.com/muralistecnologia/": "Muralis Tecnologia (@muralistecnologia) • Instagram photos ..."
+  + "https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Muralis-Tecnologia-EI_IE3417969.13,31.htm": "Trabalhar na empresa Muralis Tecnologia | Glassdoor"
+  + "https://pt-br.facebook.com/quadransmuralis/": "Muralis Assessoria e Tecnologia - Página inicial | Facebook"
 </url-list>
 - When you have enough search result in the context and want to deep dive into specific URLs
 - It allows you to access the full content behind any URLs

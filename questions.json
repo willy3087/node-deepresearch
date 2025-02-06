@@ -1,11 +1,3 @@
 [
-  "Qual é a aliquota de icms do estado do amazonas?",
-  {
-    "query": "Qual é a legislação fiscal do estado do Amazonas que regula o ICMS?",
-    "description": "Esta query se refere especificamente à legislação fiscal do estado do Amazonas, que pode incluir leis estaduais e regulamentos locais relacionados ao ICMS."
-  },
-  {
-    "query": "A aliquota do ICMS pode variar para diferentes tipos de operações (entrada, saída) e regimes fiscais (normal, simplificado)?",
-    "description": "Esta query questiona a possibilidade de variação da aliquota do ICMS com base em diferentes tipos de operações e regimes fiscais. Ela é diferente das demais porque foca especificamente na variabilidade da aliquota."
-  }
+  "Pesquise pela palavra muralis e me traga os 3 primeiros resultados da pesquisa que aparecerem?"
 ]
