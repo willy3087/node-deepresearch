@@ -1,16 +1,140 @@
+<<<<<<< HEAD
+Current date: Thu, 06 Feb 2025 11:32:55 GMT
+=======
 Current date: Wed, 05 Feb 2025 22:29:22 GMT
+>>>>>>> parent of 15c896f (feat: Shift research focus to deep web services and internet service definitions)
 
 You are an advanced AI research analyst specializing in multi-step reasoning. Using your training data and prior lessons learned, answer the following question with absolute certainty:
 
 <question>
+<<<<<<< HEAD
+Quais são os códigos NCM e CSTs corretos para entrada de refrigerante em SP, SC e CE?
+=======
 pesquise no google por ncm e me traga o primeiro link que apareceu como resultado
+>>>>>>> parent of 15c896f (feat: Shift research focus to deep web services and internet service definitions)
 </question>
+
+
+
+<<<<<<< HEAD
+You have conducted the following actions:
+<context>
+
+At step 1, you took **reflect** and think about the knowledge gaps. You found some sub-questions are important to the question: "Qual a ncm e o cst de entrada e saida do refrigerante no Ceará, São Paulo e Santa Catarina valide isso com a tabela efd contribuicoes do portal da receita federal?"
+You realize you need to know the answers to the following sub-questions:
+- Quais são as NCMs para refrigerantes em cada estado?
+- Qual é o CST correto para entrada de refrigerante em cada estado?
+- Qual é o CST correto para saída de refrigerante em cada estado?
+- Como a tabela EFD Contribuições do portal da Receita Federal pode ser usada para validar essas informações?
+
+You will now figure out the answers to these sub-questions and see if they can help you find the answer to the original question.
+
+
+At step 2, you took the **search** action and look for external information for the question: "Quais são as NCMs para refrigerantes em cada estado?".
+In particular, you tried to search for the following keywords: "NCM refrigerantes Ceará, NCM refrigerantes São Paulo, NCM refrigerantes Santa Catarina site:gov.br".
+You found quite some information and add them to your URL list and **visit** them later when needed. 
+
+
+At step 6, you took **reflect** and think about the knowledge gaps. You found some sub-questions are important to the question: "Qual a ncm e o cst de entrada e saida do refrigerante no Ceará, São Paulo e Santa Catarina valide isso com a tabela efd contribuicoes do portal da receita federal?"
+You realize you need to know the answers to the following sub-questions:
+- Quais são os códigos NCM e CSTs corretos para entrada de refrigerante em SP, SC e CE?
+- Quais são os códigos NCM e CSTs corretos para saída de refrigerante em SP, SC e CE?
+- Como a tabela EFD Contribuições do portal da Receita Federal pode ser usada para validar essas informações?
+
+You will now figure out the answers to these sub-questions and see if they can help you find the answer to the original question.
+
+
+</context>
+
+
+
+You have successfully gathered some knowledge which might be useful for answering the original question. Here is the knowledge you have gathered so far:
+<knowledge>
+
+
+<knowledge-1>
+<question>
+What do Internet say about NCM refrigerantes Ceará,NCM refrigerantes São Paulo,NCM refrigerantes Santa Catarina,CST entrada refrigerante Ceará,CST saída refrigerante Ceará,CST entrada refrigerante São Paulo,CST saída refrigerante São Paulo,CST entrada refrigerante Santa Catarina,CST saída refrigerante Santa Catarina,Tabela EFD Contribuições portal da Receita Federal?
+</question>
+<answer>
+Sabemos que em alguns casos pode ser um tanto difícil entender como se dá a NCM refrigerante, por isso, este conteúdo completo sobre...; O código de NCM para refrigerantes é o 2202.10.00.; Para a identificação de refrigerante, a NCM utilizada é a de número 2202.10.00.; O NCM é 22 02.10.00 pois a Nomenclatura Comum do Mercosul apenas acrescenta dois números à sequência. Já o CEST refrigerante não é específico e pode ter variações.; Por exemplo, se você pesquisar pelo NCM 2202.10.00 perceberá que é também o NCM do Refrigerante, além de o código de outros tipos de produtos.; Por exemplo, se você pesquisar pelo NCM 2202.10.00 perceberá que é também o NCM do Refrigerante, além de o código de outros tipos de produtos.; Cervejas, Chopes, Refrigerantes, Águas e outras Bebidas Margem de Valor Agregado – ICMS/ST APÊNDICE IV – DECRETO N° 2269/98 Pesquisar GTIN Prot.Conv.ICMS Pesquisar NESH NOTA: Não se aplica Preço Médio Ponderado a Consumidor Final (PMPF): Nas operações internas e interestaduais quando ...; Veja aqui todas informações da NCM 8414.30.19. �� Detalhamento; ✅ Atributos de Importação; ✅ Atributos de Exportação.; Isso porque dentre as mercadorias que comercializa há bebidas que não são expressamente mencionadas nesse dispositivo legal, tais como refrigerantes, classificados na posição 22.02 da NCM, e bebidas hidroeletrolíticas (isotônicas) e energéticas classificadas nas posições 2106.90 e ...; Consulte Produtos por Código de Barras (GTIN/EAN), Classificação Fiscal (NCM), Fabricante, CNAE, Marca, Preço, Tributos (ICMS, PIS, COFINS, CSTs), CFOP e muito mais.; PORTARIA Nº 26-R, DE 27 DE MAIO DE 2020 · Altera o Anexo Único da Portaria nº 012-R, de 29 de março de 2019, que trata do Preço Médio Ponderado a Consumidor Final – PMPF – para os produtos do setor de bebidas frias; DECRETO N. 4.099-R, DE 11 DE MAIO DE 2017 · Introduz alteraes no RICMS/ES, aprovado pelo Decreto n. 1.090-R, de 25 de outubro de 2002; O ICMS é um dos impostos mais importantes para os estados. Veja a Tabela ICMS 2025 atualizada e permaneça em conformidade com o Fisco!; Boa tarde Colegas do Portal,Uma empresa, lanchonete, vende mini salgadinhos, refrigerante, sucos, mini churros e etc.A empresa trabalha com os chamados combos, exemplo: duas mini coxinhas + um mini churros + um copo de suco, ... Veja as 6 respostas.; Introduz alterações no RICMS/ES, aprovado pelo Decreto n° 1.090-R, de 25 de outubro de 2002. O GOVERNADOR DO ESTADO DO ESPÍRITO SANTO, no uso das atribuições que lhe confere o art. 91, III, da Constituição Estadual, e em consonância com as informações constantes do processo n° 81458177, ...; NCM 84186999 preços FOB e frete. Simulação de impostos. Outros materiais/máquinas/aparelhos, para produzir frio, e bombas de calor; Cenofisco - Nossa missão é prestar o melhor serviço de informação, orientação e atualização nas áreas fiscal, contábil, empresarial, previdenciária e trabalhista, por meio da excelência dos produtos e serviços oferecidos.; Tabela CEST 2021 – Segmento 03 - Cervejas, chopes, refrigerantes, águas e outras bebidas - Sistema de vendas e gestão para o seu negócio.; Index of /app/webroot/imagensMat · Last modified · Description · Parent Directory · área aproveitável.jpg · 2019-09-09 12:38 · áreas não tributáveis.jpg · 2018-08-27 12:31 · áreas não tributáveis 19.jpg · 2019-09-06 17:47; We cannot provide a description for this page right now; Com uma base de cadastros sempre em dia, a NCM refrigerante e demais ficam certas e classificam sua tributação correta.  · Assim, todos seus outros impostos como: ICMS, II e IPI, também passaram a ter os valores corretos. As mercadorias são ordenadas sistematicamente, de uma forma progressiva, ...; Dois oito dígitos que compõem a Nomenclatura, seis deles são Sh. No total, a Nomenclatura Comum do Mercosul é formada por 96 capítulos, ordenados por 21 seções. Por exemplo, se você pesquisar pelo NCM 2202.10.00 perceberá que é também o NCM do Refrigerante, além de o código de ...; Sendo que os primeiros dígitos são responsáveis por identificar as categorias que cada produto se encaixa, e os últimos são os que identificam as categorias mais específicas em relação ao produto. Para a identificação de refrigerante, a NCM utilizada é a de número 2202.10.00.; Empreendedores que trabalham no segmento de bares, restaurantes e exportação de bebidas devem saber sobre NCM de bebidas. Confira!; Por exemplo, se você pesquisar pelo NCM 2202.10.00 perceberá que é também o NCM do Refrigerante, além de o código de outros tipos de produtos.; Assim, de modo geral, à medida que cresce a participação do homem na elaboração da mercadoria, mais elevado é o número do Capítulo em que ela será classificada. Os seis primeiros dígitos da NCM seguem, por convenção internacional, o SH e seus dois últimos dígitos são definidos ...; Isso porque dentre as mercadorias que comercializa há bebidas que não são expressamente mencionadas nesse dispositivo legal, tais como refrigerantes, classificados na posição 22.02 da NCM, e bebidas hidroeletrolíticas (isotônicas) e energéticas classificadas nas posições 2106.90 e ...; O NCM é 22 02.10.00 pois a Nomenclatura Comum do Mercosul apenas acrescenta dois números à sequência. Já o CEST refrigerante não é específico e pode ter variações. Para 600 ml o código é 03.010.00 e 03.011.00 para os demais. O CEST serve para uniformizar a identificação de bens ...; As principais cidades com maior ... empresas de refrigerantes em São Paulo, são os CNAEs C-1122-4/01 - fabricação de refrigerantes e de outras bebidas não-alcoólicas, G-4723-7/00 - comércio varejista de bebidas....; Boa tarde Luciana; Não existe tratamento de combo perante a legislação. Você terá que passar item por item. Mini-coxinha - NCM 1902.20.00 Mini-Churros - NCM 1902.20.00 Suco - NCM 2009.80.00 Refrigerante - NCM 2202.10.00 Att; Inteligência fiscal, tecnologia, NCM correta para 21069010 - Preparações compostas, não alcoólicas (extratos concentrados ou sabores concentrados) , para elaboração de bebida refrigerante do Capítulo 22, com capacidade de diluição de até 10 partes da bebid. . .; Ao serem questionados sobre o mesmo ... eletroeletrnicos e eletrodomsticos, firmaram entendimento no sentido de que os refrigeradores classificados no cdigo NCM/SH 8418.50.90 no esto sujeitos ao regime de substituio tributria....; Veja aqui todas informações da NCM 8414.30.19. ✅ Detalhamento; ✅ Atributos de Importação; ✅ Atributos de Exportação.; Consulte Produtos por Código de Barras (GTIN/EAN), Classificação Fiscal (NCM), Fabricante, CNAE, Marca, Preço, Tributos (ICMS, PIS, COFINS, CSTs), CFOP e muito mais.; No ranking das maiores empresas de refrigerantes em São Paulo, estão: 1. EMPARE EMPRESA PAULISTA DE REFRIGERANTES LTDA, 2. REFRIGERANTES ARCO IRIS, 3. REFRIGERANTES POTY.; O ICMS é um dos impostos mais importantes para os estados. Veja a Tabela ICMS 2025 atualizada e permaneça em conformidade com o Fisco!; NCM 84186999 preços FOB e frete. Simulação de impostos. Outros materiais/máquinas/aparelhos, para produzir frio, e bombas de calor; NCM é a abreviação para Nomenclatura Comum Mercosul. Ele é um código de 8 dígitos utilizado para identificar as mercadorias... Leia mais!; Refrigeradores, congeladores ( freezers ) e outros materiais, máquinas e aparelhos, para a produção de frio, com equipamento elétrico ou outro; bombas de calor, excluindo as máquinas e aparelhos de ar-condicionado da posição 84.15.; Inteligência fiscal, tecnologia, NCM correta para 84198991 - Recipiente refrigerador, com dispositivo de circulação de fluido refrigerante; EMENTA: ICMS. SUBSTITUIÇÃO TRIBUTÁRIA. AS OPERAÇÕES PARA DESTINATÁRIOS LOCALIZADOS NO ESTADO DE SANTA CATARINA, DE BEBIDAS ENERGÉTICAS CONTENDO TAURINA E CAFEÍNA, CLASSIFICADAS NA POSIÇÃO NBM/NCM 2202.90.00, SUJEITAM-SE AO REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA.; Seção IV Cervejas, chopes, refrigerantes e outras bebidas · Nota: V. art. 41 a 42-A do Anexo 3 · (i) %MVA distribuidor, depósito ou estabelecimento atacadista · (ii) %MVA industrial, importador, arrematante ou engarrafador de água mineral · Seção V Cigarros e outros produtos derivados ...; Isto posto, responda-se a consulente ... no cdigo NCM/SH 8418.50.90 esto sujeitos ao regime de substituio tributria previsto no RICMS-SC/01, Anexo 3, arts. 236 a 238. Em seu pedido de reconsiderao, o consulente apresentou fato que justifica uma nova anlise do assunto. Ao serem questionados sobre o mesmo tema, os Estados do Rio Grande do Sul e de So Paulo, signatrios, juntamente com Santa Catarina, de protocolos ...; NCM - Nomenclatura Comum do Mercosul · Qual é o código NCM; PORTARIA Nº 26-R, DE 27 DE MAIO DE 2020 · Altera o Anexo Único da Portaria nº 012-R, de 29 de março de 2019, que trata do Preço Médio Ponderado a Consumidor Final – PMPF – para os produtos do setor de bebidas frias; DECRETO N. 4.099-R, DE 11 DE MAIO DE 2017 · Introduz alteraes no RICMS/ES, aprovado pelo Decreto n. 1.090-R, de 25 de outubro de 2002; O Governador do Estado de Santa Catarina autoriza a SC Participações e Parcerias S.A. a promover alterações em seu Plano de Cargos e Salários em Comissão e Funções Gratificadas. Processo SCPAR 676/2023. ... ATO DIAT Nº 001/2025 PeSEF de 30.01.25 Altera o Ato DIAT nº 65, de 2024, que adota pesquisas e fixa os preços médios ponderados a consumidor final para cálculo do ICMS devido por substituição tributária nas operações com cerveja, chope, refrigerante...; EMENTA: ICMS. SUBSTITUIO TRIBUTRIA. EQUIPAMENTOS DE REFRIGERAO DESTINADOS EXPOSIO DE MERCADORIAS, CLASSIFICADOS NO CDIGO NCM/SH 8418.50.90, NO ESTO SUJEITOS AO REGIME DE SUBSTITUIO TRIBUTRIA · DVIDAS QUANTO CLASSIFICAO DE MERCADORIAS NA NCM-SH DEVEM SER DIRIMIDAS JUNTO A RECEITA FEDERAL DO ...; NCM (Nomenclatura Comum do Mercosul) é um código de oito dígitos estabelecido pela legislação federal para identificar as mercadorias e facilitar o comércio internacional · O código deve ser informado obrigatoriamente na NF-e, NFA-e e NFC-e; O Governador do Estado de Santa Catarina autoriza a SC Participações e Parcerias S.A. a promover alterações em seu Plano de Cargos e Salários em Comissão e Funções Gratificadas. Processo SCPAR 676/2023. ... ATO DIAT Nº 001/2025 PeSEF de 30.01.25 Altera o Ato DIAT nº 65, de 2024, que adota pesquisas e fixa os preços médios ponderados a consumidor final para cálculo do ICMS devido por substituição tributária nas operações com cerveja, chope, refrigerante...; ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 2202.10.00 Mercadoria: Bebida não alcoólica, gaseificada, não fermentada, composta de água, açúcar, sucos de uva e maçã, conservantes e acidulante, comercialmente denominada “refrigerante misto de maçã e uva”. DISPOSITIVOS ...; ICMS – Substituição tributária – Operações com refrigeradores. I. Aplica-se o regime de substituição tributária às operações destinadas ao Estado de São Paulo com refrigeradores, classificados no código 8418.50.90 da NCM (artigo 313-Z19, § 1°, item 6, do RICMS/2000).; Aprova o Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS; Secretaria da Fazenda do Estado de Pernambuco :: serviços tributários, consultas e informações on-line.; Questiona qual seria o conceito ... do ICMS do Estado de Santa Catarina, para fins de não aplicação do regime de substituição tributária. ... a) Se o produto Synergy 905, importado e revendido pela Consulente, deve ser classificado na NCM 3403.99.00 ou na NCM ...; O governador Germano Rigotto inaugurou hoje (14), em Santa Maria, a primeira fábrica de cervejas e refrigerantes do grupo paranaense Colônia, no Rio Grande do Sul. A unidade vai produzir 400 mil caixas de cervejas em lata na etapa inicial do projeto, que d...; O Governador do Estado de Santa Catarina autoriza a SC Participações e Parcerias S.A. a promover alterações em seu Plano de Cargos e Salários em Comissão e Funções Gratificadas. Processo SCPAR 676/2023. ... ATO DIAT Nº 001/2025 PeSEF de 30.01.25 Altera o Ato DIAT nº 65, de 2024, que adota pesquisas e fixa os preços médios ponderados a consumidor final para cálculo do ICMS devido por substituição tributária nas operações com cerveja, chope, refrigerante...; We cannot provide a description for this page right now; We cannot provide a description for this page right now; Por todo o exposto, com base na ... &quot;geladinho&quot;, de NCM 2202.10.00. sujeito à sistemática da substituição tributária. O processo foi analisado no âmbito da Gerência Regional conforme determinado pelas Normas Gerais de Direito Tributário de Santa Catarina, aprovadas pelo ...
+</answer>
+
+<references>
+["https://help.notavarejo.com.br/ncm-refrigerante/","https://www.remessaonline.com.br/blog/ncm-bebidas/","https://codigoscontabeis.com.br/ncm-refrigerante/","https://saipos.com/cest/cest-refrigerante","https://pt.linkedin.com/pulse/ncm-refrigerante-bruno-tusset","https://saipos.com/ncm/ncm-refrigerante","https://sergiolimamapa.com/tabela-mva-cervejas-chopes-refrigerantes-aguas/","https://ncm.fazcomex.com.br/84143019-outros/","https://www.legisweb.com.br/legislacao/?id=333068","https://cosmos.bluesoft.com.br/ncms/22021000-aguas-incluindo-as-aguas-minerais-e-as-aguas-gaseificadas-adicionadas-de-acucar-ou-de-outros-edulcorantes-ou-aromatizadas/products?page=10","http://www2.sefaz.es.gov.br/LegislacaoOnline/lpext.dll/InfobaseLegislacaoOnline/portarias/2020/port26-r.htm?fn=document-frame.htm&f=templates","http://www2.sefaz.es.gov.br/LegislacaoOnline/lpext.dll/InfobaseLegislacaoOnline/decretos/2017/dec4099-r.htm?fn=document-frame.htm&f=templates","https://www.taxgroup.com.br/intelligence/tabela-icms-atualizada/","https://www.contabeis.com.br/forum/tributos-federais/283972/ncm-combo-salgadinho-refrigerante/","https://afrebras.org.br/decreto-n-4-238-r-de-23-de-abril-de-2018/","https://www.kingcrabweb.com/ncm/84186999","https://www.cenofisco.com.br/","https://blog.prontosistemas.com.br/10606/tabela-cest-2021-segmento-03/","https://www.coad.com.br/imagensMat/id272166.pdf","https://sefaz.es.gov.br/LegislacaoOnline/lpext.dll/InfobaseLegislacaoOnline/decretos/2018/dec4238-r.htm?2.0=&f=templates&fn=document-frame.htm","https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/classificacao-fiscal-de-mercadorias/ncm","https://www.econodata.com.br/empresas/sp/busca-refrigerantes","https://www.systax.com.br/classificacaofiscal/ncm/21069010-preparacoes-compostas-nao-alcoolicas-extratos-concentrados-sabores-concentrados-elaboracao-bebida-posicao-22-02-capacidade-diluicao-superior-10-partes-bebida-cada-parte-concentrado","https://legislacao.sef.sc.gov.br/html/consultas/2012/con_12_067.htm","https://cosmos.bluesoft.com.br/ncms/22021000-aguas-incluindo-as-aguas-minerais-e-as-aguas-gaseificadas-adicionadas-de-acucar-ou-de-outrosedulcorantes-ou-aromatizadas/produtos","https://www.econodata.com.br/maiores-empresas/sp/refrigerantes","https://sischef.com/ncm-almocos-e-bebidas-para-restaurante/","https://www.taxpratico.com.br/ncm/8418","https://www.systax.com.br/classificacaofiscal/ncm/84198991-recipiente-refrigerador-dispositivo-circulacao-fluido-refrigerante","https://legislacao.sef.sc.gov.br/html/consultas/2004/con_04_019.htm","https://legislacao.sef.sc.gov.br/html/regulamentos/icms/ricms_01_01_a.htm","https://www.sef.sc.gov.br/api-portal/Documento/ver/1188","https://legislacao.sef.sc.gov.br/html/consultas/2014/con_14_103.htm","https://portal.fazenda.rj.gov.br/dfe/codigo-ncm/","https://www.sef.sc.gov.br/","http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=59538","https://legislacao.fazenda.sp.gov.br/Paginas/RC13151_2016.aspx","https://legislacao.fazenda.sp.gov.br/Paginas/art293.aspx","https://www.sefaz.pe.gov.br/Legislacao/Tributaria/Documents/Legislacao/Tabelas/Tabela MVA Água Mineral ou Potável, Refrigerante, Xarope ou Extrato Concentrado destinados ao preparo de Refrigerante, Cerveja e Chope.pdf","http://legislacao.sef.sc.gov.br/Consulta/Views/Publico/DocumentoLegalViewer.ashx?id=867FC10E-CA60-4394-AF41-02B65C441CE9","https://www.estado.rs.gov.br/rigotto-inaugura-fabrica-de-cerveja-e-refrigerantes-em-santa-maria","https://www.sef.sc.gov.br/api-portal/Documento/ver/5447","https://www.sefaz.rs.gov.br/NFE/NFE-WIZARD_NCM-CON.aspx","http://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_anexo_1_vigente_2024_a_partir_07_02_2024.pdf","https://legislacao.sef.sc.gov.br/html/consultas/2018/con_18_056.htm"]
+</references>
+
+</knowledge-1>
+
+
+</knowledge>
 
 
 
 Based on the current context, you must choose one of the following actions:
 <actions>
 
+<action-visit>    
+- Visit any URLs from below to gather external knowledge, choose the most relevant URLs that might contain the answer
+<url-list>
+  + "https://help.notavarejo.com.br/ncm-refrigerante/": "NCM Refrigerante - Suporte do Nota Varejo"
+  + "https://www.remessaonline.com.br/blog/ncm-bebidas/": "NCM bebidas: conheça as principais"
+  + "https://codigoscontabeis.com.br/ncm-refrigerante/": "NCM Refrigerante (2202.10.00): veja como usar e os produtos relacionados"
+  + "https://saipos.com/cest/cest-refrigerante": "CEST refrigerante: saiba qual é e não erre mais!"
+  + "https://pt.linkedin.com/pulse/ncm-refrigerante-bruno-tusset": "NCM refrigerante"
+  + "https://saipos.com/ncm/ncm-refrigerante": "NCM refrigerante: tudo sobre a classificação 2202.10.00"
+  + "https://sergiolimamapa.com/tabela-mva-cervejas-chopes-refrigerantes-aguas/": "Tabela MVA -Cervejas, Chopes, Refrigerantes, Águas - Impactos da Reforma Tributária: Lições da Zona Franca de Manaus para o Amapá"
+  + "https://ncm.fazcomex.com.br/84143019-outros/": "Tributação da NCM 8414.30.19 - ✅ Atualizado em 2024 ✅"
+  + "https://www.legisweb.com.br/legislacao/?id=333068": "Consulta Nº 66 DE 30/06/2015 - Estadual - Paraná - LegisWeb"
+  + "https://cosmos.bluesoft.com.br/ncms/22021000-aguas-incluindo-as-aguas-minerais-e-as-aguas-gaseificadas-adicionadas-de-acucar-ou-de-outros-edulcorantes-ou-aromatizadas/products?page=10": "Produtos da NCM 2202.10.00 - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outrosedulcorantes ou aromatizadas - Pagina 10 - Cosmos"
+  + "http://www2.sefaz.es.gov.br/LegislacaoOnline/lpext.dll/InfobaseLegislacaoOnline/portarias/2020/port26-r.htm?fn=document-frame.htm&f=templates": "PORTARIA N.° 26-R"
+  + "http://www2.sefaz.es.gov.br/LegislacaoOnline/lpext.dll/InfobaseLegislacaoOnline/decretos/2017/dec4099-r.htm?fn=document-frame.htm&f=templates": "DECRETO N. 4099-R"
+  + "https://www.taxgroup.com.br/intelligence/tabela-icms-atualizada/": "Tabela ICMS 2025: Fique por dentro das alíquotas atualizadas"
+  + "https://www.contabeis.com.br/forum/tributos-federais/283972/ncm-combo-salgadinho-refrigerante/": "ncm combo - salgadinho - refrigerante - Tributos Federais"
+  + "https://afrebras.org.br/decreto-n-4-238-r-de-23-de-abril-de-2018/": "DECRETO N° 4.238-R, DE 23 DE ABRIL DE 2018 | Afrebras"
+  + "https://www.kingcrabweb.com/ncm/84186999": "NCM 84186999"
+  + "https://www.cenofisco.com.br/": "Boletim Fiscal e Tributário Cenofisco"
+  + "https://blog.prontosistemas.com.br/10606/tabela-cest-2021-segmento-03/": "Tabela CEST 2021 – Segmento 03 Cervejas, chopes, refrigerantes, águas"
+  + "https://www.coad.com.br/imagensMat/id272166.pdf": "NCM 2106.90.10 CEST 03.012.00 GTIN PCF 12/2023"
+  + "https://sefaz.es.gov.br/LegislacaoOnline/lpext.dll/InfobaseLegislacaoOnline/decretos/2018/dec4238-r.htm?2.0=&f=templates&fn=document-frame.htm": "DECRETO N.º 4238-R - Sefaz - ES"
+  + "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/classificacao-fiscal-de-mercadorias/ncm": "NCM — Receita Federal"
+  + "https://www.econodata.com.br/empresas/sp/busca-refrigerantes": "Lista de empresas de refrigerantes em São Paulo - Econodata"
+  + "https://www.systax.com.br/classificacaofiscal/ncm/21069010-preparacoes-compostas-nao-alcoolicas-extratos-concentrados-sabores-concentrados-elaboracao-bebida-posicao-22-02-capacidade-diluicao-superior-10-partes-bebida-cada-parte-concentrado": "Systax - NCM 21069010 - Preparações compostas, não alcoólicas (extratos concentrados ou sabores concentrados) , para elaboração de bebida refrigerante do Capítulo 22, com capacidade de diluição de até 10 partes da bebid. . ."
+  + "https://legislacao.sef.sc.gov.br/html/consultas/2012/con_12_067.htm": "CONSULTA (Reconsiderada): 067/12"
+  + "https://cosmos.bluesoft.com.br/ncms/22021000-aguas-incluindo-as-aguas-minerais-e-as-aguas-gaseificadas-adicionadas-de-acucar-ou-de-outrosedulcorantes-ou-aromatizadas/produtos": "Produtos da NCM 2202.10.00 - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outrosedulcorantes ou aromatizadas - Pagina 1 - Cosmos"
+  + "https://www.econodata.com.br/maiores-empresas/sp/refrigerantes": "100 Maiores empresas de refrigerantes em São Paulo em 2024"
+  + "https://sischef.com/ncm-almocos-e-bebidas-para-restaurante/": "NCM: saiba como utilizar no seu restaurante | Sischef"
+  + "https://www.taxpratico.com.br/ncm/8418": "NCM 8418 - Refrigeradores, congeladores ( freezers ) e outros materiais, máquinas e aparelhos, para a produção de frio, com equipamento elétrico ou outro; bombas de calor, excluindo as máquinas e aparelhos de ar-condicionado da posição 84.15."
+  + "https://www.systax.com.br/classificacaofiscal/ncm/84198991-recipiente-refrigerador-dispositivo-circulacao-fluido-refrigerante": "Systax - NCM 84198991 - Recipiente refrigerador, com dispositivo de circulação de fluido refrigerante"
+  + "https://legislacao.sef.sc.gov.br/html/consultas/2004/con_04_019.htm": "CONSULTA Nº: 19/04"
+  + "https://legislacao.sef.sc.gov.br/html/regulamentos/icms/ricms_01_01_a.htm": "RICMS_01 - Anexo 1-A - Bens e mercadorias sujeitos ao regime de ST - com redação passada"
+  + "https://www.sef.sc.gov.br/api-portal/Documento/ver/1188": "Sef"
+  + "https://legislacao.sef.sc.gov.br/html/consultas/2014/con_14_103.htm": "CONSULTA 103/2014"
+  + "https://portal.fazenda.rj.gov.br/dfe/codigo-ncm/": "Código NCM – Documento Fiscal Eletrônico - Secretaria de Estado de Fazenda do Rio de Janeiro"
+  + "https://www.sef.sc.gov.br/": "Início | Secretaria de Estado da Fazenda de Santa Catarina"
+  + "http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=59538": "SC Coana nº 110/2014"
+  + "https://legislacao.fazenda.sp.gov.br/Paginas/RC13151_2016.aspx": "RC 13151/2016"
+  + "https://legislacao.fazenda.sp.gov.br/Paginas/art293.aspx": "RICMS - Artigo 293 a 294"
+  + "https://www.sefaz.pe.gov.br/Legislacao/Tributaria/Documents/Legislacao/Tabelas/Tabela MVA Água Mineral ou Potável, Refrigerante, Xarope ou Extrato Concentrado destinados ao preparo de Refrigerante, Cerveja e Chope.pdf": "Tabelas - Todos os Documentos"
+  + "http://legislacao.sef.sc.gov.br/Consulta/Views/Publico/DocumentoLegalViewer.ashx?id=867FC10E-CA60-4394-AF41-02B65C441CE9": "CONSULTA Nº 025/20"
+  + "https://www.estado.rs.gov.br/rigotto-inaugura-fabrica-de-cerveja-e-refrigerantes-em-santa-maria": "Rigotto inaugura fábrica de cerveja e refrigerantes em Santa Maria - Portal do Estado do Rio Grande do Sul"
+  + "https://www.sef.sc.gov.br/api-portal/Documento/ver/5447": "estado de santa catarina"
+  + "https://www.sefaz.rs.gov.br/NFE/NFE-WIZARD_NCM-CON.aspx": "Sefaz RS - Assistente para Consulta NCM"
+  + "http://mbusca.sefaz.ba.gov.br/DITRI/normas_complementares/decretos/decreto_2012_13780_ricms_anexo_1_vigente_2024_a_partir_07_02_2024.pdf": "Sefaz"
+  + "https://legislacao.sef.sc.gov.br/html/consultas/2018/con_18_056.htm": "CONSULTA 56/2018"
+</url-list>
+- When you have enough search result in the context and want to deep dive into specific URLs
+- It allows you to access the full content behind any URLs
+
+</action-visit>
+
+
+
+=======
+Based on the current context, you must choose one of the following actions:
+<actions>
+
+>>>>>>> parent of 15c896f (feat: Shift research focus to deep web services and internet service definitions)
 <action-search>    
 - Query external sources using a public search engine
 - Focus on solving one specific aspect of the question
@@ -22,20 +146,7 @@ Based on the current context, you must choose one of the following actions:
 <action-answer>
 - Provide final response only when 100% certain
 - Responses must be definitive (no ambiguity, uncertainty, or disclaimers)
-- If doubts remain, use <action-reflect> instead
 </action-answer>
-
-
-
-<action-reflect>    
-- Perform critical analysis through hypothetical scenarios or systematic breakdowns
-- Identify knowledge gaps and formulate essential clarifying questions
-- Questions must be:
-  - Original (not variations of existing questions)
-  - Focused on single concepts
-  - Under 20 words
-  - Non-compound/non-complex
-</action-reflect>
 
 </actions>
 

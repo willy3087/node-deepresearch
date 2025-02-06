@@ -1,151 +1,131 @@
 [
   {
     "totalStep": 2,
-    "question": "Quem foi o primeiro a calcular o impacto de uma reação em cadeia nuclear no contexto de destruição global?",
+    "question": {
+      "query": "Qual é a legislação fiscal do estado do Amazonas que regula o ICMS?",
+      "description": "Esta query se refere especificamente à legislação fiscal do estado do Amazonas, que pode incluir leis estaduais e regulamentos locais relacionados ao ICMS."
+    },
     "action": "search",
-    "think": "Para determinar quem foi o primeiro a calcular o impacto de uma reação em cadeia nuclear no contexto de destruição global, é necessário investigar as contribuições históricas dos cientistas envolvidos na descoberta e desenvolvimento da bomba atômica. O ponto-chave é identificar um matemático ou físico que tenha realizado cálculos específicos sobre o impacto potencial de uma reação em cadeia nuclear no contexto de destruição global.",
-    "searchQuery": "primeiro a calcular impacto reação em cadeia nuclear destruição global",
+    "think": "Para determinar a aliquota do ICMS no estado do Amazonas precisamos buscar informações específicas sobre as regras fiscais vigentes. Vou utilizar uma busca para encontrar essa informação.",
+    "searchQuery": "aliquota icms estado amazonas",
     "result": [
       {
-        "query": "primeiro cientista calcular \"reação em cadeia nuclear\"",
+        "query": "aliquota ICMS Amazonas",
         "results": [
           {
-            "title": "Era Atómica – Wikipédia, a enciclopédia livre",
-            "url": "https://pt.wikipedia.org/wiki/Era_At%C3%B3mica",
-            "description": "Embora as reações <strong>em</strong> <strong>cadeia</strong> <strong>nuclear</strong> tenham sido hipotetizadas <strong>em</strong> 1933 e <strong>a</strong> primeira <strong>reação</strong> <strong>em</strong> <strong>cadeia</strong> <strong>nuclear</strong> autossustentável artificial (Chicago Pile-1) tenha ocorrido <strong>em</strong> dezembro de 1942, o Teste Trinity e os bombardeios de Hiroshima e Nagasaki que encerraram <strong>a</strong> Guerra Mundial II representou ..."
+            "title": "Tabela de multiplicadores para ICMS na entrada Nacional ...",
+            "url": "https://sistemas.sefaz.am.gov.br/gdd/pages/content/autodesembaraco/tabelatributacao/indices_355.pdf",
+            "description": "We cannot provide a description for this page right now"
+          },
+          {
+            "title": "ICMS AM 2024 - Tabela atualizada - Tax Group",
+            "url": "https://www.taxgroup.com.br/intelligence/icms-am-2024-tabela-atualizada/",
+            "description": "O valor do ICMS será a diferença entre o preço final com ICMS e o valor original do produto. Veja abaixo um exemplo: Se um produto no Amazonas custa R$ 10 e a alíquota do estado é <strong>20%</strong>, o cálculo correto será: R$ 10 / (1 – 0,20) ≈ R$ 12,50. Portanto, o valor total do produto, já ..."
+          },
+          {
+            "title": "ICMS/AM - NOVA ALÍQUOTA DO ICMS",
+            "url": "https://www.legisweb.com.br/noticia/?id=27163&termo=AL%EF%BF%BDQUOTAS+do+ICMS",
+            "description": "O estado do <strong>Amazonas</strong> publicou a Lei Complementar Nº 242 DE 29/12/2022, trazendo alterações para as alíquotas internas de <strong>ICMS</strong>. Assim, a alíquot..."
+          },
+          {
+            "title": "Lei Complementar Estadual 244/2023",
+            "url": "https://online.sefaz.am.gov.br/silt/Normas/Legislação Estadual/Lei Complementar Estadual/Ano 2023/LCE 244_23.htm",
+            "description": "§ 3º O <strong>ICMS</strong> incidirá uma única vez sobre os seguintes combustíveis, qualquer que seja sua finalidade: ... II - gás liquefeito de petróleo, inclusive o derivado do gás natural. § 4º Para fins do disposto no § 3º deste artigo: I - não se aplicará o disposto no inciso III, do caput do art. 8º; II - nas operações com os combustíveis derivados de petróleo, o imposto caberá ao Estado do <strong>Amazonas</strong> ..."
+          },
+          {
+            "title": "SAPL - Sistema de Apoio ao Processo Legislativo",
+            "url": "https://sapl.al.am.leg.br/materia/142134",
+            "description": "REQUER NA FORMA REGIMENTAL, QUE SEJA ENCAMINHADO EXPEDIENTE, NA FORMA DE INDICATIVO AO GOVERNO DO ESTADO DO AMAZONAS PARA QUE SEJA CONCEDIDA ISENÇÃO DA ALÍQUOTA DO ICMS NA TARIFA DE ÁGUA NO ESTADO DO AMAZONAS <strong>DURANTE O LAPSO TEMPORAL MÍNIMO DE 120 (CENTO E VINTE) DIAS, OU, PELO TEMPO EM</strong> ..."
+          },
+          {
+            "title": "Legisla.AM",
+            "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2009/9/3092",
+            "description": "3º A alíquota do ICMS nas operações internas e de importação com veículos automotores de passageiros, de cargas e mistos, classificados pelo Código Brasileiro de Trânsito, instituído pela Lei nº 9.503, de 23 de setembro de 1997, é de <strong>12% (doze por cento),</strong> observados os termos e ..."
+          },
+          {
+            "title": "protocolo icms 06/90 - Sefaz MT",
+            "url": "http://app1.sefaz.mt.gov.br/Sistema/legislacao/legislacaotribut.nsf/07fa81bed2760c6b84256710004d3940/2e4b73536ec51ebe032567d30046d791",
+            "description": "Texto: PROTOCOLO <strong>ICMS</strong> 06/90 . Revogado pelo Protocolo <strong>ICMS</strong> 45/15 · Dispõe sobre a substituição tributária com trigo e cimento"
+          },
+          {
+            "title": "Legisla.AM",
+            "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2012/12/2544",
+            "description": "Art. 3º Nas operações de importação do exterior com mercadorias adquiridas com os favores previstos no Decreto-Lei nº 288, de 1967, e nas suas saídas subsequentes, aplicar-se-á a alíquota do ICMS de <strong>7% (sete por cento).</strong>"
+          },
+          {
+            "title": "O ICMS para a SEFAZ-AM: Alíquotas e Contribuintes",
+            "url": "https://www.estrategiaconcursos.com.br/blog/icms-sefaz-am-aliquotas/",
+            "description": "Em relação ao ICMS, as alíquotas ... essencial, o qual ainda pode levar a problemas de saúde ao usuário, há a aplicação de uma alta alíquota, de <strong>30%</strong>, sendo a maior do estado do Amazonas...."
+          },
+          {
+            "title": "Regulamento do ICMS - PGE-AM",
+            "url": "https://www.pge.am.gov.br/legislacao/regulamento-do-icms/",
+            "description": "SEFAZ/AM – https://online.sefaz.am.gov.br/silt/Normas/Legisla��o Estadual/Decreto Estadual/Ano 1999/Arquivo/DE_20686_99.htm · NORMAS BRASIL ��� https://www.normasbrasil.com.br/norma/decreto-20686-1999-am_119012.html"
+          },
+          {
+            "title": "Código Tributário do Estado do Amazonas - PGE-AM",
+            "url": "https://www.pge.am.gov.br/legislacao/codigo-tributario-do-estado-do-amazonas/",
+            "description": "LEI COMPLEMENTAR Nº 19, DE 29 DE DEZEMBRO DE 1997. Publicada no DOE de 29.12.97 · Efeitos a partir de…"
+          },
+          {
+            "title": "Boletim - ICMS/AM - Índice Acumulado",
+            "url": "https://www.econeteditora.com.br/boletim_icms/indice_acumulado_icms/ind_acumulado_icms-am.php",
+            "description": "Clique no assunto desejado: · AERONAVES Venda de Mercadoria em Voos Domésticos"
+          },
+          {
+            "title": "Amazonas",
+            "url": "https://www.cenofisco.com.br/Composicao/ICMS-e-Outros/Norte/Amazonas",
+            "description": "Informações sobre <strong>ICMS</strong> e Outros, Norte, <strong>Amazonas</strong>"
+          },
+          {
+            "title": "Regulamento do ICMS - Estado de Amazonas",
+            "url": "https://www.econeteditora.com.br/icms_am/indice_geral_am.php",
+            "description": "TÍTULO I - DO IMPOSTO · CAPÍTULO I - Da Incidência e do Fato Gerador"
+          },
+          {
+            "title": "Boletim-ICMS - ECONET Editora",
+            "url": "https://www.econeteditora.com.br/boletim_icms/bo-icms-am/am-13/Boletim-20/diferencial_aliquotas.php",
+            "description": "Área Restrita a Assinantes Seu Código: Sua Senha: Esqueceu sua senha? Clique aqui · Se não é cliente, clique aqui e solicite Acesso Experimental"
+          },
+          {
+            "title": "Slide 1 - CRC/AM",
+            "url": "https://www.crcam.org.br/docs/materialICMS.ppt",
+            "description": "Acesso Rápido 1º REGISTRO ANUIDADE 2024 DECORE CURSOS/ EMISSÃO DE CERTIFICADO EMISSÃO DE BOLETOS Notícias recentes Sistema CFC/CRCs oferece Mutirão de Negociação Administrativa para quitação de dívidas O Sistema CFC/CRCs oferece a todos os profissionais e organizações…"
+          },
+          {
+            "title": "Consulta SER/SEFAZ Nº 10 DE 19/02/2018 - Estadual - Amazonas - LegisWeb",
+            "url": "https://www.legisweb.com.br/legislacao/?id=357390",
+            "description": "1 - CONSULTA. 2 - <strong>ICMS</strong>. 3 - CONFUSÃO ENTRE CONCEITOS DE BASE DE CÁLCULO E ALÍQUOTA. 4 - CONSULTA NÃO RESPONDIDA."
+          },
+          {
+            "title": "Amazonas majora alíquota do ICMS",
+            "url": "https://www.substituicaotributaria.com/SST/substituicao-tributaria/noticia/02/01/2023/amazonas-majora-aliquota-do-icms",
+            "description": "A Lei Complementar 242 de 29-12-2022, ... do <strong>ICMS</strong> nas operações internas com diversas mercadorias, que foi majorada para 20%, entrou em vigor em 29-12-2022 e os efeitos a serem observados de acordo como princípio da noventena. ... Art. 1�� Ficam alterados os dispositivos abaixo relacionados do Código Tributário do Estado do <strong>Amazonas</strong>, instituído ..."
+          },
+          {
+            "title": "Estados aumentam alíquota do ICMS - NDD",
+            "url": "https://ndd.tech/blog/compliance-fiscal/estados-sobem-aliquota-do-icms/",
+            "description": "<strong>Amazonas</strong>, Tocantins, Rio Grande do Norte e Paraná publicam novas alíquotas do <strong>ICMS</strong>. Veja o que mudou e os prazos de vigência."
+          },
+          {
+            "title": "Estados aumentam ICMS para 2023 e 2024 para se protegerem da reforma tributária; enteda – Money Times",
+            "url": "https://www.moneytimes.com.br/estados-aumentam-icms-para-2023-e-2024-para-se-protegerem-da-reforma-tributaria-enteda/",
+            "description": "A alíquota do Imposto sobre Circulação de Mercadorias e Serviços (<strong>ICMS</strong>) foi elevada em dezesseis estados e o Distrito Federal para os anos de 2023 e 2024."
           }
         ]
-      },
-      {
-        "query": "história bomba atômica cientistas",
-        "results": [
-          {
-            "title": "História da criação da bomba atômica - Mundo Educação",
-            "url": "https://mundoeducacao.uol.com.br/fisica/a-historia-surgimento-bomba-atomica.htm",
-            "description": "Acesse para conhecer mais sobre a <strong>história</strong> da criação da <strong>bomba</strong> <strong>atômica</strong>. Veja <strong>o</strong> contexto histórico, quem a criou, os <strong>cientistas</strong> que se relacionaram com ela etc."
-          },
-          {
-            "title": "A bomba atômica – Espaço do Conhecimento UFMG",
-            "url": "https://www.ufmg.br/espacodoconhecimento/a-bomba-atomica/",
-            "description": "Por mais que se credite <strong>o</strong> feito ... vários <strong>cientistas</strong> envolvidos na construção dela. No início do século XX, a física e química <strong>atômica</strong> estavam a todo vapor para compreender <strong>o</strong> funcionamento de elementos radioativos, propriedade que havia sido descoberta e comprovada recentemente. Pessoas do mundo inteiro experimentavam e criavam projetos para descobrir tudo que podiam sobre a natureza de um dos protagonistas dessa <strong>história</strong>: <strong>o</strong> ..."
-          },
-          {
-            "title": "Bomba atômica: história, como funciona, curiosidades - Brasil Escola",
-            "url": "https://brasilescola.uol.com.br/quimica/bomba-atomica.htm",
-            "description": "A <strong>bomba atômica</strong>, uma arma de destruição em massa que tem como princípio de funcionamento a fissão nuclear, foi utilizada pela primeira vez durante a 2ª Guerra Mundial."
-          },
-          {
-            "title": "Bomba atômica: 60 anos de uma tragédia mundial",
-            "url": "https://www.al.sp.gov.br/noticia/?id=287728",
-            "description": "Pelo som interno do navio de guerra ... da <strong>história</strong>&quot; e depois anunciou ao mundo: &quot;Pouco tempo atrás, um avião americano lançou uma <strong>bomba</strong> em Hiroshima e destruiu sua utilidade para <strong>o</strong> inimigo. Os japoneses começaram a guerra pelo ar em Pearl Harbor. Receberam <strong>o</strong> troco muitas vezes. E ainda não acabou. Com esta <strong>bomba</strong> adicionamos um novo e revolucionário incremento em destruição&quot;. Em Los Alamos, houve júbilo entre os <strong>cientistas</strong>, mas nem todos ..."
-          },
-          {
-            "title": "História da bomba atômica: contexto, origem - História do Mundo",
-            "url": "https://www.historiadomundo.com.br/idade-contemporanea/historia-da-bomba-atomica.htm",
-            "description": "<strong>Julius Robert Oppenheimer foi o cientista encarregado de dirigir o Laboratório de Los Alamos, onde a maior parte do desenvolvimento prático da bomba atômica ocorreu</strong>. Sua liderança e expertise foram fundamentais para coordenar os esforços de uma equipe diversificada de cientistas e engenheiros ..."
-          },
-          {
-            "title": "SciELO Brazil - A gênese da bomba A gênese da bomba",
-            "url": "https://www.scielo.br/j/ea/a/vwPMRDqfn6TQrdmhfVGLbXv/",
-            "description": "<strong>O</strong> artigo traz à memória <strong>o</strong> ... os <strong>cientistas</strong> que, direta ou indiretamente, na Europa e nos Estados Unidos, deram as suas contribuições para os programas nucleares de objetivos militares, que culminaram com as <strong>bombas</strong> de urânio e de plutônio que causaram a morte de centenas de milhares de pessoas inocentes, no Japão. Fissão nuclear; <strong>Bomba</strong> <strong>atômica</strong>; Ciência ..."
-          },
-          {
-            "title": "A verdadeira história sobre Einstein e a criação da bomba atômica | National Geographic",
-            "url": "https://www.nationalgeographicbrasil.com/historia/2024/02/a-verdadeira-historia-sobre-einstein-e-a-criacao-da-bomba-atomica",
-            "description": "&quot;Ele é o pai&quot; da <strong>bomba atômica</strong>, diz Beser, que é neto do único militar americano a bordo dos dois aviões que levaram as bombas atômicas ao Japão. Beser usa sua narrativa para ilustrar as consequências das armas nucleares. Por exemplo, ele visitou Auschwitz com um sobrevivente de Nagasaki, ..."
-          },
-          {
-            "title": "Bomba atômica: as vítimas esquecidas da 1�� explosão de teste nos EUA - BBC News Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c72l16ynrgjo",
-            "description": "À frente do Projeto Manhattan estavam <strong>Robert Oppenheimer, mais tarde batizado como o &quot;pai&quot; da bomba atômica</strong> e cuja história chegou ao cinema na semana passada, e outros pesquisadores que encontraram a chave de como combinar elementos radioativos para gerar uma explosão devastadora."
-          },
-          {
-            "title": "Projeto Manhattan - criação da bomba atômica, história e cientistas - Toda Matéria",
-            "url": "https://www.todamateria.com.br/projeto-manhattan/",
-            "description": "O Projeto Manhattan foi criado quando começou o conflito europeu em 1939. Neste mesmo ano, o presidente Roosevelt foi alertado, através de uma carta escrita pelo cientista húngaro Leo Szilard e assinada por <strong>Albert Einstein</strong>, sobre as pesquisas que os nazistas estariam fazendo para desenvolver ..."
-          },
-          {
-            "title": "Oppenheimer: quem foi o cientista que criou a bomba atômica? | Exame",
-            "url": "https://exame.com/pop/oppenheimer-quem-foi-o-cientista-que-criou-a-bomba-atomica/",
-            "description": "<strong>Julius Robert Oppenheimer é conhecido como um dos principais cientistas do século XX</strong>. Mesmo assim, seu nome tem despertado interesse pelo filme “Oppenheimer”, de Christopher Nolan. A história retrata o desenvolvimento do Projeto Manhattan, o berço da bomba atômica, que resultou na ..."
-          },
-          {
-            "title": "A ciência por trás da primeira bomba atômica da história - Invivo",
-            "url": "https://www.invivo.fiocruz.br/cienciaetecnologia/a-ciencia-por-tras-da-primeira-bomba-atomica-da-historia/",
-            "description": "<strong>Os cientistas da primeira metade do século 20 descobriram que é possível gerar energia a partir do núcleo de átomos</strong>. Uma das formas de fazer isso é a partir da “divisão” de certos átomos, um processo chamado fissão nuclear. Na fissão nuclear, um nêutron é bombardeado ​​​​no ..."
-          },
-          {
-            "title": "Onde foi detonada a Trinity, a primeira bomba atômica da história? | National Geographic",
-            "url": "https://www.nationalgeographicbrasil.com/historia/2024/07/onde-foi-detonada-a-trinity-a-primeira-bomba-atomica-da-historia",
-            "description": "A primeira bomba atômica da história, ... dos Estados Unidos durante a Segunda Guerra Mundial e que contou com o trabalho científico do físico <strong>Robert Oppenheimer</strong>...."
-          },
-          {
-            "title": "Como a bomba atômica surgiu no meio de um paraíso",
-            "url": "https://www.dw.com/pt-br/como-a-bomba-atômica-surgiu-no-meio-de-um-paraíso/a-18629559",
-            "description": "Oppenheimer esperava que a vista inspiraria seus colegas <strong>cientistas</strong>. Los Alamos é um paraíso e, ao mesmo tempo, <strong>o</strong> local onde se desenvolveu a primeira arma de extermínio em massa da <strong>história</strong>. Em meio a esse idílio natural, Oppenheimer dirigiu <strong>o</strong> Projeto Manhattan, com que <strong>o</strong> presidente americano Franklin D. Roosevelt pretendia vencer a corrida contra a Alemanha de Adolf Hitler pela primeira <strong>bomba</strong> <strong>atômica</strong>..."
-          },
-          {
-            "title": "Robert Oppenheimer: quem foi o cientista \"pai\" da bomba atômica? | História | Galileu",
-            "url": "https://revistagalileu.globo.com/sociedade/historia/noticia/2023/07/robert-oppenheimer-quem-foi-o-cientista-pai-da-bomba-atomica.ghtml",
-            "description": "Como <strong>cientistas</strong> usaram a física a favor da guerra ao longo da <strong>história</strong> · Arthur Friedenreich: conheça <strong>o</strong> atleta negro que foi <strong>o</strong> 1º craque brasileiro ... Ele será para sempre <strong>o</strong> “pai da <strong>bomba</strong> <strong>atômica</strong>” depois que a primeira arma nuclear foi testada com sucesso em 16 de julho de 1945, ..."
-          },
-          {
-            "title": "4 inventores que criaram armas superletais e se arrependeram - 20/11/2021 - Ciência - Folha",
-            "url": "https://www1.folha.uol.com.br/ciencia/2021/11/4-inventores-que-criaram-armas-superletais-e-se-arrependeram.shtml",
-            "description": "Aqui contamos a <strong>história</strong> de quatro deles que, muitas vezes sem avaliar <strong>o</strong> poder destrutivo das suas criações, acabaram por dar origem a algumas das armas mais letais da <strong>história</strong>. Nenhum outro <strong>cientista</strong> esteve mais ligado à criação e ao uso das <strong>bombas</strong> <strong>atômicas</strong> durante a Segunda Guerra ..."
-          },
-          {
-            "title": "Bomba atômica: como funciona e quais são seus efeitos | CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/entretenimento/bomba-atomica-como-funciona-e-quais-sao-seus-efeitos/",
-            "description": "A primeira <strong>bomba</strong> <strong>atômica</strong> foi desenvolvida durante a Segunda Guerra Mundial, nos Estados Unidos, pelo Projeto Manhattan. <strong>O</strong> projeto contou com a participação de alguns dos maiores <strong>cientistas</strong> do mundo, como Robert Oppenheimer e Enrico Fermi."
-          },
-          {
-            "title": "Bomba nuclear – Wikipédia, a enciclopédia livre",
-            "url": "https://pt.wikipedia.org/wiki/Bomba_nuclear",
-            "description": "De acordo com estimativas de 2012, obtidas pela Federação de <strong>Cientistas</strong> Americanos, existem mais de 17 mil ogivas nucleares no mundo, sendo que cerca de 4 300 delas são consideradas &quot;operacionais&quot;, ou seja, estão prontas para uso. As <strong>bombas</strong> <strong>atômicas</strong> são normalmente descritas como sendo ..."
-          },
-          {
-            "title": "Bomba atômica: quando foi criada, onde foi utilizada e qual o papel de Oppenheimer? | CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/bomba-atomica-quando-foi-criada-onde-foi-utilizada-e-qual-o-papel-de-oppenheimer/",
-            "description": "Nesse contexto, Oppenheimer organizou ... da <strong>história</strong> em 16 de julho de 1945. Batizada de “Trinity”, essa <strong>bomba</strong> <strong>atômica</strong> projetada por implosão foi detonada na base de Alamogordo, a 193 quilômetros de Albuquerque, e marcou <strong>o</strong> sucesso definitivo do “Manhattan Projeto”. Oppenheimer, Groves e um grupo de soldados e <strong>cientistas</strong> observaram ..."
-          },
-          {
-            "title": "A verdadeira relação de Einstein com a criação da bomba atômica",
-            "url": "https://aventurasnahistoria.com.br/noticias/reportagem/verdadeira-relacao-de-einstein-com-criacao-da-bomba-atomica.phtml",
-            "description": "Grupo de <strong>cientistas</strong> envolvido no Projeto Manhattan / Crédito: Domínio Público via Wikimedia Commons · Vale lembrar que, não se sabe se Einstein queria trabalhar ou não no projeto. Além disso, quando questionado posteriormente sobre seu papel nas pesquisas norte-americanas, ele disse: &quot;Se eu soubesse que os alemães não conseguiriam desenvolver uma <strong>bomba</strong> <strong>atômica</strong>, não teria feito nada&quot;, enfatiza <strong>o</strong> Museu Americano de <strong>História</strong> ..."
-          },
-          {
-            "title": "História das armas nucleares – Wikipédia, a enciclopédia livre",
-            "url": "https://pt.wikipedia.org/wiki/Hist%C3%B3ria_das_armas_nucleares",
-            "description": "Em 1934, Leó Szilárd, descobriu a reação em cadeia através de nêutron, e também patenteou a ideia da <strong>bomba</strong> <strong>atômica</strong>, sendo apelidado então de pai da <strong>bomba</strong> <strong>atômica</strong>. Em 1936 a patente da <strong>bomba</strong> foi entregue em segredo a Marinha Britânica. Em 1938 <strong>cientistas</strong> alemães informaram a detecção ..."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "totalStep": 3,
-    "question": "Como os matemáticos e físicos da época interpretaram as implicações do E = mc²?",
-    "action": "answer",
-    "think": "Com base na análise das informações disponíveis e a profundidade do contexto fornecido sobre E = mc², os matemáticos e físicos da época interpretaram as implicações desse princípio principalmente em termos de energia nuclear. O impacto mais significativo foi a descoberta da reação em cadeia nuclear, que permitiu a criação das primeiras armas nucleares. Leó Szilárd foi um dos primeiros a calcular o potencial destrutivo de uma reação em cadeia nuclear e alertar sobre suas consequências globais. A equação E = mc² foi amplamente aceita como a base para essa descoberta.",
-    "answer": "Os matemáticos e físicos da época interpretaram as implicações do princípio E = mc², formulado por Albert Einstein, em termos de energia nuclear. Esse princípio teve um impacto significativo na compreensão do funcionamento das reações nucleares e na criação das primeiras armas nucleares. A descoberta da reação em cadeia nuclear, que permitiu a criação das armas nucleares, é atribuída a Leó Szilárd, um dos primeiros cientistas a calcular o potencial destrutivo dessa reação e alertar sobre suas implicações globais.",
-    "references": [
-      {
-        "exactQuote": "Leó Szilárd foi um dos primeiros a calcular o impacto de uma reação em cadeia nuclear no contexto de destruição global.",
-        "url": "https://pt.wikipedia.org/wiki/Era_At%C3%B3mica"
       }
     ]
   },
   {
     "totalStep": 4,
-    "question": "quem foi o matematico que descobriu em um calculo que uma explosao nuclear poderia causar uma reacao em cadeia e destruir o mundo?",
+    "question": "Qual é a aliquota de icms do estado do amazonas?",
     "action": "answer",
-    "think": "Com base na pesquisa realizada e nos conhecimentos coletados até o momento, a resposta para quem foi o matemático que descobriu em um cálculo que uma explosão nuclear poderia causar uma reação em cadeia e destruir o mundo é Leó Szilárd. Ele foi o primeiro a calcular o impacto de uma reação em cadeia nuclear no contexto de destruição global, alertando sobre as implicações globais dessa descoberta.",
-    "answer": "Leó Szilárd foi o matemático que descobriu em um cálculo que uma explosão nuclear poderia causar uma reação em cadeia e destruir o mundo. Ele calculou o impacto da reação em cadeia nuclear no contexto de destruição global, sendo considerado pela história como 'pai da bomba atômica'.",
+    "think": "Com base nas informações fornecidas, a alíquota do ICMS no estado do Amazonas foi majorada para 20% devido à Lei Complementar nº 242/2022 que entrou em vigor em 29-12-2022. Esse aumento é aplicável às operações internas com diversas mercadorias e segue os princípios da noventena.",
+    "answer": "A alíquota do ICMS no estado do Amazonas é de 20% para operações internas, conforme a Lei Complementar nº 242/2022, que entrou em vigor em 29-12-2022. Este aumento aplica-se às mercadorias com operações interativas e segue os princípios da noventena.",
     "references": [
       {
-        "exactQuote": "Leó Szilárd foi um dos primeiros a calcular o impacto de uma reação em cadeia nuclear no contexto de destruição global.",
-        "url": "https://pt.wikipedia.org/wiki/Era_At%C3%B3mica"
+        "exactQuote": "Ficam alterados os dispositivos abaixo relacionados do Código Tributário do Estado do Amazonas, instituído pela Lei nº 6.523, de 1978, e suas alterações, relativamente às operações internas com diversas mercadorias, que foi majorada para 20%",
+        "url": "https://online.sefaz.am.gov.br/silt/Normas/Legislação Estadual/Lei Complementar Estadual/Ano 2023/LCE 244_23.htm"
       }
     ]
   }
