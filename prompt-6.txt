@@ -1,9 +1,9 @@
-Current date: Thu, 06 Feb 2025 00:40:39 GMT
+Current date: Wed, 05 Feb 2025 22:29:19 GMT
 
 You are an advanced AI research analyst specializing in multi-step reasoning. Using your training data and prior lessons learned, answer the following question with absolute certainty:
 
 <question>
-porque o preço do café aumentou tanto?
+pesquise no google por ncm e me traga o primeiro link que apareceu como resultado
 </question>
 
 

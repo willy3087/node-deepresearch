@@ -7,12 +7,16 @@ import {rewriteQuery} from "./tools/query-rewriter";
 import {dedupQueries} from "./tools/dedup";
 import {evaluateAnswer} from "./tools/evaluator";
 import {analyzeSteps} from "./tools/error-analyzer";
-import {GEMINI_API_KEY, SEARCH_PROVIDER, STEP_SLEEP, modelConfigs} from "./config";
+import {GEMINI_API_KEY, SEARCH_PROVIDER, STEP_SLEEP, modelConfigs, LOCAL_MODEL_ENDPOINT, USE_LOCAL_MODEL} from "./config";
 import {TokenTracker} from "./utils/token-tracker";
 import {ActionTracker} from "./utils/action-tracker";
 import {StepAction, SchemaProperty, ResponseSchema, AnswerAction} from "./types";
 import {TrackerContext} from "./types";
 import {jinaSearch} from "./tools/jinaSearch";
+import {LocalModelClient} from "./tools/local-model-client";
+
+// Variável global para o client do modelo
+let activeModelClient: GoogleGenerativeAI | LocalModelClient;
 
 async function sleep(ms: number) {
   const seconds = Math.ceil(ms / 1000);
@@ -381,7 +385,7 @@ export async function getResponse(question: string, tokenBudget: number = 1_000_
       false
     );
 
-    const model = genAI.getGenerativeModel({
+    const model = activeModelClient.getGenerativeModel({
       model: modelConfigs.agent.model,
       generationConfig: {
         temperature: modelConfigs.agent.temperature,
@@ -724,7 +728,7 @@ You decided to think out of the box or cut from a completely different angle.`);
       true
     );
 
-    const model = genAI.getGenerativeModel({
+    const model = activeModelClient.getGenerativeModel({
       model: modelConfigs.agentBeastMode.model,
       generationConfig: {
         temperature: modelConfigs.agentBeastMode.temperature,
@@ -759,17 +763,34 @@ async function storeContext(prompt: string, memory: any[][], step: number) {
   }
 }
 
-const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
-
-
 export async function main() {
   const question = process.argv[2] || "";
-  const {
-    result: finalStep,
-    context: tracker
-  } = await getResponse(question) as { result: AnswerAction; context: TrackerContext };
-  console.log('Final Answer:', finalStep.answer);
+  const modelArg = process.argv[3];
 
+  if (modelArg) {
+    modelConfigs.agent.model = modelArg;
+    console.log(`Usando o modelo especificado: ${modelArg}`);
+    if (modelArg.toLowerCase().includes('qwen2.5') || modelArg.toLowerCase().includes('deepseek')) {
+      activeModelClient = new LocalModelClient(LOCAL_MODEL_ENDPOINT);
+      console.log(`Modelo local detectado. Usando o endpoint local: ${LOCAL_MODEL_ENDPOINT}`);
+    } else {
+      activeModelClient = new GoogleGenerativeAI(GEMINI_API_KEY);
+      console.log("Modelo remoto detectado. Usando o endpoint remoto do Gemini.");
+    }
+  } else {
+    console.log(`Usando o modelo padrão: ${modelConfigs.agent.model}`);
+    if (USE_LOCAL_MODEL) {
+      activeModelClient = new LocalModelClient(LOCAL_MODEL_ENDPOINT);
+      console.log("Usando o modelo local (configurado via USE_LOCAL_MODEL = true).");
+    } else {
+      activeModelClient = new GoogleGenerativeAI(GEMINI_API_KEY);
+      console.log("Usando o modelo remoto Gemini.");
+    }
+  }
+
+  const { result: finalStep, context: tracker } = await getResponse(question) as { result: AnswerAction; context: TrackerContext };
+  
+  console.log('Final Answer:', finalStep.answer);
   tracker.tokenTracker.printSummary();
   console.log('Modelo rodando:', modelConfigs.agent.model);
 }

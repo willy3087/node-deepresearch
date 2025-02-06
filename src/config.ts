@@ -36,7 +36,7 @@ export const SEARCH_PROVIDER: 'brave' | 'jina' | 'duck' = 'jina'
 export const USE_LOCAL_MODEL = process.env.USE_LOCAL_MODEL === 'true';
 export const LOCAL_MODEL_ENDPOINT = process.env.LOCAL_MODEL_ENDPOINT || "http://localhost:1234";
 
-const DEFAULT_MODEL = USE_LOCAL_MODEL ? "deepseek-r1-distill-qwen-7b" : 'gemini-2.0-flash';
+const DEFAULT_MODEL = USE_LOCAL_MODEL ? "qwen2.5-7b-instruct-1m" : 'gemini-2.0-flash';
 
 const defaultConfig: ModelConfig = {
   model: DEFAULT_MODEL,

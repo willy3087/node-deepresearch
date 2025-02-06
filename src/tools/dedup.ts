@@ -1,104 +1,133 @@
-import { GoogleGenerativeAI, SchemaType } from "@google/generative-ai";
-import { GEMINI_API_KEY, modelConfigs } from "../config";
+import { GoogleGenerativeAI } from "@google/generative-ai";
+import { GEMINI_API_KEY, modelConfigs, USE_LOCAL_MODEL, LOCAL_MODEL_ENDPOINT } from "../config";
 import { TokenTracker } from "../utils/token-tracker";
+import { LocalModelClient } from "./local-model-client";
 
-import { DedupResponse } from '../types';
+const MAX_RETRIES = 3;
+const RETRY_DELAY = 1000; // 1 segundo
 
-const responseSchema = {
-  type: SchemaType.OBJECT,
-  properties: {
-    think: {
-      type: SchemaType.STRING,
-      description: "Strategic reasoning about the overall deduplication approach"
-    },
-    unique_queries: {
-      type: SchemaType.ARRAY,
-      items: {
-        type: SchemaType.STRING,
-        description: "Unique query that passed the deduplication process, must be less than 30 characters"
-      },
-      description: "Array of semantically unique queries"
-    }
-  },
-  required: ["think", "unique_queries"]
-};
-
-const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
-const model = genAI.getGenerativeModel({
-  model: modelConfigs.dedup.model,
-  generationConfig: {
-    temperature: modelConfigs.dedup.temperature,
-    responseMimeType: "application/json",
-    responseSchema: responseSchema
-  }
-});
-
-function getPrompt(newQueries: string[], existingQueries: string[]): string {
-  return `You are an expert in semantic similarity analysis. Given a set of queries (setA) and a set of queries (setB)
-
-<rules>
-Function FilterSetA(setA, setB, threshold):
-    filteredA = empty set
-    
-    for each candidateQuery in setA:
-        isValid = true
-        
-        // Check similarity with already accepted queries in filteredA
-        for each acceptedQuery in filteredA:
-            similarity = calculateSimilarity(candidateQuery, acceptedQuery)
-            if similarity >= threshold:
-                isValid = false
-                break
-        
-        // If passed first check, compare with set B
-        if isValid:
-            for each queryB in setB:
-                similarity = calculateSimilarity(candidateQuery, queryB)
-                if similarity >= threshold:
-                    isValid = false
-                    break
-        
-        // If passed all checks, add to filtered set
-        if isValid:
-            add candidateQuery to filteredA
-    
-    return filteredA
-</rules>    
-
-<similarity-definition>
-1. Consider semantic meaning and query intent, not just lexical similarity
-2. Account for different phrasings of the same information need
-3. Queries with same base keywords but different operators are NOT duplicates
-4. Different aspects or perspectives of the same topic are not duplicates
-5. Consider query specificity - a more specific query is not a duplicate of a general one
-6. Search operators that make queries behave differently:
-   - Different site: filters (e.g., site:youtube.com vs site:github.com)
-   - Different file types (e.g., filetype:pdf vs filetype:doc)
-   - Different language/location filters (e.g., lang:en vs lang:es)
-   - Different exact match phrases (e.g., "exact phrase" vs no quotes)
-   - Different inclusion/exclusion (+/- operators)
-   - Different title/body filters (intitle: vs inbody:)
-</similarity-definition>
-
-Now with threshold set to 0.2; run FilterSetA on the following:
-SetA: ${JSON.stringify(newQueries)}
-SetB: ${JSON.stringify(existingQueries)}`;
+async function sleep(ms: number) {
+  return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-export async function dedupQueries(newQueries: string[], existingQueries: string[], tracker?: TokenTracker): Promise<{ unique_queries: string[], tokens: number }> {
+async function tryWithRetry(fn: () => Promise<any>, retries = MAX_RETRIES): Promise<any> {
   try {
-    const prompt = getPrompt(newQueries, existingQueries);
-    const result = await model.generateContent(prompt);
+    return await fn();
+  } catch (error) {
+    if (retries > 0) {
+      console.log(`Tentativa falhou, tentando novamente em ${RETRY_DELAY}ms... (${retries} tentativas restantes)`);
+      await sleep(RETRY_DELAY);
+      return tryWithRetry(fn, retries - 1);
+    }
+    throw error;
+  }
+}
+
+export async function dedupQueries(queries: string[], existingQueries: string[], tracker?: TokenTracker): Promise<{ unique_queries: string[], tokens: number }> {
+  if (!queries || queries.length === 0) {
+    return { unique_queries: [], tokens: 0 };
+  }
+
+  const prompt = `Compare as seguintes queries e retorne apenas as que são semanticamente diferentes das queries existentes.
+
+Queries para analisar:
+${queries.join('\n')}
+
+Queries existentes:
+${existingQueries.join('\n')}
+
+Retorne apenas as queries que são semanticamente diferentes em formato JSON:
+{
+  "unique_queries": ["query1", "query2"]
+}`;
+
+  async function tryLocalModel() {
+    const localModel = new LocalModelClient(LOCAL_MODEL_ENDPOINT);
+    const model = localModel.getGenerativeModel({
+      model: "qwen2.5-7b-instruct-1m",
+      generationConfig: {
+        temperature: modelConfigs.dedup.temperature
+      }
+    });
+
+    const result = await tryWithRetry(async () => {
+      const response = await model.generateContent(prompt);
+      return response;
+    });
+
+    const response = result.response;
+    const content = JSON.parse(response.text());
+
+    if (!content.unique_queries || !Array.isArray(content.unique_queries)) {
+      throw new Error('Formato de resposta inválido do modelo local');
+    }
+
+    (tracker || new TokenTracker()).trackUsage('dedup', response.usageMetadata?.totalTokenCount || 0);
+    return {
+      unique_queries: content.unique_queries,
+      tokens: response.usageMetadata?.totalTokenCount || 0
+    };
+  }
+
+  async function tryGemini() {
+    const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
+    const model = genAI.getGenerativeModel({
+      model: modelConfigs.dedup.model,
+      generationConfig: {
+        temperature: modelConfigs.dedup.temperature
+      }
+    });
+
+    const result = await tryWithRetry(async () => {
+      const response = await model.generateContent(prompt);
+      return response;
+    });
+
     const response = await result.response;
     const usage = response.usageMetadata;
-    const json = JSON.parse(response.text()) as DedupResponse;
-    console.log('Dedup:', json.unique_queries);
-    const tokens = usage?.totalTokenCount || 0;
-    (tracker || new TokenTracker()).trackUsage('dedup', tokens);
-    return { unique_queries: json.unique_queries, tokens };
+    const content = JSON.parse(response.text());
+
+    if (!content.unique_queries || !Array.isArray(content.unique_queries)) {
+      throw new Error('Formato de resposta inválido do Gemini');
+    }
+
+    (tracker || new TokenTracker()).trackUsage('dedup', usage?.totalTokenCount || 0);
+    return {
+      unique_queries: content.unique_queries,
+      tokens: usage?.totalTokenCount || 0
+    };
+  }
+
+  try {
+    // Se USE_LOCAL_MODEL for true, tenta primeiro o modelo local
+    if (USE_LOCAL_MODEL) {
+      try {
+        return await tryLocalModel();
+      } catch (error) {
+        console.error('Erro ao usar modelo local, tentando Gemini como fallback:', error);
+        // Se falhar e tivermos a chave do Gemini, tenta como fallback
+        if (GEMINI_API_KEY) {
+          return await tryGemini();
+        }
+        throw error;
+      }
+    } 
+    // Se não for local, tenta Gemini primeiro e modelo local como fallback
+    else {
+      try {
+        return await tryGemini();
+      } catch (error) {
+        console.error('Erro ao usar Gemini, tentando modelo local como fallback:', error);
+        return await tryLocalModel();
+      }
+    }
   } catch (error) {
-    console.error('Error in deduplication analysis:', error);
-    throw error;
+    console.error('Erro na deduplicação:', error);
+    // Em último caso, retorna as queries originais
+    return {
+      unique_queries: queries,
+      tokens: 0
+    };
   }
 }
 

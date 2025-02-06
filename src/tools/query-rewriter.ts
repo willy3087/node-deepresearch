@@ -112,21 +112,89 @@ Intention: ${action.think}
 `;
 }
 
+function sanitizeJSON(text: string): string {
+  // Remove qualquer bloco de código markdown
+  let cleaned = text.replace(/```json\n?|```/g, '');
+  
+  // Remove espaços em branco no início e fim
+  cleaned = cleaned.trim();
+  
+  // Tenta encontrar o último JSON válido no texto
+  const matches = cleaned.match(/\{(?:[^{}]|{[^{}]*})*\}/g);
+  if (!matches) {
+    throw new Error('Nenhum JSON válido encontrado na resposta');
+  }
+  
+  // Pega o último JSON encontrado
+  const lastJson = matches[matches.length - 1];
+  
+  try {
+    // Verifica se é um JSON válido
+    JSON.parse(lastJson);
+    return lastJson;
+  } catch (e) {
+    // Se falhar, tenta limpar mais agressivamente
+    let sanitized = lastJson
+      .replace(/[\u0000-\u001F\u007F-\u009F]/g, '') // Remove caracteres de controle
+      .replace(/\s+/g, ' ')                          // Normaliza espaços em branco
+      .replace(/([^\\])"([^"]*$)/g, '$1"$2"')       // Fecha strings não terminadas
+      .replace(/,\s*}/g, '}')                        // Remove vírgulas antes de }
+      .replace(/,\s*]/g, ']');                       // Remove vírgulas antes de ]
+    
+    // Tenta parse novamente
+    try {
+      JSON.parse(sanitized);
+      return sanitized;
+    } catch (e2) {
+      console.error('JSON original:', lastJson);
+      console.error('JSON sanitizado:', sanitized);
+      throw new Error('Não foi possível sanitizar o JSON');
+    }
+  }
+}
+
 export async function rewriteQuery(action: SearchAction, tracker?: TokenTracker): Promise<{ queries: string[], tokens: number }> {
   try {
     const prompt = getPrompt(action);
     const result = await model.generateContent(prompt);
     const response = await result.response;
     const usage = response.usageMetadata;
-    const json = JSON.parse(response.text()) as KeywordsResponse;
+    
+    console.log('Resposta completa:', response.text());
+    
+    try {
+      // Sanitiza e tenta fazer o parse do JSON
+      const sanitizedText = sanitizeJSON(response.text());
+      const json = JSON.parse(sanitizedText) as KeywordsResponse;
 
-    console.log('Query rewriter:', json.queries);
-    const tokens = usage?.totalTokenCount || 0;
-    (tracker || new TokenTracker()).trackUsage('query-rewriter', tokens);
+      if (!json.queries || !Array.isArray(json.queries)) {
+        console.error('Resposta inválida do modelo - queries não é um array:', json);
+        return {
+          queries: [action.searchQuery],
+          tokens: usage?.totalTokenCount || 0
+        };
+      }
 
-    return { queries: json.queries, tokens };
+      console.log('Query rewriter:', json.queries);
+      const tokens = usage?.totalTokenCount || 0;
+      (tracker || new TokenTracker()).trackUsage('query-rewriter', tokens);
+
+      return { queries: json.queries, tokens };
+    } catch (parseError) {
+      console.error('Erro ao processar JSON:', parseError);
+      console.error('Resposta original:', response.text());
+      // Se falhar, retorna a query original
+      return {
+        queries: [action.searchQuery],
+        tokens: usage?.totalTokenCount || 0
+      };
+    }
   } catch (error) {
-    console.error('Error in query rewriting:', error);
-    throw error;
+    console.error('Erro na reescrita da query:', error);
+    // Em caso de erro, retorna a query original
+    return {
+      queries: [action.searchQuery],
+      tokens: 0
+    };
   }
 }

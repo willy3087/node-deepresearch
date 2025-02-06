@@ -1,334 +1,553 @@
 [
   {
-    "totalStep": 1,
-    "question": "Qual a classificaçao tributária do refrigerente no ceará, sao paulo e santa catarina?",
+    "totalStep": 2,
+    "question": "Quais foram os fatores econômicos locais, globais e internacionais que impactaram a produção de café?",
     "action": "search",
-    "think": "Para responder à pergunta sobre a classificação tributária de refrigerantes nos estados do Ceará, São Paulo e Santa Catarina, preciso pesquisar informações específicas sobre a legislação tributária de cada estado. Uma pesquisa direta me ajudará a encontrar as classificações e alíquotas aplicáveis.",
-    "searchQuery": "classificação tributária refrigerante Ceará São Paulo Santa Catarina",
+    "think": "Para responder com absoluta certeza às sub-questões relacionadas aos fatores econômicos locais, globais e internacionais que impactaram a produção de café, é necessário realizar uma busca em fontes confiáveis como artigos acadêmicos, relatórios do Banco Mundial, notícias financeiras e outros materiais especializados. Isso permitirá abordar as perguntas da melhor forma possível.",
+    "searchQuery": [
+      "fatores econômicos locais que impactaram a produção de café",
+      "fatores globais que impactaram a produção de café",
+      "fatores internacionais que impactaram a produção de café",
+      "preço do café aumentou tanto por que",
+      "condições climáticas específicas prejudicaram a colheita",
+      "mudanças na política agrícola que afetaram o cultivo de café",
+      "geopolítica influenciou preços do café"
+    ],
     "result": [
       {
-        "query": "classificação tributária refrigerante Ceará",
+        "query": "fatores econômicos produção café",
         "results": [
           {
-            "title": "Cerveja, água e refrigerante",
-            "url": "https://www.sefaz.pe.gov.br/Legislacao/Tributaria/Consolidada-Por-Assunto/Paginas/Cerveja-agua-e-refrigerante.aspx",
-            "description": "Secretaria da Fazenda do Estado de Pernambuco :: serviços tributários, consultas e informações on-line."
+            "title": "Brasil é o maior produtor mundial e o segundo maior consumidor de café — Ministério da Agricultura e Pecuária",
+            "url": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/brasil-e-o-maior-produtor-mundial-e-o-segundo-maior-consumidor-de-cafe",
+            "description": "Em 2022 foram exportadas cerca de 2,2 milhões de toneladas de <strong>café</strong> para mais de 100 países"
           },
           {
-            "title": "O regime de Substituição Tributária por Carga Líquida: alimentos e congêneres no Ceará - Systax",
-            "url": "https://www.systax.com.br/artigos-e-novidades/o-regime-de-substituicao-tributaria-por-carga-liquida-alimentos-e-congeneres-no-ceara/",
-            "description": "<strong>A</strong> Carga Líquida foi criada com o objetivo de simplificar o tratamento tributário nas operações praticadas por contribuintes que exerçam atividades de comércio atacadista e varejista."
+            "title": "ANÁLISE DOS FATORES DETERMINANTES E PERSPECTIVAS DE CRESCIMENTO NA PRODUÇÃO E EXPORTAÇÃO DE CAFÉ NA REGIÃO DAS MATAS DE MINAS – ISSN 1678-0817 Qualis B2",
+            "url": "https://revistaft.com.br/analise-dos-fatores-determinantes-e-perspectivas-de-crescimento-na-producao-e-exportacao-de-cafe-na-regiao-das-matas-de-minas/",
+            "description": "<strong>O</strong> impacto <strong>econômico</strong> da <strong>produção</strong> de <strong>café</strong> é significativo, contribuindo para <strong>o</strong> PIB agrícola do estado <strong>e</strong> impulsionando <strong>o</strong> desenvolvimento da infraestrutura regional (RIBEIRO et al., 2023). Essas características fazem de Minas Gerais uma peça chave no setor cafeeiro do país. 2.3 <strong>Fatores</strong> que ..."
           },
           {
-            "title": "Decreto Nº 33327 DE 30/10/2019 - Estadual - Ceará - LegisWeb",
-            "url": "https://www.legisweb.com.br/legislacao/?id=384287",
-            "description": "Consolida e Regulamenta <strong>a</strong> legislação do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), e dá outras providências."
+            "title": "O preço do café deve continuar subindo em 2025 – Agrisafe",
+            "url": "https://agrisafe.agr.br/o-preco-do-cafe-deve-continuar-subindo-em-2025/",
+            "description": "<strong>A</strong> <strong>produção</strong> <strong>e</strong> <strong>o</strong> comércio de <strong>café</strong> têm um impacto global, influenciando economias <strong>e</strong> vidas ao redor do mundo. Diversos <strong>fatores</strong> indicam que <strong>o</strong> preço do <strong>café</strong> deverá subir em 2025. Este artigo explora as principais razões por trás dessa previsão, fornecendo uma análise detalhada para ..."
           },
           {
-            "title": "NCM refrigerante: tudo sobre a classificação 2202.10.00",
-            "url": "https://saipos.com/ncm/ncm-refrigerante",
-            "description": "Entenda de uma vez por todas o funcionamento da <strong>classificação</strong> fiscal 2202.10.00 NCM <strong>refrigerante</strong>, saiba como consultar e qual <strong>a</strong> importância de usar o código correto para evitar problemas fiscais neste artigo completo. LEIA MAIS."
+            "title": "Conab - Atual estimativa traz produção de café em 58,81 milhões de sacas na safra 2024",
+            "url": "https://www.conab.gov.br/ultimas-noticias/5547-atual-estimativa-traz-producao-de-cafe-em-58-81-milhoes-de-sacas-na-safra-2024",
+            "description": "Mesmo com <strong>a</strong> segunda maior produtividade ... <strong>fator</strong> que reduziu <strong>o</strong> potencial produtivo das lavouras no estado. Área – <strong>A</strong> área total destinada à cafeicultura no país em 2024, nas espécies arábica <strong>e</strong> conilon, é de 2,25 milhões de hectares, aumento de 0,5% sobre <strong>a</strong> área da safra anterior. Essa área engloba 1,9 milhão de hectares de lavouras que estão em <strong>produção</strong>, que apresentam ..."
           },
           {
-            "title": "Instrução Normativa SEFAZ Nº 37 DE 14/04/2023 - Estadual - Ceará - LegisWeb",
-            "url": "https://www.legisweb.com.br/legislacao/?id=444543",
-            "description": "Divulga os valores relativos à venda <strong>a</strong> consumidor final de <strong>refrigerantes</strong>, para efeito de cobrança do ICMS por substituição <strong>tributária</strong>. O SECRETÁRIO DA FAZENDA DO ESTADO DO <strong>CEARÁ</strong>, no uso das atribuições legais que lhe confere o inciso III do art."
+            "title": "Café: alta procura pelo grão impulsiona preços",
+            "url": "https://www.canalrural.com.br/agricultura/cafe-alta-procura-pelo-grao-impulsiona-precos/",
+            "description": "Os preços do <strong>café</strong> estão aumentando como consequência de uma significativa retração dos agentes <strong>econômicos</strong> nos períodos anteriores"
           },
           {
-            "title": "Ceará",
-            "url": "https://www.cenofisco.com.br/Composicao/ICMS-e-Outros/Nordeste/Ceara",
-            "description": "Informações sobre ICMS e Outros, Nordeste, <strong>Ceará</strong>"
+            "title": "A Importância da Logística na Produção e Exportação de Café no Brasil - PagBem",
+            "url": "https://pagbem.com.br/a-importancia-da-logistica-na-producao-e-exportacao-de-cafe-no-brasil/",
+            "description": "Por que <strong>o</strong> Brasil é um dos maiores produtores de <strong>café</strong> no mundo? <strong>A</strong> combinação de <strong>fatores</strong> geográficos, climáticos <strong>e</strong> <strong>econômicos</strong> no país favorecem essa posição no mercado. <strong>O</strong> clima tropical <strong>e</strong> <strong>a</strong> qualidade da terra são propícios para <strong>o</strong> cultivo. Além disso, <strong>o</strong> investimento em pesquisa, tecnologia <strong>e</strong> práticas agrícolas modernas aumentam <strong>a</strong> produtividade <strong>e</strong> qualidade do grão produzido. Mas, <strong>o</strong> Brasil compete diretamente com Vietnã em termos de <strong>produção</strong> ..."
           },
           {
-            "title": "Substituição Tributária - Legislação - Bebidas - SER/PB",
-            "url": "https://www.sefaz.pb.gov.br/legislacao/99-regulamentos/anexos-icms/8976-produtos-substituicao-tributaria-10",
-            "description": "Portaria 213/GSER/18 - Valores ... cálculo com CERVEJA, CHOPP, <strong>REFRIGERANTE</strong>, ENERGÉTICO e ISOTÔNICO) - (Efeitos <strong>a</strong> partir de 01/06/2019) Portaria 318/GSER/19 - Fixa valores como base de cálculo do ICMS devido por Substituição <strong>Tributária</strong>, nas operações internas, de ..."
+            "title": "Mercado Mundial do Café: Consumo, Produção e Preço - FIA",
+            "url": "https://fia.com.br/blog/mercado-mundial-do-cafe/",
+            "description": "Com consumo recorde no último ano, <strong>o</strong> mercado do <strong>café</strong> se revela uma ótima oportunidade de negócios. Essa é uma boa notícia para <strong>o</strong> Brasil, […]"
           },
           {
-            "title": "Regulamentação da tributária propõe imposto maior para refrigerante, álcool e cigarros - Congresso em Foco",
-            "url": "https://congressoemfoco.uol.com.br/area/governo/regulamentacao-da-tributaria-propoe-imposto-maior-para-refrigerante-alcool-e-cigarros/",
-            "description": "Itens como álcool e cigarro terão o imposto do pecado por serem prejudiciais à saúde; teor alcoólico e quantidade de fumo definirão alíquota"
+            "title": "Com preços em alta, exportações de café do Brasil têm maior volume em quatro anos — Agência Gov",
+            "url": "https://agenciagov.ebc.com.br/noticias/202501/com-precos-em-alta-exportacoes-de-cafe-do-brasil-tem-maior-volume-em-quatro-anos",
+            "description": "Relatório da Organização Internacional do <strong>Café</strong>, sediada em Londres, aponta que exportações brasileiras do produto subiram 13,2% em um ano <strong>e</strong> superam volume registrado em 2020"
           },
           {
-            "title": "Reforma tributária: prato feito mais barato e refrigerante mais caro",
-            "url": "https://economia.uol.com.br/noticias/redacao/2025/01/16/reforma-tributaria---alimentos.htm",
-            "description": "<strong>A</strong> regulamentação da reforma <strong>tributária</strong> foi sancionada pelo presidente Luiz Inácio Lula da Silva nesta quinta-feira (16). <strong>A</strong> proposta prevê <strong>a</strong> isenção de impostos nos alimentos da cesta básica, <strong>a</strong> exemplo do arroz, do feijão e das carnes. Por outro lado, e"
+            "title": "Produção de café no Brasil: veja o cenário e a importância",
+            "url": "https://rehagro.com.br/blog/cenario-e-importancia-do-cafe-no-brasil/",
+            "description": "<strong>O</strong> Brasil é <strong>o</strong> maior produtor de <strong>café</strong> do mundo, além de ser <strong>o</strong> maior exportador. Veja <strong>a</strong> importância do <strong>café</strong> para <strong>o</strong> país <strong>e</strong> dados sobre <strong>a</strong> <strong>produção</strong>."
           },
           {
-            "title": "Reforma tributária: Banco Mundial estima ���imposto do pecado’ de 33% no refrigerante e 46% na cerveja - Estadão",
-            "url": "https://www.estadao.com.br/economia/banco-mundial-imposto-seletivo-refrigerante-cerveja/",
-            "description": "Alíquotas foram projetadas com base em informações repassadas pelo Ministério da Fazenda, mas ainda não refletem as cobranças exatas do Imposto Seletivo, que só serão definidas futuramente"
+            "title": "Safra brasileira de café de 2024 deve superar em 5,5% a do ano passado — Agência Gov",
+            "url": "https://agenciagov.ebc.com.br/noticias/202401/safra-brasileira-de-cafe-de-2024-deve-superar-em-5-5-a-do-ano-passado",
+            "description": "Clima mais favorável <strong>e</strong> bienalidade positiva apontam <strong>produção</strong> estimada em 58,08 milhões de sacas de <strong>café</strong>"
           },
           {
-            "title": "Bebidas no Simples Nacional: cerveja, água e refrigerantes são monofásicos?",
-            "url": "https://blog.esimplesauditoria.com.br/bebidas-como-cerveja-agua-ou-refrigerantes-sao-ou-nao-sao-monofasicos/",
-            "description": "Com o aumento da tributação de bebidas, contadores se perguntam: &quot;cerveja, água ou <strong>refrigerantes</strong> são monofásicos?&quot; Vamos tirar as dúvidas!"
+            "title": "Produção de Café no Brasil",
+            "url": "https://www.ibge.gov.br/explica/producao-agropecuaria/cafe/br",
+            "description": "Download: CSV | XLSX | PNG"
           },
           {
-            "title": "Decreto Nº 35931 DE 03/04/2024 - Estadual - Ceará - LegisWeb",
-            "url": "https://www.legisweb.com.br/legislacao/?id=457400",
-            "description": "Altera o Decreto N° 34256/2021, que dispõe sobre o regime e substituição <strong>tributária</strong> com carga líquida do ICMS nas operações com produtos do vestuário e confecções, na forma disposta na Lei N°14237/2008."
+            "title": "A Cultura do Café: análise dos custos de produção e ...",
+            "url": "https://www.conab.gov.br/institucional/publicacoes/compendio-de-estudos-da-conab/item/download/15973_a17cab78999257bea2c405642c6d1fa3",
+            "description": "Seu navegador de internet está sem suporte à JavaScript. Por esse motivo algumas funcionalidades do site podem não estar acessíveis · Compêndio de Estudos da Conab - V.31 - <strong>A</strong> Perda de Grãos no Brasil <strong>e</strong> no Mundo: dimensão, representatividade <strong>e</strong> diagnóstico (3468 Downloads) · Compêndio ..."
           },
           {
-            "title": "Câmara aprova regulamentação da tributária com refrigerante no 'imposto do pecado'",
-            "url": "https://www.cartacapital.com.br/economia/camara-vota-projeto-da-reforma-tributaria-com-refrigerantes-no-imposto-do-pecado/",
-            "description": "Resta apenas <strong>a</strong> sanção do presidente Lula (PT), o que deve ocorrer nos próximos dias"
+            "title": "SciELO - Brazil - Café, cacau e crescimento econômico no Brasil Café, cacau e crescimento econômico no Brasil",
+            "url": "https://www.scielo.br/j/rep/a/SbdgxDnY6QJfypggzd6DCqN/?lang=pt",
+            "description": "A fim de proteger os fazendeiros, ... do <strong>Café</strong> no Brasil. São Paulo, FEA/USP., pp. 61-152). Em fins de 1929, devido a uma série de <strong>fatores</strong> - <strong>a</strong> Depressão, altos estoques <strong>e</strong> dificuldade em financiá-los, deterioração das reservas - os preços caíram. Na tentativa de levar a política de valorização adiante, em 1939 praticamente um terço da <strong>produção</strong> da década ..."
           },
           {
-            "title": "Arquivos classificação - Governo do Estado do Ceará",
-            "url": "https://www.ceara.gov.br/tag/classificacao/feed/",
-            "description": "Najla Cavalcante ressaltou ainda ... <strong>tributária</strong>, por meio de uma mudança no relacionamento com o contribuinte. Busca também, continuou ela, promover <strong>a</strong> justiça fiscal e melhorar o ambiente de negócios no estado do <strong>Ceará</strong>. “O rating das empresas tem <strong>a</strong> proposta de dar visibilidade aos contribuintes com alto nível de conformidade e possibilitar que as empresas de <strong>classificação</strong> mais baixa ..."
+            "title": "Produtividade e economia de fatores de produção na cafeicultura brasileira | Moreira | Revista de Política Agrícola",
+            "url": "https://seer.sede.embrapa.br/index.php/RPA/article/view/1368",
+            "description": "Ainda que seja uma cultura tradicional, <strong>o</strong> padrão produtivo do <strong>café</strong> segue em transformação. <strong>O</strong> objetivo dessa pesquisa foi analisar <strong>a</strong> dinâmica de crescimento da atividade de 2004 <strong>a</strong> 2015 <strong>e</strong> <strong>a</strong> relação dela com <strong>a</strong> economia dos <strong>fatores</strong> de <strong>produção</strong> terra <strong>e</strong> trabalho."
           },
           {
-            "title": "RICMS - Artigo 293 a 294 - Legislação Tributária",
-            "url": "https://legislacao.fazenda.sp.gov.br/Paginas/art293.aspx",
-            "description": "Aprova o Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS"
+            "title": "As características e as vantagens da produção sustentável de café - Sebrae",
+            "url": "https://sebrae.com.br/sites/PortalSebrae/artigos/conheca-as-vantagens-da-producao-sustentavel-de-cafe,f5a7cbbd435ed410VgnVCM1000003b74010aRCRD",
+            "description": "<strong>O</strong> Brasil busca melhorar cada vez mais sua cafeicultura para fornecer um <strong>café</strong> sustentável, levando em consideração os aspectos sociais, ambientais <strong>e</strong> <strong>econômicos</strong>."
           },
           {
-            "title": "Classificação atualizada das empresas no programa Contribuinte Pai d'Égua - Secretaria da Fazenda",
-            "url": "https://www.sefaz.ce.gov.br/2022/01/04/classificacao-atualizada-das-empresas-no-programa-contribuinte-pai-degua/",
-            "description": "<strong>A</strong> Secretaria da Fazenda do <strong>Ceará</strong> (Sefaz-CE) informa que, conforme determina <strong>a</strong> Instrução Normativa nº 91/2021, que trata da atualização trimestral dos dados do programa Contribuinte Pai d’Égua, <strong>a</strong> base de dados será atualizada nesta primeira quinzena de janeiro de 2022."
+            "title": "Conab - Produção de café de 2024 é estimada em 54,79 milhões de sacas, influenciada por clima",
+            "url": "https://www.conab.gov.br/ultimas-noticias/5740-producao-de-cafe-de-2024-e-estimada-em-54-79-milhoes-de-sacas-influenciada-por-clima",
+            "description": "Com 96% da área do <strong>café</strong> já colhida no final de agosto, <strong>a</strong> safra de 2024 do grão está estimada em 54,79 milhões de sacas beneficiadas, redução de 0,5% se comparada com <strong>a</strong> <strong>produção</strong> obtida em 2023. Os dados estão no 3º levantamento da cultura, divulgado nesta quinta-feira (19) pela Companhia ..."
           },
           {
-            "title": "Tabela de ICMS do Ceará Atualizada: Alíquotas e Regras",
-            "url": "https://simtax.com.br/tabela-de-icms-ceara-atualizada/",
-            "description": "<strong>A</strong> alíquota do ICMS no <strong>Ceará</strong> foi alterada para 20% desde o dia 01.01.2024, conforme estabelecido pela Lei nº 18.305/2023."
+            "title": "Produção dos Cafés do Brasil atinge 61,62 milhões de sacas de 60kg em 2020, volume 25% maior que 2019 - Portal Embrapa",
+            "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/56084554/producao-dos-cafes-do-brasil-atinge-6162-milhoes-de-sacas-de-60kg-em-2020-volume-25-maior-que-2019",
+            "description": "Receita bruta da lavoura cafeeira de Minas Gerais totaliza R$ 18,5 bilhões <strong>e</strong> equivale <strong>a</strong> 60% das lavouras dos <strong>Cafés</strong> do Brasil <strong>O</strong> volume de <strong>produção</strong> dos <strong>Cafés</strong> do Brasil para <strong>a</strong> safra..."
           },
           {
-            "title": "Ceará modificou pauta de refrigerante",
-            "url": "https://www.substituicaotributaria.com/SST/substituicao-tributaria/noticia/22/02/2024/ceara-modificou-pauta-de-refrigerante",
-            "description": "Através da Instrução Normativa ... no cálculo do ICMS devido por substituição <strong>tributária</strong> nas operações com <strong>refrigerantes</strong>, produzindo efeitos <strong>a</strong> partir de 23-2-2024. ... O Secretário da Fazenda do Estado do <strong>Ceará</strong>, no uso das atribuições legais que lhe confere o ..."
+            "title": "Conab - Safra Brasileira de Café",
+            "url": "https://www.conab.gov.br/info-agro/safras/cafe",
+            "description": "<strong>A</strong> colaboração de instituições ... é <strong>fator</strong> decisivo para <strong>a</strong> qualidade <strong>e</strong> credibilidade das informações divulgadas. Os Boletins são divulgados quadrimestralmente, totalizando quatro publicações por ano ... Boletim <strong>Café</strong> setembro 2024 Tabela de dados - Estimativas da <strong>Produção</strong> <strong>e</strong> Colheita ..."
           },
           {
-            "title": "ICMS/CE - Pai dÉgua estabelece critérios para estimular contribuintes que cumprem obrigações tributárias",
-            "url": "https://www.legisweb.com.br/noticia/?id=25591",
-            "description": "<strong>A</strong> Secretaria da Fazenda do <strong>Ceará</strong> (Sefaz-CE) traz novidades sobre o Programa Contribuinte Pai d’Égua. Está em andamento um projeto piloto que ..."
+            "title": "A mão de obra é a maior parcela do custo de produção do café - Portal Embrapa",
+            "url": "https://www.embrapa.br/instrumentacao/busca-de-noticias/-/noticia/54458181/a-mao-de-obra-e-a-maior-parcela-do-custo-de-producao-do-cafe",
+            "description": "De acordo com <strong>a</strong> Organização ... na economia de muitos deles. <strong>A</strong> Plataforma Global do <strong>Café</strong> estima que existem de 20 <strong>a</strong> 25 milhões de produtores espalhados por esses países. <strong>O</strong> trabalho representa <strong>a</strong> maior parte dos custos em muitos países produtores, mas esse <strong>fator</strong> varia muito entre agricultores, regiões <strong>e</strong> países, conforme os sistemas de <strong>produção</strong>, produtividade ..."
           },
           {
-            "title": "PROTOCOLO ICMS 46/22 — Conselho Nacional de Política Fazendária CONFAZ",
-            "url": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2022/protocolo-icms-46-22",
-            "description": "Altera o Protocolo ICMS nº 10/92, que dispõe sobre <strong>a</strong> substituição <strong>tributária</strong> nas operações com cerveja, chope, <strong>refrigerante</strong> e xarope ou extrato concentrado destinado ao preparo de <strong>refrigerante</strong> em máquina pre-mix ou post-mix. Os Estados do Acre, Alagoas, Amapá, Amazonas, <strong>Ceará</strong>, Maranhão, ..."
+            "title": "Indicadores da Indústria de Café | 2021 - ABIC",
+            "url": "https://estatisticas.abic.com.br/estatisticas/indicadores-da-industria/indicadores-da-industria-de-cafe-2021/",
+            "description": "Indicadores Desempenho da <strong>Produção</strong> <strong>e</strong> do Consumo InternoPeríodo: Novembro/2020 <strong>a</strong> Outubro/2021 Realização da Área de Pesquisas da ABIC – Associação Brasileira da Indústria de <strong>Café</strong> Consumo interno de <strong>café</strong> no país registrou crescimento em 2021 Brasil segue como segundo maior consumidor ..."
           }
         ]
       },
       {
-        "query": "classificação tributária refrigerante São Paulo",
+        "query": "fatores globais produção café",
         "results": [
           {
-            "title": "RICMS - Artigo 293 a 294 - Legislação Tributária",
-            "url": "https://legislacao.fazenda.sp.gov.br/Paginas/art293.aspx",
-            "description": "Aprova o Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS"
+            "title": "Brasil é o maior produtor mundial e o segundo maior consumidor de café — Ministério da Agricultura e Pecuária",
+            "url": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/brasil-e-o-maior-produtor-mundial-e-o-segundo-maior-consumidor-de-cafe",
+            "description": "Em 2022 foram exportadas cerca de 2,2 milhões de toneladas de <strong>café</strong> para mais de 100 países"
           },
           {
-            "title": "NCM refrigerante: tudo sobre a classificação 2202.10.00",
-            "url": "https://saipos.com/ncm/ncm-refrigerante",
-            "description": "Entenda de uma vez por todas o funcionamento da classificação fiscal <strong>2202.10.00 NCM</strong> refrigerante, saiba como consultar e qual a importância de usar o código correto para evitar problemas fiscais neste artigo completo. LEIA MAIS."
+            "title": "Produção mundial de café foi estimada em 176,2 milhões de sacas de 60kg para a safra 2024–2025",
+            "url": "https://agenciagov.ebc.com.br/noticias/202407/producao-mundial-de-cafe-foi-estimada-em-176-2-milhoes-de-sacas-de-60kg-para-a-safra-202420132025",
+            "description": "Safra prevista dos <strong>Cafés</strong> do Brasil equivalerá <strong>a</strong> 33,3% da <strong>produção</strong> mundial, Vietnã 16,5% <strong>e</strong> Colômbia 7%"
           },
           {
-            "title": "Regulamentação da tributária propõe imposto maior para refrigerante, álcool e cigarros - Congresso em Foco",
-            "url": "https://congressoemfoco.uol.com.br/area/governo/regulamentacao-da-tributaria-propoe-imposto-maior-para-refrigerante-alcool-e-cigarros/",
-            "description": "A regulamentação da reforma tributária proposta pelo governo Lula (PT) inclui o <strong>imposto seletivo, também chamado de “imposto do pecado”,</strong> para bebidas açucaradas, como refrigerantes, cigarros e bebidas alcoólicas."
+            "title": "O preço do café deve continuar subindo em 2025 – Agrisafe",
+            "url": "https://agrisafe.agr.br/o-preco-do-cafe-deve-continuar-subindo-em-2025/",
+            "description": "Variedades de <strong>café</strong> mais resistentes <strong>a</strong> pragas <strong>e</strong> doenças estão sendo desenvolvidas, o que pode ajudar <strong>a</strong> estabilizar <strong>a</strong> <strong>produção</strong> no futuro. Vários <strong>fatores</strong> apontam para um aumento no preço do <strong>café</strong> em 2025. Desde as mudanças climáticas até o crescimento da demanda global <strong>e</strong> os custos crescentes ..."
           },
           {
-            "title": "NCM Refrigerante - Suporte do Nota Varejo",
-            "url": "https://help.notavarejo.com.br/ncm-refrigerante/",
-            "description": "Como já foi citado o código NCM refrigerante está na classificação <strong>2202.10.00</strong> – bebidas, líquidos alcoólicos e vinagres."
+            "title": "Conab - Atual estimativa traz produção de café em 58,81 milhões de sacas na safra 2024",
+            "url": "https://www.conab.gov.br/ultimas-noticias/5547-atual-estimativa-traz-producao-de-cafe-em-58-81-milhoes-de-sacas-na-safra-2024",
+            "description": "De acordo com o Departamento de ... consumo global de <strong>café</strong> está previsto em 169,5 milhões de sacas de 60 quilos, o que representa novo recorde <strong>e</strong> um aumento de 0,3% na comparação com o ciclo anterior. Nesse panorama de alta na demanda internacional, <strong>a</strong> procura pelo produto brasileiro segue aquecida, em razão dos problemas na <strong>produção</strong> da Ásia, ..."
           },
           {
-            "title": "Classificação de Contribuintes",
-            "url": "https://portal.fazenda.sp.gov.br/servicos/nosconformes/Paginas/Classificação-de-Contribuinte.aspx",
-            "description": "Você está em: Início &gt; Serviços &gt; Nos Conformes &gt; <strong>Classificação</strong> de Contribuintes · <strong>A</strong> <strong>Classificação</strong> de Contribuintes do ICMS, no âmbito da Lei de Estímulo à Conformidade <strong>Tributária</strong>, utiliza o conceito da pirâmide de risco para instituir uma nova lógica de atuação da Administração ..."
+            "title": "Produção de Café no Brasil",
+            "url": "https://www.ibge.gov.br/explica/producao-agropecuaria/cafe/br",
+            "description": "Download: CSV | XLSX | PNG"
           },
           {
-            "title": "Novo texto da reforma tributária corta benefício de saneamento e recoloca refrigerante no Imposto Seletivo",
-            "url": "https://www1.folha.uol.com.br/mercado/2024/12/novo-texto-da-reforma-tributaria-corta-beneficio-de-saneamento-e-recoloca-refrigerante-no-imposto-seletivo.shtml",
-            "description": "Câmara faz alterações no texto vindo do Senado; relator diz que mudanças reduzem alíquota do IVA em 0,7 ponto percentual"
+            "title": "Mercado Mundial do Café: Consumo, Produção e Preço - FIA",
+            "url": "https://fia.com.br/blog/mercado-mundial-do-cafe/",
+            "description": "Com consumo recorde no último ano, o mercado do <strong>café</strong> se revela uma ótima oportunidade de negócios. Essa é uma boa notícia para o Brasil, […]"
           },
           {
-            "title": "ICMS-SP: Substituição tributária de refrigerantes, fisco acrescenta marcas de bebidas e valores para efeito base de cálculo",
-            "url": "https://www.legisweb.com.br/noticia/?id=18738",
-            "description": "ICMS-SP: Substituição <strong>tributária</strong> de <strong>refrigerantes</strong>, fisco acrescenta marcas de bebidas e valores para efeito base de cálculo ... ... Por meio da Portaria CAT nº 58/2017 - DOE SP de 15.07.2017, o Coordenador da Administração <strong>Tributária</strong> da Secretaria da Fazenda do Estado de <strong>São</strong> <strong>Paulo</strong> alterou ..."
+            "title": "Ciclo do café: resumo, características, consequências",
+            "url": "https://brasilescola.uol.com.br/amp/historiab/economia-cafeeira.htm",
+            "description": "Esse ciclo desempenhou um papel ... o escoamento eficiente da <strong>produção</strong> <strong>e</strong> promovendo o surgimento da &quot;burguesia do <strong>café</strong>&quot; no Oeste Paulista. No entanto, enfrentou desafios, como <strong>a</strong> exaustão do solo, doenças nas plantações <strong>e</strong> <strong>fatores</strong> <strong>globais</strong> que contribuíram para sua ..."
           },
           {
-            "title": "Água mineral paga mais imposto que refrigerante | Mineração | Valor Econômico",
-            "url": "https://valor.globo.com/publicacoes/especiais/mineracao/noticia/2024/09/19/agua-mineral-paga-mais-imposto-que-refrigerante.ghtml",
-            "description": "Isenção <strong>tributária</strong> da Zona Franca de Manaus beneficia matéria-prima usada na bebibda gaseificada"
+            "title": "ANÁLISE DOS FATORES DETERMINANTES E PERSPECTIVAS DE CRESCIMENTO NA PRODUÇÃO E EXPORTAÇÃO DE CAFÉ NA REGIÃO DAS MATAS DE MINAS – ISSN 1678-0817 Qualis B2",
+            "url": "https://revistaft.com.br/analise-dos-fatores-determinantes-e-perspectivas-de-crescimento-na-producao-e-exportacao-de-cafe-na-regiao-das-matas-de-minas/",
+            "description": "O país tem investido fortemente ... no mercado global. Apesar dos avanços significativos, ainda há uma lacuna <strong>a</strong> previsões futuras baseadas na <strong>produção</strong> <strong>e</strong> exportação do <strong>café</strong>, especialmente na Região das Matas de Minas. Embora existam estudos sobre <strong>fatores</strong> que influenciam ..."
           },
           {
-            "title": "Cerveja, água e refrigerante",
-            "url": "https://www.sefaz.pe.gov.br/Legislacao/Tributaria/Consolidada-Por-Assunto/Paginas/Cerveja-agua-e-refrigerante.aspx",
-            "description": "Secretaria da Fazenda do Estado de Pernambuco :: serviços tributários, consultas e informações on-line."
+            "title": "Safra brasileira de café de 2024 deve superar em 5,5% a do ano passado — Agência Gov",
+            "url": "https://agenciagov.ebc.com.br/noticias/202401/safra-brasileira-de-cafe-de-2024-deve-superar-em-5-5-a-do-ano-passado",
+            "description": "<strong>A</strong> <strong>produção</strong> mundial de <strong>café</strong> na safra 2023/24 está prevista em 171,4 milhões de sacas de 60 quilos, o que representa uma alta de 4,2% na comparação com <strong>a</strong> temporada anterior. Os três principais países produtores de <strong>café</strong>, respectivamente, Brasil, Vietnã <strong>e</strong> Colômbia, indicam crescimento na safra 2023/24. Quanto ao consumo global ..."
           },
           {
-            "title": "Reforma tributária: entidades tentam manter refrigerante e colocar ultraprocessado e arma no imposto seletivo - 10/07/2024 - Que imposto é esse - Folha",
-            "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2024/07/reforma-tributaria-entidades-tentam-manter-refrigerante-e-colocar-ultraprocessado-e-arma-no-imposto-seletivo.shtml",
-            "description": "A expectativa do movimento Reforma <strong>Tributária</strong> 3S (Saudável, Solidária e Sustentável) é que essa mudança possa ser aprovada."
+            "title": "Economia do café – Wikipédia, a enciclopédia livre",
+            "url": "https://pt.wikipedia.org/wiki/Economia_do_caf%C3%A9",
+            "description": "Com uma média de cinco pessoas por família, mais de 100 milhões de pessoas dependem do cultivo de <strong>café</strong>. Um total de 10,3 milhões de toneladas de <strong>café</strong> verde foram colhidas em todo o mundo em 2018. Em 2016, as exportações <strong>globais</strong> de <strong>café</strong> foram de US$ 19,4 bilhões."
           },
           {
-            "title": "Reforma tributária: prato feito mais barato e refrigerante mais caro",
-            "url": "https://economia.uol.com.br/noticias/redacao/2025/01/16/reforma-tributaria---alimentos.htm",
-            "description": "<strong>A</strong> regulamentação da reforma <strong>tributária</strong> foi sancionada pelo presidente Luiz Inácio Lula da Silva nesta quinta-feira (16). <strong>A</strong> proposta prevê <strong>a</strong> isenção de impostos nos alimentos da cesta básica, <strong>a</strong> exemplo do arroz, do feijão e das carnes. Por outro lado, e"
+            "title": "Ciclo do café: resumo, características, consequências - Brasil Escola",
+            "url": "https://brasilescola.uol.com.br/historiab/economia-cafeeira.htm",
+            "description": "Esse ciclo desempenhou um papel ... o escoamento eficiente da <strong>produção</strong> <strong>e</strong> promovendo o surgimento da &quot;burguesia do <strong>café</strong>&quot; no Oeste Paulista. No entanto, enfrentou desafios, como <strong>a</strong> exaustão do solo, doenças nas plantações <strong>e</strong> <strong>fatores</strong> <strong>globais</strong> que contribuíram para sua ..."
           },
           {
-            "title": "Bebidas no Simples Nacional: cerveja, água e refrigerantes são monofásicos?",
-            "url": "https://blog.esimplesauditoria.com.br/bebidas-como-cerveja-agua-ou-refrigerantes-sao-ou-nao-sao-monofasicos/",
-            "description": "ATENÇÃO: não são vendas ao ... Portal SPED/EFD Contribuições, tem como modelo de tributação o Código de Situação Tributária – <strong>CST 06 (Alíquota Zero)</strong> para:..."
+            "title": "Produtividade média dos Cafés do Brasil equivale a 28,9 sacas por hectare em 2023 - Portal Embrapa",
+            "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/80992551/produtividade-media-dos-cafes-do-brasil-equivale-a-289-sacas-por-hectare-em-2023",
+            "description": "Safra atingirá 54,9 milhões de sacas de 60kg, sendo 37,43 milhões de <strong>cafés</strong> da espécie arábica <strong>e</strong> 17,5 milhões de conilon em uma área de 1,9 milhão de hectares <strong>A</strong> <strong>produção</strong> total..."
           },
           {
-            "title": "PIS e COFINS: você sabe como tributar bebidas frias?​ - Busca.Legal",
-            "url": "https://busca.legal/pis-e-cofins-voce-sabe-como-tributar-bebidas-frias/",
-            "description": "Tecnologia Watson na plataforma Busca.Legal para <strong>a</strong> área <strong>tributária</strong> Uso de computação cognitiva para revolucionar <strong>a</strong> área fiscal Você já conhece o Watson."
+            "title": "Relação entre Produção Mundial e Preços do Café: Análise Histórica e Padrões de Mercado - Revista Cafeicultura",
+            "url": "https://revistacafeicultura.com.br/relacao-entre-producao-mundial-e-precos-do-cafe-analise-historica-e-padroes-de-mercado/",
+            "description": "Os preços do <strong>café</strong> no mercado ... de <strong>fatores</strong>, sendo um dos mais importantes <strong>a</strong> variação na <strong>produção</strong> mundial. Analisando os dados históricos dos últimos 50 anos, é possível observar padrões significativos nas altas <strong>e</strong> baixas dos preços do <strong>café</strong> <strong>e</strong> sua correlação com alterações na <strong>produção</strong> global..."
           },
           {
-            "title": "Resposta à Consulta Nº 25237 DE 29/03/2022 - Estadual - São Paulo - LegisWeb",
-            "url": "https://www.legisweb.com.br/legislacao/?id=430649",
-            "description": "ICMS  Obrigações acessórias  Operações de fornecimento de alimentação  CFOP. I. Para fins da legislação <strong>tributária</strong> paulista, o preparo e fornecimento de alimentação é considerado industrialização na modalidade transformação, operação enquadrada no CFOP 5.101 (venda ..."
+            "title": "Indicadores da Indústria de Café | 2021 - ABIC",
+            "url": "https://estatisticas.abic.com.br/estatisticas/indicadores-da-industria/indicadores-da-industria-de-cafe-2021/",
+            "description": "Indicadores Desempenho da <strong>Produção</strong> <strong>e</strong> do Consumo InternoPeríodo: Novembro/2020 <strong>a</strong> Outubro/2021 Realização da Área de Pesquisas da ABIC – Associação Brasileira da Indústria de <strong>Café</strong> Consumo interno de <strong>café</strong> no país registrou crescimento em 2021 Brasil segue como segundo maior consumidor ..."
           },
           {
-            "title": "Indústrias de refrigerantes regionais pedem mudanças na cobrança do ICMS-ST - Afrebras",
-            "url": "https://afrebras.org.br/noticias/industrias-de-refrigerantes-regionais-pedem-mudancas-na-cobranca-do-icms-st/",
-            "description": "<strong>A</strong> fábrica produz o Guaraná Paulistinha, em Birigui, <strong>a</strong> cerca de 520 quilômetros da capital <strong>São</strong> <strong>Paulo</strong>. De acordo com o executivo de bebidas, o setor de <strong>refrigerantes</strong> no Brasil precisa de uma “fórmula de tributação mais suave”. Ele sugere <strong>a</strong> eliminação da substituição <strong>tributária</strong> <strong>e</strong> <strong>a</strong> ..."
+            "title": "Cafés Especiais - Qualidade do Café: 4 Fatores de Influência",
+            "url": "https://www.graocafe.com.br/blog/qualidade-cafe/",
+            "description": "Verificamos os quatro <strong>fatores</strong> que influenciam na qualidade do <strong>café</strong>. 1 – Origem (Região Produtora); 2 – <strong>Produção</strong> (Cafeicultor); 3 – Torra (Mestre de Torra); 4 – Preparação (Barista)."
           },
           {
-            "title": "Governo propõe imposto sobre refrigerantes",
-            "url": "https://ojoioeotrigo.com.br/2024/04/reforma-tributaria-refrigerante/",
-            "description": "Dessa forma, todas as carnes (suína, bovina, de frango e de outros animais) ficaram dentro da chamada “cesta básica estendida”, que tem direito <strong>a</strong> uma redução <strong>tributária</strong>, mas não à isenção.  ... Peres, João. Governo propõe imposto sobre <strong>refrigerantes</strong>, O Joio e O Trigo, <strong>São</strong> <strong>Paulo</strong>, 25 ..."
+            "title": "Jornal da Unesp | Brasil deve experimentar redução drástica de área propícia para a produção de café arábica nas próximas décadas devido às mudanças climáticas",
+            "url": "https://jornal.unesp.br/2024/06/03/brasil-deve-experimentar-reducao-drastica-de-area-propicia-para-a-producao-de-cafe-arabica-nas-proximas-decadas-devido-as-mudancas-climaticas/",
+            "description": "Estudo simulou mudanças no regime de chuvas <strong>e</strong> na temperatura atmosférica para as próximas décadas, usando como referência cinco possíveis cenários projetados pelo IPCC. Na previsão menos adversa, área adequada para cafeicultura no país sem uso de irrigação diminuirá mais de 50% ..."
           },
           {
-            "title": "Taxation of soft drinks has distortions - ETCO",
-            "url": "https://en.etco.org.br/etco-na-midia/tributacao-de-refrigerantes-tem-distorcoes/",
-            "description": "Wallace Nunes, Gazeta Mercantil (A.10) - 26/04/2006 <strong>São</strong> <strong>Paulo</strong>, April 26, 2006 - Study reveals that the government&#x27;s strategy to avoid tax evasion created distortions in the sector. The war for the sale of soft drinks is not only characterized by marketing and price."
+            "title": "Produção de café no Brasil: veja o cenário e a importância",
+            "url": "https://rehagro.com.br/blog/cenario-e-importancia-do-cafe-no-brasil/",
+            "description": "O Brasil é o maior produtor de <strong>café</strong> do mundo, além de ser o maior exportador. Veja <strong>a</strong> importância do <strong>café</strong> para o país <strong>e</strong> dados sobre <strong>a</strong> <strong>produção</strong>."
           },
           {
-            "title": "Tributação de Bebidas Adoçadas | ACT BR",
-            "url": "https://actbr.org.br/tributacao-de-bebidas-adocadas",
-            "description": "O que <strong>são</strong> as bebidas adoçadas e por que tributá-las é uma medida eficaz para promover <strong>a</strong> saúde pública."
+            "title": "Com preços em alta, exportações de café do Brasil têm maior volume em quatro anos — Agência Gov",
+            "url": "https://agenciagov.ebc.com.br/noticias/202501/com-precos-em-alta-exportacoes-de-cafe-do-brasil-tem-maior-volume-em-quatro-anos",
+            "description": "Neste mesmo contexto, em relação especificamente à <strong>produção</strong> global de <strong>café</strong>, constata-se que o volume calculado foi composto por 102,2 milhões de sacas de 60kg da espécie de Coffea arabica (<strong>café</strong> arábica), as quais representaram 57,41% do total geral, <strong>e</strong>, adicionalmente, por 75,8 milhões ..."
           },
           {
-            "title": "Sistemática de tributação para o setor de bebidas frias é simplificada - Portal do Estado do Rio Grande do Sul",
-            "url": "https://estado.rs.gov.br/sistematica-de-tributacao-para-o-setor-de-bebidas-frias-e-simplificada",
-            "description": "<strong>A</strong> Receita Estadual, em parceria com as entidades representativas e contribuintes do setor de bebidas, estabeleceu uma nova forma de fixação de preços finais ao consumidor (PFC) para o segmento de bebidas frias."
+            "title": "Produtividade e economia de fatores de produção na cafeicultura brasileira | Moreira | Revista de Política Agrícola",
+            "url": "https://seer.sede.embrapa.br/index.php/RPA/article/view/1368",
+            "description": "Ainda que seja uma cultura tradicional, o padrão produtivo do <strong>café</strong> segue em transformação. O objetivo dessa pesquisa foi analisar <strong>a</strong> dinâmica de crescimento da atividade de 2004 <strong>a</strong> 2015 <strong>e</strong> <strong>a</strong> relação dela com <strong>a</strong> economia dos <strong>fatores</strong> de <strong>produção</strong> terra <strong>e</strong> trabalho."
           },
           {
-            "title": "Tabela CEST x NCM de São Paulo (SP) | Blog do Tributei",
-            "url": "https://tributei.net/blog/tabela-cest-ncm-de-sao-paulo-sp/",
-            "description": "Saiba quais produtos <strong>são</strong> sujeitos ao ICMS-ST em <strong>São</strong> <strong>Paulo</strong> (SP) com <strong>a</strong> tabela CEST x NCM que o Tributei preparou para você."
+            "title": "Colheita e Preparo do Café Brasileiro: aspectos qualitativos",
+            "url": "https://ainfo.cnptia.embrapa.br/digital/bitstream/item/101485/1/doc-50.pdf",
+            "description": "Please enter your <strong>e</strong>-mail address and password into the form below · Have you forgotten your password"
           }
         ]
       },
       {
-        "query": "classificação tributária refrigerante Santa Catarina",
+        "query": "fatores internacionais produção café",
         "results": [
           {
-            "title": "Início | Secretaria de Estado da Fazenda de Santa Catarina",
-            "url": "https://www.sef.sc.gov.br/",
-            "description": "O Governador do Estado de <strong>Santa</strong> <strong>Catarina</strong> autoriza <strong>a</strong> SC Participações e Parcerias S.<strong>A</strong>. <strong>a</strong> promover alterações em seu Plano de Cargos e Salários em Comissão e Funções Gratificadas. Processo SCPAR 676/2023. ... ATO DIAT Nº 001/2025 PeSEF de 30.01.25 Altera o Ato DIAT nº 65, de 2024, que adota pesquisas e fixa os preços médios ponderados <strong>a</strong> consumidor final para cálculo do ICMS devido por substituição <strong>tributária</strong> nas operações com cerveja, chope, <strong>refrigerante</strong>..."
+            "title": "Brasil é o maior produtor mundial e o segundo maior consumidor de café — Ministério da Agricultura e Pecuária",
+            "url": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/brasil-e-o-maior-produtor-mundial-e-o-segundo-maior-consumidor-de-cafe",
+            "description": "Com uma área destinada à cafeicultura ... 2023, <strong>a</strong> <strong>produção</strong> brasileira de <strong>café</strong> pode atingir 54,94 milhões de sacas do grão beneficiado, segundo <strong>a</strong> Conab. O <strong>café</strong> <strong>é</strong> <strong>a</strong> segunda bebida mais consumida no mundo, atrás apenas da água. Segundo <strong>a</strong> Organização Internacional do <strong>Café</strong> (OIC), ..."
           },
           {
-            "title": "SEF - Legislação",
-            "url": "https://legislacao.sef.sc.gov.br/consulta/views/Publico/Frame.aspx?x=/html/consultas/frame_consultas.htm",
-            "description": "Legislação <strong>Tributária</strong> da Secretaria do Estado da Fazenda de <strong>Santa</strong> <strong>Catarina</strong>"
+            "title": "ANÁLISE DOS FATORES DETERMINANTES E PERSPECTIVAS DE CRESCIMENTO NA PRODUÇÃO E EXPORTAÇÃO DE CAFÉ NA REGIÃO DAS MATAS DE MINAS – ISSN 1678-0817 Qualis B2",
+            "url": "https://revistaft.com.br/analise-dos-fatores-determinantes-e-perspectivas-de-crescimento-na-producao-e-exportacao-de-cafe-na-regiao-das-matas-de-minas/",
+            "description": "A adaptação às exigências da ... As exportações de café do Brasil são influenciadas por uma série de fatores, incluindo <strong>produtividade, custos de produção e taxa de câmbio</strong>...."
           },
           {
-            "title": "ST - Substituição Tributária de ICMS",
-            "url": "https://www.substituicaotributaria.com/SST/substituicao-tributaria/noticia/29/12/2020/sc-exclui-do-regime-de-st-diversas-mercadorias-a-partir-de-1--1--2021",
-            "description": "Após <strong>a</strong> última exclusão das mercadorias do regime ST é importante ressaltar que no estado de <strong>Santa</strong> <strong>Catarina</strong> <strong>a</strong> partir de 1-1-2021, ainda será aplicado o regime ST aos segmentos listados abaixo: Cervejas, chopes, <strong>refrigerantes</strong>, águas e outras bebidas, cigarros e outros produtos derivados ..."
+            "title": "Mercado Mundial do Café: Consumo, Produção e Preço - FIA",
+            "url": "https://fia.com.br/blog/mercado-mundial-do-cafe/",
+            "description": "Com consumo recorde no último ano, o mercado do <strong>café</strong> se revela uma ótima oportunidade de negócios. Essa é uma boa notícia para o Brasil, […]"
           },
           {
-            "title": "Fábricas regionais de refrigerantes sofrem com desigualdade tributária",
-            "url": "https://www.correiosc.com.br/refrigerantes-desigualdade-tributaria/",
-            "description": "Esses empregos estão cada vez ... <strong>tributária</strong> do setor. Para se ter uma ideia, em 1960, quando começou o censo industrial do Instituto Brasileiro de Geografia e Estatística (IBGE), existiam 892 empresas de <strong>refrigerantes</strong> no Brasil, caindo para 215 em 2017. Somente na década de 2006-2016 foram fechados 7.200 postos de trabalho. O estado de <strong>Santa</strong> <strong>Catarina</strong> não enfrenta ..."
+            "title": "Entenda como o preço do café é formado – Hedgepoint Global Markets",
+            "url": "https://hedgepointglobal.com/pt-br/blog/como-o-preco-do-cafe-e-formado/",
+            "description": "Existem muitos aspectos que impactam os preços do café, como <strong>a cotação do dólar, a política econômica global e fatores climáticos</strong>. Saber de que forma funciona a definição do valor desta commodity faz toda a diferença para os negociadores do mercado, o que contribui na tomada de decisões ..."
           },
           {
-            "title": "CONSULTA Nº: 19/04",
-            "url": "https://legislacao.sef.sc.gov.br/html/consultas/2004/con_04_019.htm",
-            "description": "Noticia que distribui para o Estado ... gaseificada, classificada na posição NCM 2202.90.00 (Laudo – fls. 16 <strong>a</strong> 18). Tendo dúvida sobre <strong>a</strong> aplicação <strong>a</strong> este produto, quando de seu ingresso no Estado de <strong>Santa</strong> <strong>Catarina</strong>, do regime de substituição <strong>tributária</strong>, solicita, para ..."
+            "title": "Dia do Café: o café no Brasil e suas exportações",
+            "url": "https://conexos.com.br/dia-do-cafe-no-brasil-e-exportacoes-do-grao/",
+            "description": "Nesse dia do <strong>café</strong>, conheça sobre as movimentações do <strong>café</strong> no Brasil: os principais compradores, valores de exportação <strong>e</strong> muito mais!"
           },
           {
-            "title": "MVA - ST Santa Catarina | PDF | Motores | Bebidas não alcoólicas",
-            "url": "https://www.scribd.com/document/246602021/MVA-ST-Santa-Catarina",
-            "description": "Margem Valor agregada de produtos com substituição <strong>tributária</strong> no estado de <strong>Santa</strong> <strong>Catarina</strong>."
+            "title": "Exportação de café brasileiro bate recordes no melhor junho em 34 anos — Agência Gov",
+            "url": "https://agenciagov.ebc.com.br/noticias/202407/exportacao-de-cafe-brasileiro-bate-recordes-no-melhor-junho-em-34-anos",
+            "description": "Já a <strong>receita cambial</strong> do período é a maior na história do levantamento das exportações brasileiras de café, iniciado em 1990. Em 2023/2024, também foi registrado um incremento de 20,7% na <strong>receita cambial</strong> obtida com os embarques realizados nos últimos 12 meses encerrados em junho passado."
           },
           {
-            "title": "Principais mudanças de ICMS em RS - Setor Varejista - BLOG ESS Assessoria",
-            "url": "https://www.essauditor.com.br/blog.php?ID=762&T=principais-mudan-as-de-icms-em-rs-setor-varejista",
-            "description": "O ESS Auditor identifica as falhas na <strong>classificação</strong> <strong>tributária</strong> de produtos no seu cadastro e corrige automaticamente em tempo real"
+            "title": "Café a quase R$ 50: entenda por que deve continuar subindo em 2025 | Nord News",
+            "url": "https://www.nordinvestimentos.com.br/blog/por-que-o-cafe-esta-caro/",
+            "description": "O preço do café está, em média, a R$ 48,57 o quilo, segundo a Associação Brasileira da Indústria de Café (Abic). Em janeiro de 2024, o valor era de R$ 35,09. Este aumento está relacionado a fatores como <strong>mudanças climáticas, crescimento da demanda global e custos logísticos</strong>."
           },
           {
-            "title": "Consulta COPAT Nº 56 DE 29/05/2018 - Estadual - Santa Catarina - LegisWeb",
-            "url": "https://www.legisweb.com.br/legislacao/?id=360706",
-            "description": "ICMS. Substituição <strong>Tributária</strong>. As operações com suco em saquinho congelado ("
+            "title": "Exportação dos Cafés do Brasil neste ano atinge 30,62 milhões de sacas — Agência Gov",
+            "url": "https://agenciagov.ebc.com.br/noticias/202311/exportacao-dos-cafes-do-brasil-atinge-30-62-milhoes-de-sacas-com-receita-cambial-de-us-6-4-bilhoes-em-dez-meses",
+            "description": "O total das exportações dos <strong>Cafés</strong> do Brasil, no acumulado de dez meses, especificamente no período de janeiro a outubro de 2023, atingiu o volume físico equivalente a 30,624 milhões de sacas de 60kg, as quais proporcionaram uma receita cambial de US$ 6,4 bilhões."
           },
           {
-            "title": "Impostos: vinhos e outras bebidas quentes ficam mais caros em Santa Catarina",
-            "url": "https://ndmais.com.br/financas-pessoais/impostos/impostos-vinhos-e-outras-bebidas-quentes-ficam-mais-caros-em-santa-catarina/",
-            "description": "Decreto revisa o percentual <strong>a</strong> ser aplicado no cálculo de substituição <strong>tributária</strong> para <strong>a</strong> venda desses produtos"
+            "title": "5 maiores produtores de café do mundo: Brasil se destaca",
+            "url": "https://agroadvance.com.br/blog-5-maiores-produtores-de-cafe-do-mundo/",
+            "description": "Os cinco maiores produtores de café do mundo, responsáveis conjuntamente por mais de 75% do café mundial, são respectivamente: <strong>Brasil, Vietnã, Colômbia, Indonésio a Etiópia</strong>. Para a safra 2023/2024, a expectativa é que esses pases produzam, juntos 127,15 milhões de sacos de 60 kg – ..."
           },
           {
-            "title": "Consulta COPAT Nº 25 DE 18/05/2020 - Estadual - Santa Catarina - LegisWeb",
-            "url": "https://www.legisweb.com.br/legislacao/?id=395689",
-            "description": "ICMS. <strong>A</strong> COMPETÊNCIA PARA DIRIMIR DÚVIDAS ACERCA DA <strong>CLASSIFICAÇÃO</strong> FISCAL DE MERCADORIAS NOS CÓDIGOS NCM (NOMENCLATURA COMUM DO MERCOSUL) É DA AUTORIDADE FAZENDÁRIA FEDERAL. NAS OPERAÇÕES INTERNAS OU INTERESTADUAIS DESTINADAS <strong>A</strong> ESTE ESTADO COM LUBRIFICANTES DO TIPO GRAXA (NCM 3403), ..."
+            "title": "Conheça os maiores produtores de café do mundo",
+            "url": "https://globorural.globo.com/agricultura/cafe/noticia/2024/02/conheca-os-maiores-produtores-de-cafe-do-mundo.ghtml",
+            "description": "Brasil ocupa o topo da lista concentrando cerca de 38% da <strong>produção</strong> global do grão"
           },
           {
-            "title": "Marca gaúcha lança refrigerante exclusivo para SC e projeta nova expansão no Estado - NSC Total",
-            "url": "https://www.nsctotal.com.br/colunistas/pedro-machado/marca-gaucha-lanca-refrigerante-exclusivo-para-sc-e-projeta-nova-expansao",
-            "description": "Quase um ano depois de inaugurar um centro de distribuição em Blumenau, o primeiro da empresa fora do Rio Grande do Sul, <strong>a</strong> indústria de bebidas Fruki, que"
+            "title": "Indicadores da Indústria de Café | 2021 - ABIC",
+            "url": "https://estatisticas.abic.com.br/estatisticas/indicadores-da-industria/indicadores-da-industria-de-cafe-2021/",
+            "description": "Para que o café chegue à mesa dos brasileiros, o grão passa por variadas etapas. São muitos os fatores que impactam no preço final encontrado na gôndola, tais como: <strong>o câmbio em alta, o aumento nos custos dos insumos, o volume da safra, o clima e a continuação da pandemia</strong>."
           },
           {
-            "title": "Empresas que compraram produtos em Santa Catarina têm até 30/12 para pagar ICMS | Secretaria da Fazenda",
-            "url": "https://www.fazenda.pr.gov.br/Noticia/Empresas-que-compraram-produtos-em-Santa-Catarina-tem-ate-3012-para-pagar-ICMS",
-            "description": "<strong>A</strong> mudança no regime tributário do Estado de <strong>Santa</strong> <strong>Catarina</strong>, que excluiu diversos segmentos do regime de substituição <strong>tributária</strong> em meados de 2019, gerou uma perda de arrecadação de R$ 170 milhões aos cofres paranaense"
+            "title": "Qual é o maior produtor de café do mundo? | Exame",
+            "url": "https://exame.com/agro/qual-e-o-maior-produtor-de-cafe-do-mundo/",
+            "description": "É importante destacar que a posição dos países na produção de café pode variar ao longo do tempo, devido a fatores como <strong>mudanças climáticas, condições de mercado e políticas agrícolas</strong>."
           },
           {
-            "title": "Arrecadação - Emissão DARE Normal",
-            "url": "https://sat.sef.sc.gov.br/tax.net/Sat.Arrecadacao.Web/DARE_online/EmissaoDareOnline.aspx?receita=7692",
-            "description": "Sistema de Administração <strong>Tributária</strong> da Secretaria de Estado da Fazenda de <strong>Santa</strong> <strong>Catarina</strong>."
+            "title": "Como exportar café? Principais passos da produção ao envio - Grupo Serpa",
+            "url": "https://www.gruposerpa.com.br/como-exportar-cafe/",
+            "description": "O consumo do <strong>café</strong> atualmente é ... de sua <strong>produção</strong>. Quanto mais orgânico <strong>e</strong> comprovadamente cultivado em condições sustentáveis, maior pode ser o valor agregado ao produto. Certificações <strong>e</strong> prêmios nacionais <strong>e</strong> <strong>internacionais</strong> dedicados <strong>a</strong> <strong>café</strong> também colaboram para esse <strong>fator</strong>..."
           },
           {
-            "title": "Santa Catarina",
-            "url": "https://www.cenofisco.com.br/Composicao/ICMS-e-Outros/Sul/Santa-Catarina",
-            "description": "Informações sobre ICMS e Outros, Sul, <strong>Santa</strong> <strong>Catarina</strong>"
+            "title": "Quem é o maior produtor de café do mundo? | Universo AgroGalaxy",
+            "url": "https://universo.agrogalaxy.com.br/2022/09/02/quem-e-o-maior-produtor-de-cafe-do-mundo/",
+            "description": "Quer saber quem é o maior produtor de <strong>café</strong> do mundo? Siga <strong>a</strong> leitura no Universo AgroGalaxy <strong>e</strong> descubra tudo sobre."
           },
           {
-            "title": "Santa Catarina — Conselho Nacional de Política Fazendária CONFAZ",
-            "url": "https://www.confaz.fazenda.gov.br/legislacao/portal-nacional-da-substituicao-tributaria/santa-catarina",
-            "description": "<strong>A</strong> planilha <strong>a</strong> seguir é aplicada para as operações internas realizadas no Estado de <strong>Santa</strong> <strong>Catarina</strong> e nas operações interestaduais destinadas ao Estado de <strong>Santa</strong> <strong>Catarina</strong>. ... Ato COTEPE/ICMS 03/08 - Divulga planilha eletrônica com informações gerais do regime da substituição <strong>tributária</strong> ..."
+            "title": "Exportação de Café: vamos conhecer mais",
+            "url": "https://www.fazcomex.com.br/comex/exportacao-de-cafe-vamos-conhecer-mais/",
+            "description": "Exportação de <strong>Café</strong> saiba como funciona <strong>e</strong> confira os dados de 2024. Principais destinos das exportações de <strong>café</strong> brasileiro."
           },
           {
-            "title": "Calculadora ST - Cálculo do ICMS Substituição Tributária",
-            "url": "https://sat.sef.sc.gov.br/tax.net/Sat.SubstituicaoTributaria.Web/CalculoST.aspx",
-            "description": "Sistema de Administração <strong>Tributária</strong> da Secretaria de Estado da Fazenda de <strong>Santa</strong> <strong>Catarina</strong>."
+            "title": "Conab - Produção de café cresce 8,2% em 2023 e chega a 55,1 milhões de sacas",
+            "url": "https://www.conab.gov.br/ultimas-noticias/5323-producao-de-cafe-cresce-8-2-em-2023-e-chega-a-55-1-milhoes-de-sacas",
+            "description": "O aumento da <strong>produção</strong> na atual safra possibilitou tanto <strong>a</strong> recuperação na oferta interna quanto nas vendas ao mercado internacional. No entanto, os embarques do grão cresceram de modo mais significativo somente <strong>a</strong> partir de agosto deste ano, após <strong>a</strong> colheita da maior parte da safra. <strong>A</strong> expectativa é que <strong>a</strong> exportação de <strong>café</strong> ..."
           },
           {
-            "title": "tabela | campeonato catarinense | ge | campeonato catarinense | ge",
-            "url": "https://ge.globo.com/sc/futebol/campeonato-catarinense/",
-            "description": "Chapecoense x Criciúma: onde assistir ao vivo, horário e escalações · Veja também arbitragem e outras informações da partida válida pela 6ª rodada do Catarinense"
+            "title": "Exportação dos Cafés do Brasil atinge 29,7 milhões de sacas no acumulado de nove meses - Portal Embrapa",
+            "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/65651959/exportacao-dos-cafes-do-brasil-atinge-297-milhoes-de-sacas-no-acumulado-de-nove-meses",
+            "description": "Receita cambial soma US$ 4,17 bilhões com exportações de <strong>café</strong> no período de janeiro <strong>a</strong> setembro de 2021 O total exportado dos <strong>Cafés</strong> do Brasil, de janeiro <strong>a</strong> setembro de 2021, foi de..."
           },
           {
-            "title": "Substituição Tributária - Sef SC",
-            "url": "https://www.sef.sc.gov.br/servicos/servico/89/Substituição_Tributária",
-            "description": "A Secretaria de Estado da Fazenda ... <strong>Tributária</strong> (botão &quot;Acessar on-line&quot;, ao lado). A SEF também disponibiliza aplicativos para emissão de DARE para recolhimento do ICMS-ST por operação. Os manuais para os aplicativos encontram-se na seção &quot;Downloads&quot;, abaixo (&quot;Gerenciamento de Pagamentos por Operação&quot;). ... Os cálculos efetuados por este módulo somente são válidos para operações com destino <strong>a</strong> <strong>Santa</strong> <strong>Catarinae</strong> operações ..."
+            "title": "Exportação dos Cafés do Brasil atinge 48,17 milhões de sacas e arrecada US$ 10,14 bilhões no acumulado de doze meses — Agência Gov",
+            "url": "https://agenciagov.ebc.com.br/noticias/202408/exportacao-dos-cafes-do-brasil-atinge-48-17-milhoes-de-sacas-e-arrecada-us-10-14-bilhoes-de-receita-cambial-no-total-acumulado-de-doze-meses",
+            "description": "Exportações dos <strong>cafés</strong> verdes somaram 44,38 milhões de sacas <strong>e</strong> dos <strong>cafés</strong> industrializados 3,78 milhões de sacas, vendidas ao preço médio de US$ 210,51 no período de agosto 2023 <strong>a</strong> julho 2024"
           },
           {
-            "title": "RICMS_01 - Anexo 3 - Substituição Tributária - com redação passada",
-            "url": "https://legislacao.sef.sc.gov.br/html/regulamentos/icms/ricms_01_03.htm",
-            "description": "II – às operações de saída ... de <strong>Santa</strong> <strong>Catarina</strong>, ou de produtos dela derivados; e · III – às operações direcionadas <strong>a</strong> contribuintes que não continuem o processo de beneficiamento da madeira adquirida ou dos produtos dela derivados. ... I - fica condicionada à concessão, pelo Diretor de Administração <strong>Tributária</strong>, de regime ..."
+            "title": "Conselho dos Exportadores de Café do Brasil",
+            "url": "https://www.cecafe.com.br/en/statistics/world-production/",
+            "description": "Notícias <strong>e</strong> informações relacionadas ao setor exportador de <strong>café</strong>."
           },
           {
-            "title": "estados de Santa Catarina - Itcnet",
-            "url": "https://itcnet.com.br/ricms/index.php",
-            "description": "© 1994 - 2025 - ITC Informativo Tributário Contábil. Todos os direitos reservados"
+            "title": "Produção de café no Brasil: veja o cenário e a importância",
+            "url": "https://rehagro.com.br/blog/cenario-e-importancia-do-cafe-no-brasil/",
+            "description": "O Brasil é o maior produtor de <strong>café</strong> do mundo, além de ser o maior exportador. Veja <strong>a</strong> importância do <strong>café</strong> para o país <strong>e</strong> dados sobre <strong>a</strong> <strong>produção</strong>."
           }
         ]
       }
     ]
   },
   {
-    "totalStep": 2,
-    "question": "Qual a classificaçao tributária do refrigerente no ceará, sao paulo e santa catarina?",
-    "action": "answer",
-    "think": "Após revisar os resultados da busca, posso fornecer uma resposta concisa sobre a classificação tributária do refrigerante nos estados mencionados.",
-    "answer": "A alíquota do ICMS no Ceará é de 20% desde 01/01/2024. Em São Paulo, o refrigerante está sujeito à substituição tributária. Em Santa Catarina, o regime de substituição tributária aplica-se a refrigerantes.",
-    "references": []
+    "totalStep": 4,
+    "question": "Foram implementadas mudanças na política agrícola que afetaram o cultivo de café?",
+    "action": "search",
+    "think": "Para responder com certeza se mudanças na política agrícola afetaram o cultivo de café, é necessário identificar informações específicas sobre políticas implementadas e suas implicações para a cafeicultura. Vou buscar dados relevantes em busca direcionada.",
+    "searchQuery": "políticas agrícolas que mudaram para cafeicultura no Brasil",
+    "result": [
+      {
+        "query": "políticas agrícolas cafeicultura Brasil",
+        "results": [
+          {
+            "title": "Café no Brasil e Ementário do Café — Ministério da Agricultura e Pecuária",
+            "url": "https://www.gov.br/agricultura/pt-br/assuntos/politica-agricola/cafe/cafeicultura-brasileira",
+            "description": "A <strong>cafeicultura</strong> brasileira é, no mundo, uma das mais atentas às questões sociais e ambientais, havendo uma preocupação em garantir a produção de um café sustentável. A atividade cafeeira é desenvolvida com base em rígidas legislações trabalhistas e ambientais."
+          },
+          {
+            "title": "(PDF) Território e cafeicultura no Brasil: uma proposta de periodização",
+            "url": "https://www.researchgate.net/publication/319132879_Territorio_e_cafeicultura_no_Brasil_uma_proposta_de_periodizacao",
+            "description": "SILVA, J. G. A modernização dolorosa: estrutura agrária, fronteira <strong>agrícola</strong> e · trabalhadores rurais no <strong>Brasil</strong>. Rio de Janeiro: Zahar, 1982. SILVA, L. F. A <strong>cafeicultura</strong> brasileira no modelo tecnológico produtivista (1960- 90). Dissertação (Mestrado em <strong>Política</strong> Cientíca e Tecnológica) ..."
+          },
+          {
+            "title": "Ipea",
+            "url": "https://repositorio.ipea.gov.br/bitstream/11058/2841/1/TD_1936.pdf",
+            "description": "<strong>Fornece subsídios para a consolidação de uma política mais justa dirigida especificamente à criança de zero a seis anos de idade</strong>. Examina um conjunto representativo de experiências já adotadas para esta faixa etária, no Brasil e na América Latina, de onde podem ser extraídas lições ..."
+          },
+          {
+            "title": "Incaper - Cafeicultura",
+            "url": "https://incaper.es.gov.br/cafeicultura",
+            "description": "<strong>A cafeicultura está em todas as regiões do Estado de maneira bastante diversificada</strong>. A diversidade começa nas espécies cultivadas no Estado: Coffea arábica (arábica) e Coffea canephora (conilon)."
+          },
+          {
+            "title": "Pesquisa inédita mostra participação de mulheres na cafeicultura - Portal Embrapa",
+            "url": "https://www.embrapa.br/en/busca-de-noticias/-/noticia/63465171/pesquisa-inedita-mostra-participacao-de-mulheres-na-cafeicultura",
+            "description": "Confira as Análises e notícias da <strong>cafeicultura</strong> divulgadas pelo Observatório do Café aqui. Veja também as publicações sobre café e portfólio de tecnologias do Consórcio Pesquisa Café. ... O levantamento e a divulgação de dados podem contribuir para <strong>políticas</strong> públicas sobre a equidade de gênero no campo · Mais de 40 mil estabelecimentos <strong>agrícolas</strong> brasileiros ..."
+          },
+          {
+            "title": "Produção de café no Brasil: veja o cenário e a importância",
+            "url": "https://rehagro.com.br/blog/cenario-e-importancia-do-cafe-no-brasil/",
+            "description": "O <strong>Brasil</strong> é o maior produtor de café do mundo, de acordo com a Organização Internacional do Café, estando a frente dos Países: Vietnã, Colômbia, Indonésia, Honduras, Etiópia, Índia, Uganda, Peru e México."
+          },
+          {
+            "title": "Economia e política agrícola no Brasil",
+            "url": "https://www.grupoatomoealinea.com.br/economia-e-politica-agricola-no-brasil.html",
+            "description": "Capítulo 3 Instrumentos de <strong>Política</strong> ... rendas 3.5 <strong>Política</strong> comercial 3.6 Instrumentos de <strong>política</strong> econômica específicos para a agropecuária · Capítulo 4 A <strong>Cafeicultura</strong> e os Primórdios da Industrialização no <strong>Brasil</strong> 4.1 Fases da <strong>Cafeicultura</strong> no <strong>Brasil</strong> até 1929 4.2 Outras ..."
+          },
+          {
+            "title": "Embrapa Café - Portal Embrapa",
+            "url": "https://www.embrapa.br/cafe",
+            "description": "Acesse as informações sobre os cursos disponíveis voltados para a <strong>cafeicultura</strong> e faça sua inscrição."
+          },
+          {
+            "title": "Cafeicultura | Revista Visão Agrícola",
+            "url": "https://www.esalq.usp.br/visaoagricola/edicoes/cafeicultura",
+            "description": "<strong>Cafeicultura</strong> a pleno sol supera o vantajoso sistema agroflorestal Marcos Silveira Bernardes e Carlos Armenio Khatounian · Zoneamento <strong>agrícola</strong>: há o que se considerar? José Laércio Favarin e Antonio Carlos Baião de Oliveira · Café de montanha perfaz cerca de 40% da produção brasileira ..."
+          },
+          {
+            "title": "L8171",
+            "url": "https://www.planalto.gov.br/ccivil_03/leis/l8171.htm",
+            "description": "Presidncia da Repblica Casa Civil Subchefia para Assuntos Jurdicos · <strong>LEI N 8.171, DE 17 DE JANEIRO DE 1991</strong>"
+          },
+          {
+            "title": "CHBAGRO - Principais Tecnologias e Máquinas Agrícolas na Cafeicultura",
+            "url": "https://blog.chbagro.com.br/principais-tecnologias-e-maquinas-agricolas-na-cafeicultura",
+            "description": "Se o cafeicultor brasileiro pretende fazer parte desta evolução na produção cafeeira, cabe a ele <strong>aumentar a produção na sua lavoura de café através da tecnologia e uso de máquinas agrícolas certas e que contribuam com a produção e a gestão da atividade cafeeira</strong>."
+          },
+          {
+            "title": "A importância da cafeicultura brasileira - Nutrição de Safras",
+            "url": "https://nutricaodesafras.com.br/cafeicultura",
+            "description": "A <strong>cafeicultura</strong> é uma atividade <strong>agrícola</strong> de extrema importância econômica e histórica para o <strong>Brasil</strong>, que se mantém por séculos como o maior produtor da bebida mais consumida e apreciado do mundo. Além de estar presente no dia a dia do brasileiro, o café tem marcada importância social ..."
+          },
+          {
+            "title": "Sustentabilidade e renda da cafeicultura brasileira | Confederação da Agricultura e Pecuária do Brasil (CNA)",
+            "url": "https://www.cnabrasil.org.br/publicacoes/sustentabilidade-e-renda-da-cafeicultura-brasileira",
+            "description": "O que se pôde afirmar, segundo o estudo, é que as boas práticas <strong>agrícolas</strong> não comprometeram o desempenho econômico das propriedades rurais, o que desmistifica a crença de que a tais aplicações pudessem impactar negativamente a viabilidade econômico-financeira da <strong>cafeicultura</strong> brasileira."
+          },
+          {
+            "title": "Cafeicultura brasileira precisa de investimentos, tecnologia e políticas públicas, afirma pesquisa",
+            "url": "https://operobal.uel.br/cesa/2023/02/09/cafeicultura-brasileira-precisa-de-investimentos-tecnologia-e-politicas-publicas-afirma-pesquisa/",
+            "description": "Depois de cinco anos de dedicação, ... e de uma <strong>política</strong> pública para viabilizar a modernização do setor. O <strong>Brasil</strong> permanece como o maior produtor mundial de café, respondendo por 30% da exportação, entretanto entrega um grão de baixa qualidade, da variedade robusta, utilizado para processamento de café solúvel, por exemplo.  · A situação reflete a escolha de um modelo de <strong>cafeicultura</strong> amparado na tradição, tamanho das propriedades e na história da produção <strong>agrícola</strong> do país, ..."
+          },
+          {
+            "title": "A Geografia do Café | IBGE",
+            "url": "https://www.ibge.gov.br/geociencias/organizacao-do-territorio/analises-do-territorio/15784-a-geografia-do-cafe.html",
+            "description": "A agricultura e, em especial, a <strong>cafeicultura</strong>, tem histórica relevância geopolítica e econômica no <strong>Brasil</strong>, tendo moldado as diversas formas de apropriação e uso do imenso patrimônio natural tropical e subtropical que formam o País. O café constitui o foco dessa linha de pesquisa, colocando em destaque um produto que moldou não só a história econômica do País, como também a sua identidade cultural, social e <strong>política</strong> ..."
+          },
+          {
+            "title": "Território e cafeicultura no Brasil: uma proposta de periodização | GEOUSP Espaço e Tempo (Online)",
+            "url": "https://www.revistas.usp.br/geousp/article/view/98588/195398",
+            "description": "Departamento de Geografia - Av. Prof. Lineu Prestes, 338 Cidade Universitária - CEP: 05508-000 - Caixa Postal 72042 - São Paulo"
+          },
+          {
+            "title": "Café: Cafeicultura brasileira - A complexidade entre ser eficiente economicamente e não se expor a riscos | Confederação da Agricultura e Pecuária do Brasil (CNA)",
+            "url": "https://cnabrasil.org.br/publicacoes/cafe-cafeicultura-brasileira-a-complexidade-entre-ser-eficiente-economicamente-e-nao-se-expor-a-riscos",
+            "description": "Café: <strong>Cafeicultura</strong> brasileira - A complexidade entre ser eficiente economicamente e não se expor a riscos"
+          },
+          {
+            "title": "Cafeicultura sustentável torna Seguro Rural mais barato — Ministério da Agricultura e Pecuária",
+            "url": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/cafeicultura-sustentavel-torna-seguro-rural-mais-barato",
+            "description": "O Ministério da Agricultura e ... “<strong>Cafeicultura</strong> Brasileira Sustentável – Sistema de Compensação de Crédito de Carbono na Apólice de Seguro Rural no <strong>Brasil</strong>”. O projeto utiliza créditos de carbono para beneficiar financeiramente os produtores que adotarem práticas sustentáveis. Na prática isso significa que os cafeicultores brasileiros terão uma proteção financeira adicional contra os riscos <strong>agrícolas</strong>..."
+          },
+          {
+            "title": "Pesquisa garante protagonismo da cafeicultura brasileira - Portal Embrapa",
+            "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/79785616/pesquisa-garante-protagonismo-da-cafeicultura-brasileira",
+            "description": "No dia 14 de abril é comemorado o Dia Mundial do Café e o <strong>Brasil</strong> tem muito a celebrar nessa data. O país é o maior produtor, exportador e segundo maior consumidor de café em nível mundial."
+          },
+          {
+            "title": "Políticas Públicas para a Agropecuária Brasileira - Portal Gov.br",
+            "url": "https://www.gov.br/agricultura/pt-br/assuntos/politica-agricola/outras-publicacoes/desenvolvimento-sustentavel.pdf",
+            "description": "Café Um dos principais setores do Agronegócio brasileiro, possui o Fundo de Defesa da Economia cafeeira (Funcafé) e o Conselho Deliberativo da <strong>Política</strong> do Café (CDPC)."
+          }
+        ]
+      },
+      {
+        "query": "impacto políticas agrícolas produção café Brasil",
+        "results": [
+          {
+            "title": "Café no Brasil e Ementário do Café — Ministério da Agricultura e Pecuária",
+            "url": "https://www.gov.br/agricultura/pt-br/assuntos/politica-agricola/cafe/cafeicultura-brasileira",
+            "description": "O setor cafeeiro conta com o Fundo ... <strong>e</strong> <strong>produção</strong>, à qualificação da mão de obra, à publicidade <strong>e</strong> promoção dos <strong>cafés</strong> brasileiros, apoiando <strong>a</strong> competitividade ao negócio <strong>café</strong>, com linhas de crédito para financiamentos do custeio, estocagem, <strong>e</strong> aquisição de <strong>café</strong>, <strong>e</strong> capital de giro para cooperativas, indústrias de torrefação solúvel <strong>e</strong> exportadores. <strong>A</strong> organização do setor está estruturada no Conselho Deliberativo da <strong>Política</strong> do <strong>Café</strong> - ..."
+          },
+          {
+            "title": "O impacto da cultura do café no meio ambiente do Brasil do século XVIII ao XXI, artigo de Sandra Marcondes",
+            "url": "https://www.ecodebate.com.br/2015/10/09/o-impacto-da-cultura-do-cafe-no-meio-ambiente-do-brasil-do-seculo-xviii-ao-xxi-artigo-de-sandra-marcondes/",
+            "description": "Portanto, deduz-se que um importante fator responsável pelo impulso da produção orgânica é o próprio consumidor, muito embora o produto orgânico ainda esteja carente de políticas de modo a <strong>reduzir os aproximados 30% a mais no preço em comparação aos produtos convencionais</strong>."
+          },
+          {
+            "title": "Impacto de exportação do café na economia do Brasil: análise da matriz de insumo-produto. - Portal Embrapa",
+            "url": "https://www.embrapa.br/busca-de-publicacoes/-/publicacao/110324/impacto-de-exportacao-do-cafe-na-economia-do-brasil-analise-da-matriz-de-insumo-produto",
+            "description": "Por sua vez, <strong>o café do Brasil tem ocupado importante posição na economia mundial do setor cafeeiro, de 20% a 35% da produção mundial</strong>. Este trabalho tem como objetivo avaliar o impacto da exportação do café na economia do País, especificamente o impacto na indução do produto interno ..."
+          },
+          {
+            "title": "Produção de Café no Brasil",
+            "url": "https://www.ibge.gov.br/explica/producao-agropecuaria/cafe/br",
+            "description": "Eventuais discrepâncias entre a <strong>produção</strong> de um estado e a soma das produções de seus municípios podem se dever à desidentificação necessária para proteger o sigilo dos informantes."
+          },
+          {
+            "title": "Café e Economia Brasileira: O Impacto do Café no PIB - AM Produtos Online",
+            "url": "https://amdigitalprodutos.com.br/inicio/cafe-e-economia-brasileira/",
+            "description": "Sua produção e exportação têm um impacto significativo no Produto Interno Bruto do Brasil, <strong>gerando empregos, sustentando comunidades rurais e contribuindo para a economia local</strong>. Adicionalmente, o café brasileiro continua a ser reconhecido mundialmente por sua qualidade."
+          },
+          {
+            "title": "O Ciclo do Café: Influência e Legado na História Brasileira - VirouHistoria.com",
+            "url": "https://virouhistoria.com/ciclo-do-cafe-historia-brasileira/",
+            "description": "Explore <strong>a</strong> fascinante história do Ciclo do <strong>Café</strong> no <strong>Brasil</strong>, desde suas origens até o <strong>impacto</strong> econômico <strong>e</strong> social na sociedade brasileira."
+          },
+          {
+            "title": "Produção dos Cafés do Brasil ocupa apenas 0,73% da área explorada com atividades agrícolas no território nacional - Portal Embrapa",
+            "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/40327559/producao-dos-cafes-do-brasil-ocupa-apenas-073-da-area-explorada-com-atividades-agricolas-no-territorio-nacional",
+            "description": "A propósito desses números, <strong>a produção de café no Brasil utiliza apenas 0,73% da área explorada com atividade agrícola</strong>, que é de 256,8 milhões de hectares, pois a produção de café está presente em apenas 1,86 milhão de hectares em 2018. Esses dados e análises da produção dos ..."
+          },
+          {
+            "title": "Ciclo do café: resumo, características, consequências - Brasil Escola",
+            "url": "https://brasilescola.uol.com.br/historiab/economia-cafeeira.htm",
+            "description": "Entenda o que foi o ciclo do <strong>café</strong>, suas características <strong>e</strong> consequências para o cenário socioeconômico brasileiro."
+          },
+          {
+            "title": "Produção de café no Brasil: veja o cenário e a importância",
+            "url": "https://rehagro.com.br/blog/cenario-e-importancia-do-cafe-no-brasil/",
+            "description": "O <strong>Brasil</strong> é o maior produtor de <strong>café</strong> do mundo, além de ser o maior exportador. Veja <strong>a</strong> importância do <strong>café</strong> para o país <strong>e</strong> dados sobre <strong>a</strong> <strong>produção</strong>."
+          },
+          {
+            "title": "Plantação de café é potencializada no sistema agroflorestal - Canal Agro Estadão",
+            "url": "https://summitagro.estadao.com.br/tendencias-e-tecnologia/plantacao-de-cafe-e-potencializada-no-sistema-agroflorestal/",
+            "description": "Produto mais importante da economia do Brasil durante boa parte de sua história, <strong>o café gera uma relevante fração da riqueza nacional</strong>, segundo dados divulgados pela Empresa Brasileira de Pesquisa Agropecuária (Embrapa): US$ 2 bilhões anuais, que significam mais de 2% do valor total de ..."
+          },
+          {
+            "title": "Quais são os maiores produtores de café do Brasil?",
+            "url": "https://globorural.globo.com/agricultura/cafe/noticia/2024/11/quais-sao-os-maiores-produtores-de-cafe-do-brasil.ghtml",
+            "description": "<strong>Minas Gerais é, de longe, o maior produtor de café do Brasil, responsável por mais de 50% da safra nacional, em especial de arábica</strong>. A região do sul de Minas é uma das mais tradicionais, e um exemplo de alta produtividade é a Fazenda Santa Inês, com produção de cerca de 1.500 sacas ..."
+          },
+          {
+            "title": "Brasil: a nação do café | Conexão Safra",
+            "url": "https://conexaosafra.com/geral/brasil-a-nacao-do-cafe/",
+            "description": "Historicamente, o <strong>café</strong> tem um importante papel para o desenvolvimento socioeconômico do <strong>Brasil</strong> <strong>e</strong> da sociedade brasileira."
+          },
+          {
+            "title": "Mudanças climáticas podem afetar produção de café no Brasil, diz estudo | CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/mudancas-climaticas-podem-afetar-producao-de-cafe-no-brasil-diz-estudo/",
+            "description": "<strong>Café</strong> arábica deve ser &quot;drasticamente&quot; menos adequado para o cultivo nas atuais regiões produtoras de <strong>café</strong> até 2050"
+          },
+          {
+            "title": "L8171",
+            "url": "https://www.planalto.gov.br/ccivil_03/leis/l8171.htm",
+            "description": "II - desenvolver <strong>e</strong> manter atualizada ... <strong>e</strong> <strong>impactos</strong> dos programas dos planos plurianuais. ... Pargrafo nico. o Ministrio da Agricultura <strong>e</strong> Reforma Agrria (Mara) autorizado a instituir o Sistema Nacional de Pesquisa Agropecuria (SNPA), sob a coordenao da Empresa Brasileira de Pesquisa ..."
+          },
+          {
+            "title": "A Importância da Logística na Produção e Exportação de Café no Brasil - PagBem",
+            "url": "https://pagbem.com.br/a-importancia-da-logistica-na-producao-e-exportacao-de-cafe-no-brasil/",
+            "description": "<strong>A</strong> cafeicultura é uma das atividades <strong>agrícolas</strong> mais importantes do <strong>Brasil</strong>, posicionando o país como um dos maiores produtores de <strong>café</strong> do mundo. Neste artigo, vamos explorar os fatores que impulsionam essa posição, analisar o <strong>impacto</strong> econômico, examinar <strong>a</strong> cadeia produtiva <strong>e</strong> empregatícia ..."
+          },
+          {
+            "title": "SciELO Brazil - Impacto das mudanças climáticas no zoneamento agroclimático do café no Brasil Impacto das mudanças climáticas no zoneamento agroclimático do café no Brasil",
+            "url": "https://www.scielo.br/j/pab/a/T9BXP8Dz7fMkxPNYQDfnn5s/?lang=pt",
+            "description": "A partir das indicações do último relatório do IPCC (International Pannel of Climatic Change),..."
+          },
+          {
+            "title": "Trajetória do agro - Portal Embrapa",
+            "url": "https://www.embrapa.br/visao-de-futuro/trajetoria-do-agro",
+            "description": "No <strong>Brasil</strong>, o setor encontra-se ... Brasileira da Indústria de Máquinas <strong>e</strong> Equipamentos (Abimaq). O programa Moderfrota, liderado pelo Banco Nacional de Desenvolvimento Econômico Social (BNDES), também teve <strong>impacto</strong> na modernização da maquinaria <strong>agrícola</strong>, com financiamento para aquisição de tratores, colheitadeiras, plataformas de corte, pulverizadores, plantadeiras, semeadoras <strong>e</strong> equipamentos para beneficiamento de <strong>café</strong>. Grande parte da <strong>produção</strong> do agro brasileiro ..."
+          },
+          {
+            "title": "A Geografia do Café | IBGE",
+            "url": "https://www.ibge.gov.br/geociencias/organizacao-do-territorio/analises-do-territorio/15784-a-geografia-do-cafe.html",
+            "description": "O <strong>café</strong> constitui o foco dessa ... social <strong>e</strong> <strong>política</strong> <strong>e</strong>, ainda hoje, está no centro do entendimento contemporâneo da dinâmica territorial da <strong>produção</strong> agropecuária brasileira. Trata-se, portanto, de estudar o mundo geográfico do <strong>café</strong>, o sistema de lugares que essa socioeconomia cria: os lugares responsáveis pelo fornecimento de insumos <strong>e</strong> máquinas <strong>agrícolas</strong>, os lugares ..."
+          },
+          {
+            "title": "Gestão da produção brasileira de café: uma questão de segurança alimentar em um cenário marcado pelas alterações do clima | Revista de Gestão e Secretariado",
+            "url": "https://ojs.revistagesec.org.br/secretariado/article/view/2597",
+            "description": "<strong>A</strong> vista disso, foi desenvolvido ... de <strong>impactos</strong> negativos oriundos das alterações climáticas. Por fim, concluiu-se que além de ser lucrativo produto <strong>agrícola</strong> à economia do país, o <strong>café</strong> se apresenta como um dos alimentos mais frequentemente consumido pelo brasileiro, promovendo quaisquer eventos que possam vir <strong>a</strong> prejudicar sua <strong>produção</strong> <strong>a</strong> questão ..."
+          },
+          {
+            "title": "Produção de café enfrenta desafios no Brasil com adversidade das condições climáticas | Banco BRB | G1",
+            "url": "https://g1.globo.com/globonews/jornal-globonews-edicao-das-18/especial-publicitario/banco-brb/noticia/2024/09/16/producao-de-cafe-enfrenta-desafios-no-brasil-com-adversidade-das-condicoes-climaticas.ghtml",
+            "description": "Como os produtores precisam investir ... os <strong>impactos</strong> da seca <strong>e</strong> irrigar <strong>a</strong> plantação, os preços tendem <strong>a</strong> aumentar, elevando os custos <strong>e</strong> o valor final para o consumidor. Ainda diante dessa realidade <strong>e</strong> das adversidades climáticas vividas no país, o <strong>Brasil</strong> lidera <strong>a</strong> <strong>produção</strong> mundial de <strong>café</strong> para <strong>a</strong> safra de 2024-2025, com 33% das 176,2 milhões de sacas de 60kg que serão produzidas no mundo, segundo estimativa da Secretaria de <strong>Política</strong> <strong>Agrícola</strong> (SPA) do ..."
+          }
+        ]
+      }
+    ]
   }
 ]

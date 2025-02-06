@@ -57,36 +57,34 @@ Generate a JSON response following JSON schema.
 <steps>
 
 At step 1, you took the **search** action and look for external information for the question: "how old is jina ai ceo?".
-In particular, you tried to search for the following keywords: "jina ai ceo age".
+In particular, you tried to search for the following keywords: "William Duarte UX designer".
 You found quite some information and add them to your URL list and **visit** them later when needed. 
 
 
 At step 2, you took the **visit** action and deep dive into the following URLs:
-https://www.linkedin.com/in/hxiao87
-https://www.crunchbase.com/person/han-xiao
+https://www.linkedin.com/in/william-duarte-75240329
 You found some useful information on the web and add them to your knowledge for future reference.
 
 
 At step 3, you took the **search** action and look for external information for the question: "how old is jina ai ceo?".
-In particular, you tried to search for the following keywords: "Han Xiao birthdate, Jina AI founder birthdate".
+In particular, you tried to search for the following keywords: "William Duarte birthdate, ux senior designer".
 You found quite some information and add them to your URL list and **visit** them later when needed. 
 
 
 At step 4, you took the **search** action and look for external information for the question: "how old is jina ai ceo?".
-In particular, you tried to search for the following keywords: han xiao birthday. 
+In particular, you tried to search for the following keywords: william duarte birthday. 
 But then you realized you have already searched for these keywords before.
 You decided to think out of the box or cut from a completely different angle.
 
 
 At step 5, you took the **search** action and look for external information for the question: "how old is jina ai ceo?".
-In particular, you tried to search for the following keywords: han xiao birthday. 
+In particular, you tried to search for the following keywords: william duarte birthday. 
 But then you realized you have already searched for these keywords before.
 You decided to think out of the box or cut from a completely different angle.
 
 
 At step 6, you took the **visit** action and deep dive into the following URLs:
-https://kpopwall.com/han-xiao/
-https://www.idolbirthdays.net/han-xiao
+https://www.linkedin.com/in/william-duarte-75240329
 You found some useful information on the web and add them to your knowledge for future reference.
 
 
