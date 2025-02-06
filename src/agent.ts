@@ -18,6 +18,37 @@ import {LocalModelClient} from "./tools/local-model-client";
 // Variável global para o client do modelo
 let activeModelClient: GoogleGenerativeAI | LocalModelClient;
 
+// Função para inicializar o cliente do modelo
+function initializeModelClient(modelName?: string) {
+  if (modelName) {
+    modelConfigs.agent.model = modelName;
+    console.log(`Usando o modelo especificado: ${modelName}`);
+    if (modelName.toLowerCase().includes('qwen2.5') || modelName.toLowerCase().includes('deepseek')) {
+      activeModelClient = new LocalModelClient(LOCAL_MODEL_ENDPOINT);
+      console.log(`Modelo local detectado. Usando o endpoint local: ${LOCAL_MODEL_ENDPOINT}`);
+    } else {
+      activeModelClient = new GoogleGenerativeAI(GEMINI_API_KEY);
+      console.log("Modelo remoto detectado. Usando o endpoint remoto do Gemini.");
+    }
+  } else {
+    console.log(`Usando o modelo padrão: ${modelConfigs.agent.model}`);
+    if (USE_LOCAL_MODEL) {
+      activeModelClient = new LocalModelClient(LOCAL_MODEL_ENDPOINT);
+      console.log("Usando o modelo local (configurado via USE_LOCAL_MODEL = true).");
+    } else {
+      activeModelClient = new GoogleGenerativeAI(GEMINI_API_KEY);
+      console.log("Usando o modelo remoto Gemini.");
+    }
+  }
+}
+
+// Função para garantir que o cliente está inicializado
+function ensureModelClientInitialized() {
+  if (!activeModelClient) {
+    initializeModelClient();
+  }
+}
+
 async function sleep(ms: number) {
   const seconds = Math.ceil(ms / 1000);
   console.log(`Waiting ${seconds}s...`);
@@ -331,6 +362,9 @@ function attemptJSONParse(text: string): any {
 export async function getResponse(question: string, tokenBudget: number = 1_000_000,
                                   maxBadAttempts: number = 3,
                                   existingContext?: Partial<TrackerContext>): Promise<{ result: StepAction; context: TrackerContext }> {
+  // Garante que o cliente está inicializado
+  ensureModelClientInitialized();
+  
   const context: TrackerContext = {
     tokenTracker: existingContext?.tokenTracker || new TokenTracker(tokenBudget),
     actionTracker: existingContext?.actionTracker || new ActionTracker()
@@ -767,26 +801,8 @@ export async function main() {
   const question = process.argv[2] || "";
   const modelArg = process.argv[3];
 
-  if (modelArg) {
-    modelConfigs.agent.model = modelArg;
-    console.log(`Usando o modelo especificado: ${modelArg}`);
-    if (modelArg.toLowerCase().includes('qwen2.5') || modelArg.toLowerCase().includes('deepseek')) {
-      activeModelClient = new LocalModelClient(LOCAL_MODEL_ENDPOINT);
-      console.log(`Modelo local detectado. Usando o endpoint local: ${LOCAL_MODEL_ENDPOINT}`);
-    } else {
-      activeModelClient = new GoogleGenerativeAI(GEMINI_API_KEY);
-      console.log("Modelo remoto detectado. Usando o endpoint remoto do Gemini.");
-    }
-  } else {
-    console.log(`Usando o modelo padrão: ${modelConfigs.agent.model}`);
-    if (USE_LOCAL_MODEL) {
-      activeModelClient = new LocalModelClient(LOCAL_MODEL_ENDPOINT);
-      console.log("Usando o modelo local (configurado via USE_LOCAL_MODEL = true).");
-    } else {
-      activeModelClient = new GoogleGenerativeAI(GEMINI_API_KEY);
-      console.log("Usando o modelo remoto Gemini.");
-    }
-  }
+  // Inicializa o cliente do modelo com o argumento fornecido
+  initializeModelClient(modelArg);
 
   const { result: finalStep, context: tracker } = await getResponse(question) as { result: AnswerAction; context: TrackerContext };
   

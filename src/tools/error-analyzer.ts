@@ -56,8 +56,8 @@ Generate a JSON response following JSON schema.
 <input>
 <steps>
 
-At step 1, you took the **search** action and look for external information for the question: "how old is jina ai ceo?".
-In particular, you tried to search for the following keywords: "William Duarte UX designer".
+At step 1, you took the **search** action and look for external information for the question: "what are William Duarte's main UX design achievements?".
+In particular, you tried to search for the following keywords: "William Duarte UX designer portfolio projects".
 You found quite some information and add them to your URL list and **visit** them later when needed. 
 
 
@@ -66,19 +66,19 @@ https://www.linkedin.com/in/william-duarte-75240329
 You found some useful information on the web and add them to your knowledge for future reference.
 
 
-At step 3, you took the **search** action and look for external information for the question: "how old is jina ai ceo?".
-In particular, you tried to search for the following keywords: "William Duarte birthdate, ux senior designer".
+At step 3, you took the **search** action and look for external information for the question: "what are William Duarte's main UX design achievements?".
+In particular, you tried to search for the following keywords: "William Duarte UX case studies, design leadership".
 You found quite some information and add them to your URL list and **visit** them later when needed. 
 
 
-At step 4, you took the **search** action and look for external information for the question: "how old is jina ai ceo?".
-In particular, you tried to search for the following keywords: william duarte birthday. 
+At step 4, you took the **search** action and look for external information for the question: "what are William Duarte's main UX design achievements?".
+In particular, you tried to search for the following keywords: "William Duarte design portfolio". 
 But then you realized you have already searched for these keywords before.
 You decided to think out of the box or cut from a completely different angle.
 
 
-At step 5, you took the **search** action and look for external information for the question: "how old is jina ai ceo?".
-In particular, you tried to search for the following keywords: william duarte birthday. 
+At step 5, you took the **search** action and look for external information for the question: "what are William Duarte's main UX design achievements?".
+In particular, you tried to search for the following keywords: "William Duarte UX portfolio". 
 But then you realized you have already searched for these keywords before.
 You decided to think out of the box or cut from a completely different angle.
 
@@ -93,23 +93,23 @@ At step 7, you took **answer** action but evaluator thinks it is not a good answ
 </steps>
 
 Original question: 
-how old is jina ai ceo?
+what are William Duarte's main UX design achievements?
 
 Your answer: 
-The age of the Jina AI CEO cannot be definitively determined from the provided information.
+Based on the available information, William Duarte is a UX designer with experience, but specific achievements cannot be determined.
 
 The evaluator thinks your answer is bad because: 
-The answer is not definitive and fails to provide the requested information.  Lack of information is unacceptable, more search and deep reasoning is needed.
+The answer lacks specific details about achievements and projects. More thorough research into portfolio work, case studies, and professional impact is needed.
 </input>
 
 
 <output>
 {
-  "recap": "The search process consisted of 7 steps with multiple search and visit actions. The initial searches focused on basic biographical information through LinkedIn and Crunchbase (steps 1-2). When this didn't yield the specific age information, additional searches were conducted for birthdate information (steps 3-5). The process showed signs of repetition in steps 4-5 with identical searches. Final visits to entertainment websites (step 6) suggested a loss of focus on reliable business sources.",
+  "recap": "The search process involved 7 steps focusing on finding UX design achievements. Initial searches targeted portfolio and projects (steps 1-2), followed by case studies and leadership experience (step 3). The process showed repetition in portfolio searches (steps 4-5) and revisited the same LinkedIn profile twice (steps 2 and 6) without exploring other professional platforms or design communities.",
   
-  "blame": "The root cause of failure was getting stuck in a repetitive search pattern without adapting the strategy. Steps 4-5 repeated the same search, and step 6 deviated to less reliable entertainment sources instead of exploring business journals, news articles, or professional databases. Additionally, the process didn't attempt to triangulate age through indirect information like education history or career milestones.",
+  "blame": "The search failed due to over-reliance on basic portfolio searches and limited source diversity. The process didn't explore design platforms like Behance or Dribbble, industry recognition, or specific project impacts. Steps 4-6 showed stagnation by repeating searches and revisiting the same source.",
   
-  "improvement": "1. Avoid repeating identical searches and implement a strategy to track previously searched terms. 2. When direct age/birthdate searches fail, try indirect approaches like: searching for earliest career mentions, finding university graduation years, or identifying first company founding dates. 3. Focus on high-quality business sources and avoid entertainment websites for professional information. 4. Consider using industry event appearances or conference presentations where age-related context might be mentioned. 5. If exact age cannot be determined, provide an estimated range based on career timeline and professional achievements."
+  "improvement": "Diversify sources by exploring design-specific platforms, conference presentations, and industry publications. Focus on quantifiable impacts of UX projects, team leadership experiences, and specific design methodologies implemented rather than just searching for general portfolio information."
 }
 </output>
 </example>
